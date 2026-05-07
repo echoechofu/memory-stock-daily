@@ -1,0 +1,116 @@
+dram:
+  - DRAM contract price
+  - DRAM spot price
+  - conventional DRAM
+  - server DRAM
+  - mobile DRAM
+  - PC DRAM
+  - DDR5
+  - LPDDR5
+  - DRAM shortage
+  - DRAM supply
+  - DRAM demand
+  - DRAM price hike
+  - DRAM ASP
+
+nand:
+  - NAND contract price
+  - NAND spot price
+  - NAND Flash
+  - enterprise SSD
+  - client SSD
+  - eSSD
+  - UFS
+  - eMMC
+  - NAND shortage
+  - NAND supply
+  - NAND price hike
+  - SSD price
+  - SSD demand
+
+hbm:
+  - HBM
+  - HBM3E
+  - HBM4
+  - high bandwidth memory
+  - HBM shortage
+  - HBM sold out
+  - HBM capacity
+  - HBM supply
+  - HBM demand
+  - HBM qualification
+  - NVIDIA qualification
+  - CoWoS
+  - TSV
+  - advanced packaging
+
+cycle:
+  - supply tightness
+  - shortage
+  - oversupply
+  - inventory correction
+  - inventory days
+  - capacity allocation
+  - capacity expansion
+  - wafer capacity
+  - production cut
+  - utilization rate
+  - ASP
+  - contract price
+  - spot price
+  - price negotiation
+
+capex:
+  - CapEx
+  - capital expenditure
+  - capacity expansion
+  - new fab
+  - wafer starts
+  - equipment investment
+  - TSV equipment
+  - HBM capacity expansion
+  - oversupply risk
+
+downstream_demand:
+  - AI server
+  - data center demand
+  - hyperscaler CapEx
+  - GPU shipment
+  - NVIDIA Blackwell
+  - cloud AI demand
+  - server shipment
+  - memory cost
+  - component shortage
+  - PC price increase
+  - smartphone price increase
+
+earnings_revision:
+  - EPS estimate raised
+  - EPS revision
+  - price target raised
+  - analyst upgrade
+  - earnings estimate
+  - gross margin guidance
+  - revenue guidance
+  - guidance raised
+  - guidance cut
+
+risk_signals:
+  price_slowdown:
+    - price growth slows
+    - price decline
+    - contract price flat
+    - spot price weakness
+  hbm_competition:
+    - Samsung HBM qualification
+    - HBM price pressure
+    - HBM oversupply
+  capex_overheat:
+    - aggressive CapEx
+    - capacity expansion
+    - new fab
+    - oversupply risk
+  earnings_risk:
+    - EPS estimate cut
+    - guidance cut
+    - gross margin pressure

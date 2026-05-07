@@ -1,0 +1,42 @@
+core_stocks:
+  - ticker: MU
+    name: Micron
+    category: DRAM/HBM/NAND
+  - ticker: SNDK
+    name: SanDisk
+    category: NAND/SSD
+  - ticker: NVDA
+    name: NVIDIA
+    category: AI GPU downstream demand
+  - ticker: SOXX
+    name: iShares Semiconductor ETF
+    category: semiconductor benchmark
+  - ticker: SMH
+    name: VanEck Semiconductor ETF
+    category: semiconductor benchmark
+
+competitors:
+  - Samsung
+  - SK hynix
+  - SanDisk
+  - Western Digital
+
+downstream:
+  - NVIDIA
+  - Microsoft
+  - Amazon
+  - Meta
+  - Alphabet
+  - Apple
+  - Dell
+  - Supermicro
+  - Lenovo
+  - HP
+
+optional_stocks:
+  - ticker: "000660.KS"
+    name: SK hynix
+    market: KR
+  - ticker: "005930.KS"
+    name: Samsung Electronics
+    market: KR

@@ -1,0 +1,34 @@
+# Environment variables (contains API keys)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# Logs
+*.log
+memory-watch.log
+
+# Data
+data/raw/
+data/processed/
+
+# Reports (optional - generated daily)
+reports/*.md
+!reports/.gitkeep
+
+# OS
+.DS_Store
+*.swp
+*.swo
+
+# Claude Code
+.claude/
+
+# MCP config (may contain credentials)
+.mcp.json

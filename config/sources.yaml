@@ -1,0 +1,61 @@
+trendforce:
+  name: TrendForce
+  base_url: https://www.trendforce.org
+  press_center: https://www.trendforce.org/press/
+  categories:
+    - DRAM
+    - NAND Flash
+    - Semiconductor
+    - Memory Price
+  priority: high
+  retention_days: 7
+  max_articles: 20
+
+news_sources:
+  - name: Yahoo Finance RSS
+    url: https://finance.yahoo.com/news/rss
+    priority: medium
+  - name: Tom's Hardware
+    base_url: https://www.tomshardware.com
+    priority: medium
+  - name: Reuters
+    base_url: https://www.reuters.com
+    priority: high
+  - name: The Register
+    base_url: https://www.theregister.com
+    priority: low
+
+company_ir:
+  micron:
+    name: Micron
+    ir_url: https://investors.micron.com/news
+  sandisk:
+    name: SanDisk
+    ir_url: https://www.westerndigital.com/en-us/investors
+  nvidia:
+    name: NVIDIA
+    ir_url: https://investor.nvidia.com
+  sk_hynix:
+    name: SK hynix
+    ir_url: https://www.skhynix.com/english/ir/news/press.do
+  samsung:
+    name: Samsung
+    ir_url: https://www.samsung.com/global/ir/news/news.do
+
+evidence_levels:
+  high:
+    - TrendForce
+    - company IR
+    - Reuters
+    - Bloomberg
+    - official earnings
+    - SEC filings
+  medium:
+    - Tom's Hardware
+    - DigiTimes
+    - The Register
+    - Yahoo Finance转载
+  low:
+    - 自媒体
+    - 无来源博客
+    - 单纯行情评论
