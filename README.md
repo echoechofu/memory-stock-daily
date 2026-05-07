@@ -1,6 +1,7 @@
 # 存储股情报局 📊
+### memory-stock-daily
 
-> 每日自动追踪 DRAM / NAND / HBM 价格信号 + 存储股行情，AI 生成中文早报推送 Telegram
+> Automated daily intelligence for memory and semiconductor stocks. Every morning: DRAM/NAND/HBM prices, macro signals, IR updates → AI Chinese brief to Telegram.
 
 ## 这是什么
 
