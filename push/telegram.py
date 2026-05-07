@@ -1,15 +1,30 @@
 """
 Telegram 推送模块
 
-从环境变量读取配置:
-- TELEGRAM_BOT_TOKEN: Bot Token
-- TELEGRAM_CHAT_ID: 目标 Chat ID
+支持双账号推送，从环境变量读取:
+- TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID: 账号1
+- TELEGRAM_BOT_TOKEN_2 / TELEGRAM_CHAT_ID_2: 账号2（可选）
 """
 import os
 import logging
-from typing import Optional
+from typing import Optional, Tuple, List
 
 logger = logging.getLogger(__name__)
+
+
+def _get_all_bots() -> List[Tuple[str, str]]:
+    """返回所有 (bot_token, chat_id) 组合"""
+    bots = []
+    token1 = os.getenv("TELEGRAM_BOT_TOKEN")
+    chat1 = os.getenv("TELEGRAM_CHAT_ID")
+    if token1 and chat1:
+        bots.append((token1, chat1))
+
+    token2 = os.getenv("TELEGRAM_BOT_TOKEN_2")
+    chat2 = os.getenv("TELEGRAM_CHAT_ID_2")
+    if token2 and chat2:
+        bots.append((token2, chat2))
+    return bots
 
 
 def _clean_markdown(text: str) -> str:
@@ -48,22 +63,8 @@ def _clean_markdown(text: str) -> str:
     return "\n".join(cleaned_lines)
 
 
-def send_telegram_message(text: str) -> bool:
-    """
-    发送 Telegram 消息
-
-    - 从环境变量读取 token 和 chat_id
-    - 长文本自动切分（单条最多 3500 字符）
-    - 清理 Markdown 后发送（避免 Telegram 解析错误）
-    - 失败只记录日志，不影响主流程
-    """
-    bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
-    chat_id = os.getenv("TELEGRAM_CHAT_ID")
-
-    if not bot_token or not chat_id:
-        logger.warning("Telegram 配置未完成（TELEGRAM_BOT_TOKEN 或 TELEGRAM_CHAT_ID 缺失），跳过推送")
-        return False
-
+def _send_single(text: str, bot_token: str, chat_id: str) -> bool:
+    """发送给单个 Telegram 账号"""
     import requests
 
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
@@ -71,10 +72,8 @@ def send_telegram_message(text: str) -> bool:
     # 清理 Markdown 语法
     text = _clean_markdown(text)
 
-    # 单条消息最大 3500 字符（留余量）
+    # 单条消息最大 3500 字符
     max_length = 3500
-
-    # 切分长消息
     messages = []
     if len(text) > max_length:
         lines = text.split("\n")
@@ -86,7 +85,6 @@ def send_telegram_message(text: str) -> bool:
                 current = line
             else:
                 current += "\n" + line if current else line
-
         if current:
             messages.append(current)
     else:
@@ -100,16 +98,30 @@ def send_telegram_message(text: str) -> bool:
                 "text": msg,
                 "disable_web_page_preview": True
             }, timeout=30)
-
             if response.status_code != 200:
-                logger.error(f"Telegram 推送失败: {response.text}")
+                logger.error(f"Telegram 推送失败（{chat_id}）: {response.text}")
                 success = False
-
         except Exception as e:
-            logger.error(f"Telegram 推送异常: {e}")
+            logger.error(f"Telegram 推送异常（{chat_id}）: {e}")
             success = False
-
     return success
+
+
+def send_telegram_message(text: str) -> bool:
+    """
+    发送 Telegram 消息（支持多账号）
+
+    - 读取所有配置的 bot/chat 组合并逐一发送
+    - 任一账号失败不影响其他账号
+    - 全部失败才返回 False
+    """
+    bots = _get_all_bots()
+    if not bots:
+        logger.warning("Telegram 配置未完成，跳过推送")
+        return False
+
+    results = [_send_single(text, token, chat) for token, chat in bots]
+    return all(results)
 
 
 def send_telegram_with_retry(text: str, max_retries: int = 3) -> bool:
