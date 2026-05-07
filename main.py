@@ -49,11 +49,18 @@ def _jaccard_bigrams(bigrams1: set, bigrams2: set) -> float:
     return inter / union if union > 0 else 0.0
 
 
+def _is_trendforce(article: Dict) -> bool:
+    """判断文章是否来自 TrendForce"""
+    src = article.get("source", "")
+    return "TrendForce" in src or "trendforce" in src.lower()
+
+
 def _deduplicate_articles(articles: List[Dict], sim_threshold: float = 0.6) -> List[Dict]:
     """
-    两层去重：
-    1. URL 精确去重（优先）
+    两层去重，TrendForce 来源优先：
+    1. URL 精确去重（保留任一条）
     2. 标题 Bigram Jaccard 相似度去重（阈值默认 0.6）
+       相似时：TrendForce 文章保留，通用新闻重复篇丢弃
     """
     # 第一层：URL 去重
     seen_urls = set()
@@ -64,24 +71,98 @@ def _deduplicate_articles(articles: List[Dict], sim_threshold: float = 0.6) -> L
             seen_urls.add(url)
             url_deduped.append(a)
 
-    # 第二层：标题 bigram Jaccard 去重
+    # 第二层：标题 bigram Jaccard 去重，TrendForce 优先
     kept = []
     for a in url_deduped:
         title = a.get("title", "")
         a_bigrams = _title_bigrams(title)
-        is_duplicate = False
-        for kept_a in kept:
+        a_is_tf = _is_trendforce(a)
+        skip = False
+
+        for i, kept_a in enumerate(kept):
             k_bigrams = _title_bigrams(kept_a.get("title", ""))
             if _jaccard_bigrams(a_bigrams, k_bigrams) >= sim_threshold:
-                is_duplicate = True
+                if a_is_tf and not _is_trendforce(kept_a):
+                    # a 是 TF，被比较的不是 → 替换掉旧的
+                    kept[i] = a
+                else:
+                    # 两者都是 TF，或都不是 TF，或 a 不是 TF → a 是重复的，丢弃
+                    skip = True
                 break
-        if not is_duplicate:
+
+        if not skip:
             kept.append(a)
 
     dropped = len(articles) - len(kept)
     if dropped > 0:
-        logger.info(f"去重完成：原始 {len(articles)} 篇 → 去重后 {len(kept)} 篇（去掉 {dropped} 篇重复）")
+        logger.info(f"去重完成：原始 {len(articles)} 篇 → 去重后 {len(kept)} 篇（去掉 {dropped} 篇，TrendForce 优先保留）")
     return kept
+
+
+# ─── 信息新旧标签 ──────────────────────────────────────────────────────────
+
+def _build_news_status_map(today: str) -> Dict:
+    """
+    读取昨天的信号文件，与今天的信号比对，为每条 evidence 打标签：
+    - 已确认延续：同一 URL 在昨天报告中已出现过
+    - 新出现：URL 在昨天报告中没有
+
+    返回结构：
+    {
+        ("dram", "https://..."): {"status": "已确认延续", "yesterday_date": "2026-05-06"},
+        ("hbm", "https://..."): {"status": "新出现"},
+        ...
+    }
+    """
+    from datetime import datetime, timedelta
+    import json
+
+    yesterday = (datetime.fromisoformat(today) - timedelta(days=1)).date().isoformat()
+    yesterday_path = os.path.join(
+        os.path.dirname(__file__), "data", "processed", f"{yesterday}_signals.json"
+    )
+
+    status_map = {}
+
+    if not os.path.exists(yesterday_path):
+        logger.info(f"昨日信号文件不存在（{yesterday_path}），无法做新旧比对")
+        return status_map
+
+    try:
+        with open(yesterday_path, "r", encoding="utf-8") as f:
+            yesterday_signals = json.load(f)
+    except Exception as e:
+        logger.warning(f"读取昨日信号文件失败：{e}")
+        return status_map
+
+    # 建立昨天所有 evidence 的 URL 集合
+    yesterday_urls: set = set()
+    for cat in ["dram", "nand", "hbm", "capex", "downstream", "earnings_revision"]:
+        for ev in yesterday_signals.get(cat, {}).get("evidence", []):
+            url = ev.get("url", "")
+            if url:
+                yesterday_urls.add(url)
+
+    logger.info(f"昨日信号文件含 {len(yesterday_urls)} 条不同 URL")
+    return {"_yesterday_urls": yesterday_urls, "_yesterday_date": yesterday}
+
+
+def _tag_evidence(evidence: List[Dict], yesterday_urls: set, yesterday_date: str) -> List[Dict]:
+    """
+    为 evidence 列表打标签：已确认延续 vs 新出现
+    """
+    tagged = []
+    for ev in evidence:
+        url = ev.get("url", "")
+        if url and url in yesterday_urls:
+            tag = "已确认延续"
+        else:
+            tag = "新出现"
+        ev_copy = dict(ev)
+        ev_copy["news_status"] = tag
+        ev_copy["yesterday_date"] = yesterday_date if tag == "已确认延续" else ""
+        tagged.append(ev_copy)
+    return tagged
 
 
 # ─── 成交量放量判断 ─────────────────────────────────────────────────────────
@@ -109,14 +190,16 @@ def run_daily_report():
     results = {
         "date": today,
         "quotes": None,
+        "macro": None,
         "news": None,
+        "key_stock_signals": None,
         "signals": None,
         "score": None,
         "report": None,
         "errors": []
     }
 
-    # ==== Step 1: 获取行情数据 ====
+    # ==== Step 1: 获取行情数据 + 宏观数据 ====
     logger.info("Step 1: 获取行情数据")
     try:
         from sources.futu_quotes import calculate_market_signals, save_quotes
@@ -135,6 +218,21 @@ def run_daily_report():
     except Exception as e:
         logger.error(f"行情模块异常：{e}")
         results["errors"].append(f"行情模块: {str(e)}")
+
+    # 获取宏观数据（黄金 / WTI 原油 / 美元指数）
+    logger.info("Step 1b: 获取宏观数据")
+    try:
+        from sources.macro_quotes import calculate_macro_signals
+        macro_signals = calculate_macro_signals()
+        if macro_signals:
+            results["macro"] = macro_signals
+            logger.info(f"宏观数据获取成功：{list(macro_signals.keys())}")
+        else:
+            logger.warning("宏观数据获取失败或为空")
+            results["errors"].append("宏观数据获取失败")
+    except Exception as e:
+        logger.error(f"宏观数据模块异常：{e}")
+        results["errors"].append(f"宏观数据: {str(e)}")
 
     # ==== Step 2: 获取新闻数据 ====
     logger.info("Step 2: 获取新闻数据")
@@ -173,13 +271,29 @@ def run_daily_report():
             json.dump(all_news, f, ensure_ascii=False, indent=2)
         logger.info(f"新闻已保存到 {news_path}")
 
-    # ── 新闻去重 ──
+    # ── 新闻去重（TrendForce 优先）──
     all_news = _deduplicate_articles(all_news)
     results["news"] = all_news
     logger.info(f"去重后新闻 {len(all_news)} 篇")
 
+    # ── 重点公司动态分析 ──
+    logger.info("Step 2b: 分析重点公司动态")
+    try:
+        from sources.key_stock_analyzer import analyze_key_stock_news
+        key_stock_signals = analyze_key_stock_news(all_news)
+        results["key_stock_signals"] = key_stock_signals
+        logger.info(f"重点公司动态分析完成")
+    except Exception as e:
+        logger.error(f"重点公司动态分析失败：{e}")
+        results["errors"].append(f"重点公司动态: {str(e)}")
+        key_stock_signals = {}
+
     # ==== Step 3: 提取信号（新：正则价格信号） ====
     logger.info("Step 3: 提取信号")
+    # 预初始化：昨天日期 & 标签计数（try 块外也要有定义）
+    yesterday_date = ""
+    confirmed = 0
+    new = 0
     try:
         from sources.price_signal_extractor import extract_signals_from_articles
         from analysis.signal_extractor import save_signals
@@ -188,10 +302,33 @@ def run_daily_report():
         results["signals"] = extracted_signals
         save_signals(extracted_signals, today)
         logger.info("信号提取完成")
+
+        # ── 信号新旧标签（已确认延续 vs 新出现）──
+        news_status = _build_news_status_map(today)
+        yesterday_urls = news_status.get("_yesterday_urls", set())
+        yesterday_date = news_status.get("_yesterday_date", "")
+
+        tagged_signals = {}
+        for cat in ["dram", "nand", "hbm", "capex", "downstream", "earnings_revision"]:
+            cat_data = dict(extracted_signals.get(cat, {}))
+            original_evidence = cat_data.get("evidence", [])
+            cat_data["evidence"] = _tag_evidence(original_evidence, yesterday_urls, yesterday_date)
+            tagged_signals[cat] = cat_data
+        # all_signals 也打标签
+        tagged_signals["all_signals"] = [
+            {**sig, "news_status": ("已确认延续" if sig.get("url") in yesterday_urls else "新出现"),
+             "yesterday_date": yesterday_date if sig.get("url") in yesterday_urls else ""}
+            for sig in extracted_signals.get("all_signals", [])
+        ]
+        results["signals"] = tagged_signals
+        confirmed = sum(1 for url in (sig.get("url") for sig in tagged_signals["all_signals"]) if url in yesterday_urls)
+        new = len(tagged_signals["all_signals"]) - confirmed
+        logger.info(f"信号新旧标签：已确认延续 {confirmed} 条，新出现 {new} 条")
     except Exception as e:
         logger.error(f"信号提取失败：{e}")
         results["errors"].append(f"信号提取: {str(e)}")
         extracted_signals = {"dram": {}, "nand": {}, "hbm": {}, "capex": {}, "downstream": {}, "earnings_revision": {}, "all_signals": []}
+        tagged_signals = extracted_signals
 
     # ==== Step 4: 计算评分 ====
     logger.info("Step 4: 计算评分")
@@ -217,10 +354,17 @@ def run_daily_report():
     input_data = {
         "date": today,
         "market_signals": results.get("quotes", {}),
-        "signals": extracted_signals,
+        "macro_signals": results.get("macro", {}),
+        "key_stock_signals": key_stock_signals,
+        "signals": tagged_signals,
         "score": score_result,
         "risk_signals": risk_signals,
-        "news_count": len(all_news)
+        "news_count": len(all_news),
+        "yesterday_date": yesterday_date,
+        "news_status_summary": {
+            "confirmed_count": confirmed,
+            "new_count": new,
+        }
     }
 
     try:
@@ -318,8 +462,11 @@ def generate_fallback_report(input_data: Dict) -> str:
 
     lines.append("")
 
-    # 信号状态（含发布时间）
+    # 信号状态（含新旧标签）
+    yesterday_date = input_data.get("yesterday_date", "")
+    status_summary = input_data.get("news_status_summary", {})
     lines.append("【信号】")
+    lines.append(f"（已确认延续 {status_summary.get('confirmed_count', 0)} 条，新出现 {status_summary.get('new_count', 0)} 条）")
     for category in ["dram", "nand", "hbm", "capex", "downstream"]:
         cat_data = signals.get(category, {})
         status = cat_data.get("status", "unknown")
@@ -331,7 +478,9 @@ def generate_fallback_report(input_data: Dict) -> str:
             title_short = ev.get("title", "")[:70]
             direction = ev.get("direction", "")
             dir_str = f"[{direction}] " if direction and direction != "unknown" else ""
-            lines.append(f"  {dir_str}{title_short}{pub_str}")
+            news_status = ev.get("news_status", "新出现")
+            status_str = f"[{news_status}] " if news_status != "新出现" else ""
+            lines.append(f"  {status_str}{dir_str}{title_short}{pub_str}")
     lines.append("")
 
     lines.append("⚠️ MiniMax API 调用失败，查看 data/raw 目录获取原始数据。")

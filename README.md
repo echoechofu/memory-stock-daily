@@ -36,22 +36,26 @@
 
 ```
 memory-watch/
-├── main.py                    # 入口，每日 cron 调度
+├── main.py                      # 入口，每日调度
 ├── sources/
-│   ├── futu_quotes.py         # 富途行情（需 OpenD）
-│   ├── yfinance_quotes.py     # Yahoo Finance 备选行情
-│   ├── trendforce.py          # TrendForce + 高价值媒体 RSS
-│   ├── news.py                # 宏观/重点股票新闻
-│   └── price_signal_extractor.py  # 正则价格信号提取
+│   ├── futu_quotes.py           # 富途行情（需 OpenD）
+│   ├── macro_quotes.py           # 黄金/原油/美元（yfinance）
+│   ├── trendforce.py             # TrendForce + 高价值媒体 RSS
+│   ├── news.py                   # 通用新闻 / 重点股票动态
+│   ├── key_stock_analyzer.py     # 重点公司 IR 信号分析
+│   └── price_signal_extractor.py # 正则价格信号提取
 ├── analysis/
-│   ├── scoring.py             # 5 维度评分
-│   └── signal_extractor.py    # 关键词信号提取
+│   ├── scoring.py                # 5 维度评分
+│   └── signal_extractor.py       # 关键词信号提取
 ├── llm/
-│   └── minimax_client.py      # MiniMax API 调用
+│   └── minimax_client.py         # MiniMax API 调用（重试+指数退避）
 ├── push/
-│   └── telegram.py            # Telegram 推送
-└── prompts/
-    └── daily_memory_report.md # 日报生成 Prompt 模板
+│   └── telegram.py               # Telegram 推送
+├── prompts/
+│   └── daily_memory_report.md    # 日报生成 Prompt 模板
+└── .github/
+    └── workflows/
+        └── daily-report.yml      # GitHub Actions 自动推送
 ```
 
 ## 快速启动
@@ -102,10 +106,25 @@ python main.py
 | 同行验证 | 1/1 | Micron / SK hynix / Samsung / Nanya |
 | 下游需求 | 1/1 | NVIDIA / 云厂商 CapEx / AI Server |
 
-## 自动化运行（macOS）
+## 自动化运行
+
+### 方式一：GitHub Actions（推荐）
+
+将代码推送到 GitHub 私有仓库后，在仓库 Settings → Secrets 添加以下密钥，Actions 会每天北京时间 8:30 自动运行：
+
+| Secret | 来源 |
+|--------|------|
+| `MINIMAX_API_KEY` | MiniMax Platform |
+| `TELEGRAM_BOT_TOKEN` | @BotFather |
+| `TELEGRAM_CHAT_ID` | @userinfobot |
+
+Secrets 路径：仓库 → Settings → Secrets and variables → Actions → New repository secret
+
+也支持手动触发（workflow_dispatch），可指定任意日期测试。
+
+### 方式二：macOS Crontab
 
 ```bash
-# 编辑 crontab
 crontab -e
 
 # 每天早上 8:30 运行

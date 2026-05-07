@@ -1,0 +1,51 @@
+name: Daily Memory Report
+
+on:
+  schedule:
+    # UTC 0:30 = 北京时间 8:30，每天早上自动运行
+    - cron: '30 0 * * *'
+  # 手动触发，方便测试
+  workflow_dispatch:
+    inputs:
+      date:
+        description: '指定日期 (YYYY-MM-DD)，留空则用当天'
+        required: false
+        type: string
+
+jobs:
+  push-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip packages
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Daily Report
+        env:
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # 可选：指定日期触发时传入
+          TARGET_DATE: ${{ inputs.date }}
+        run: |
+          if [ -n "$TARGET_DATE" ]; then
+            export REPORT_DATE="$TARGET_DATE"
+          fi
+          python main.py

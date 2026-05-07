@@ -85,10 +85,6 @@ def fetch_memory_news() -> List[Dict]:
     toms_articles = fetch_tomshardware_news()
     articles.extend(toms_articles)
 
-    # 宏观大宗 + 美元（Google News RSS 搜索）
-    macro_articles = fetch_macro_news()
-    articles.extend(macro_articles)
-
     # 重点股票新闻（MU / SNDK / NVDA / Samsung / SK hynix）
     stock_articles = fetch_key_stocks_news()
     articles.extend(stock_articles)
