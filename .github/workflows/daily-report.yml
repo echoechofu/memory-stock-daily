@@ -40,9 +40,10 @@ jobs:
       - name: Run Daily Report
         env:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          MINIMAX_BASE_URL: ${{ secrets.MINIMAX_BASE_URL }}
+          MINIMAX_MODEL: ${{ secrets.MINIMAX_MODEL }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          # 可选：指定日期触发时传入
           TARGET_DATE: ${{ inputs.date }}
         run: |
           if [ -n "$TARGET_DATE" ]; then
