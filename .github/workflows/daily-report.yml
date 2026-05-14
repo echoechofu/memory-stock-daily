@@ -58,6 +58,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/processed/*.json
+          git add -f data/processed/*.json
           git diff --cached --quiet && echo "No signal changes to commit" || git commit -m "Update signals $(date +%Y-%m-%d)"
           git push
