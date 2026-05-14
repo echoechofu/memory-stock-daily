@@ -159,19 +159,6 @@
         "demand_signals": []
       },
       {
-        "title": "Nvidia taps Nanya for AI racks with LPDDR equivalent to 4,500 smartphones per rack - digitimes",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkg2VVYxRXQxOVVISXFGQ3dqY2x3VzdKUzgwODFiQlA1UG5WOTRoTGY1YzZWQkRhTzNaVjJWdWZfS2xPQ1ZBZlN5SzlONzJ1MTdZZm8tVVBMN1BYX0RJdXAtSXVxX3FfRzByWS1UREtjRmFZOVZXYmxmT2YtMi1NdjRKVXpPemhTTE1YMw?oc=5",
-        "published_at": "2026-04-29",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "Nvidia taps Nanya for AI racks with LPDDR equivalent to 4,500 smartphones per rack - digitimes",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
-      },
-      {
         "title": "DDR5 prices climb again as AI demand tightens DRAM supply and shifts capacity - Astute Group",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGQySk9SQk4tZFQ1RWU0ZC02SElrLTc3SXkwUWhRcWFfRHQ1UDlqUWJtNTdhbU1GZldpa0JJZ2l6c290NUFuMzRXc3JDZXJOeHM5UWNFa0VkLXJycmlVUEhrSVpIZ2UxZVRaWmIxRjRJeXlVcWNpWmpWcDVzY2JWM2h6aklwZHFnVnpFT3VrWGh6aFUxcWEwZXRWRGc5MlQ5ZXdFaVU2c0plSWZyejdISERaWXFHWEJydUZF?oc=5",
         "published_at": "2026-04-21",
@@ -195,6 +182,19 @@
         "period": "unknown",
         "sentence": "Nanya Technology Supplies DRAM to NVIDIA Amid Shortage - 조선일보",
         "supply_signal": "tight",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
+        "title": "Micron (MU) Samples High-Speed 256GB DDR5 RDIMMs Built on 1-Gamma DRAM Tech - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEpiZ0l5aTF5UGYtdUZFM1JSQm02Zk5sX2xEb2lTN2ZIc2J2ODNaRTA2T2Y4ZUd6V1NpWWdLVWJfcmtLNm9uQjZvOU1wdnJBbDRvelVrVGFfN1FrRWUzSzhEbUUwTkZaT21vb29HYnY5ckFQSDZiQlgyYmdEQ2owamFNcjFfTFdlcnlpRGVVX09jaTN5N1JBVQ?oc=5",
+        "published_at": "Thu, 14 May 2026 14:55:43 GMT",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Micron (MU) Samples High-Speed 256GB DDR5 RDIMMs Built on 1-Gamma DRAM Tech - Yahoo Finance",
+        "supply_signal": "unknown",
         "risk_signals": [],
         "hbm_signals": [],
         "demand_signals": []
@@ -411,23 +411,6 @@
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
-        "sentence": "Nvidia taps Nanya for AI racks with LPDDR equivalent to 4,500 smartphones per rack - digitimes",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "Nvidia taps Nanya for AI racks with LPDDR equivalent to 4,500 smartphones per rack - digitimes",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkg2VVYxRXQxOVVISXFGQ3dqY2x3VzdKUzgwODFiQlA1UG5WOTRoTGY1YzZWQkRhTzNaVjJWdWZfS2xPQ1ZBZlN5SzlONzJ1MTdZZm8tVVBMN1BYX0RJdXAtSXVxX3FfRzByWS1UREtjRmFZOVZXYmxmT2YtMi1NdjRKVXpPemhTTE1YMw?oc=5",
-        "published_at": "2026-04-29",
-        "source": "digitimes"
-      },
-      {
-        "product": "DRAM",
-        "metric": "unknown",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
         "sentence": "DDR5 prices climb again as AI demand tightens DRAM supply and shifts capacity - Astute Group",
         "supply_signal": "unknown",
         "hbm_signals": [],
@@ -457,6 +440,23 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjdmMVVscUZVRjI5YzV5UlRJZldiYWlWNjZHczNOdWVORHNzakpEeGI5aG9sS0ZWVzhmVnU1cTlqVHB1S0VsbDk2dDE2VVlHQjFkbW93VEtGRDM0YlFLZFUyVjNid0VYeC1PdHZhUHI1NUZOVmVZYnFYT0ZVQVJxQ3ZZY0V2R1FH?oc=5",
         "published_at": "2026-05-06",
         "source": "조선일보"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Micron (MU) Samples High-Speed 256GB DDR5 RDIMMs Built on 1-Gamma DRAM Tech - Yahoo Finance",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "Micron (MU) Samples High-Speed 256GB DDR5 RDIMMs Built on 1-Gamma DRAM Tech - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEpiZ0l5aTF5UGYtdUZFM1JSQm02Zk5sX2xEb2lTN2ZIc2J2ODNaRTA2T2Y4ZUd6V1NpWWdLVWJfcmtLNm9uQjZvOU1wdnJBbDRvelVrVGFfN1FrRWUzSzhEbUUwTkZaT21vb29HYnY5ckFQSDZiQlgyYmdEQ2owamFNcjFfTFdlcnlpRGVVX09jaTN5N1JBVQ?oc=5",
+        "published_at": "Thu, 14 May 2026 14:55:43 GMT",
+        "source": "KeyStock:Micron"
       }
     ]
   },
@@ -490,19 +490,6 @@
         "demand_signals": []
       },
       {
-        "title": "[News] Kioxia, SanDisk to Demonstrate QLC NAND Using Multi-Stacked Cell Architecture, Targeting 1,000+ Layers - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYnA2VjVfamVHMEVmWnlfaVlidFY4dWpERFJhY0ZWWEdpcGc4UUtWXy16M1RodHNKdlZhM1YyRk5DcVJBZWFHbW44NTJLeFNvb3hLTTQ3amdzUzVkamlvRWlXOGJRbmRvcWU4VzBMOTBIa3hJbUl2WkRIbWVJVWk0d01BZkhob2diTV90ZGtlRDNrX0JwOWM5Sklva0hkRFl6UjRzb3RXck5GaDZ1REh3WWFIcXo2aUxjVW1MQ2gtX09JdDlqMzREdEFQaloxNmEwSjFHOVgzTUw5XzlZSDZUMQ?oc=5",
-        "published_at": "2026-05-04",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "[News] Kioxia, SanDisk to Demonstrate QLC NAND Using Multi-Stacked Cell Architecture, Targeting 1,000+ Layers - TrendForce",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
-      },
-      {
         "title": "[News] Samsung Xi’an NAND Output Reportedly Dips 5%–6% Amid 200+ Layer Shift; Impact May Extend into Next Year - TrendForce",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORHZ1U1lpc2VCU1h6WTh5dlRFYTdJNU53OW00SE5rWkxfLWJnR3RRbjVuQTcwWWV0akpTTlA0M0VsQ0NKSFZYYVIxb2ZZZl81c1MzUTAwcDUzMk5WdDlRWVZNc3FuVG5OU05rYlFkWnhXdl83ZGVsVXhOT2dJS0JVNkh4Y3ZuemwySmtpSlRPSjhZNTRTT0N3Zl9jT2otd2lUbVJIdVhQQTc4dU5oVUNlLWdUN3hUcE10X3FqSmFYRURjT19GY1Q0SUItOFpNOW9iQVMzcTNfRHdXM0sza1NaX1ZOR3lFYjVuUUVHcg?oc=5",
         "published_at": "2026-04-22",
@@ -516,6 +503,19 @@
         "demand_signals": []
       },
       {
+        "title": "[News] Kioxia, SanDisk to Demonstrate QLC NAND Using Multi-Stacked Cell Architecture, Targeting 1,000+ Layers - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYnA2VjVfamVHMEVmWnlfaVlidFY4dWpERFJhY0ZWWEdpcGc4UUtWXy16M1RodHNKdlZhM1YyRk5DcVJBZWFHbW44NTJLeFNvb3hLTTQ3amdzUzVkamlvRWlXOGJRbmRvcWU4VzBMOTBIa3hJbUl2WkRIbWVJVWk0d01BZkhob2diTV90ZGtlRDNrX0JwOWM5Sklva0hkRFl6UjRzb3RXck5GaDZ1REh3WWFIcXo2aUxjVW1MQ2gtX09JdDlqMzREdEFQaloxNmEwSjFHOVgzTUw5XzlZSDZUMQ?oc=5",
+        "published_at": "2026-05-04",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "[News] Kioxia, SanDisk to Demonstrate QLC NAND Using Multi-Stacked Cell Architecture, Targeting 1,000+ Layers - TrendForce",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
         "title": "NAND Flash Contract Price Apr. 2026 - TrendForce",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wY1p6cUhicm9QNmNwSzdhNG84MmIwSm9VejJkX0xuV3hfbjJKYWYtaU5LTWRHNjBac0ltajRtV0x3cXhIdWMtdTRpZHZkQ0IzS1lPa0ktbWFXdGlfUGprT1kyM1NMUQ?oc=5",
         "published_at": "2026-04-30",
@@ -523,19 +523,6 @@
         "change_pct": "",
         "period": "unknown",
         "sentence": "NAND Flash Contract Price Apr. 2026 - TrendForce",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
-      },
-      {
-        "title": "NAND Flash Market Bulletin - Apr. 29, 2026 - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rQ0RQM3lvaklEYzU0Vm40RXlLV1cxQXJVNzRDbHFyc01Pb0FDVmlNMkNodTYtZFNINDhjZkM3RTkwYTBVNWp3S3RZWWlsbXpQeHJYeDdvMnFaU2l5VC1mdW9teDdwUQ?oc=5",
-        "published_at": "2026-04-29",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "NAND Flash Market Bulletin - Apr. 29, 2026 - TrendForce",
         "supply_signal": "unknown",
         "risk_signals": [],
         "hbm_signals": [],
@@ -562,19 +549,6 @@
         "change_pct": "",
         "period": "unknown",
         "sentence": "Micron CEO Warns AI Is Only in the ‘First Innings’ as Memory Supply Tightens, With DRAM and NAND Demand Set to Exceed 50% of Industry TAM - Wccftech",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
-      },
-      {
-        "title": "SSD prices skyrocket by 300% in Japan, bringing 8TB Samsung 9100 drive to an eye-watering $3,500 — industry continues to reckon with the ongoing AI storage crunch - Tom's Hardware",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPSU9FaHRwUlM1RFRMSm1SVUVxZGs5N0QxLWU5RC1FUzFwSkRMVkVpR3lUZWEtZU1VVzV6aEFJUHUycGx4RFdsbGZXUUxDX2FkWVN2UGVUdkxzYV80NXVHcDRzWkw2eC1fNVJxREJFRVcxb1NiN2ZkdWFxNV9ONE1aNXdtTEhLcGpfVkxINmtoWmo1SFN2cVNVdmZNVzdIWlpHc2lIVHRwbzFPT19Gd0RoZ0tZZE9vSmt1UW02WGNNWXNKVUZMaEVnX3F6WGlSS1d4a2xkeDExbEFqcDQ4Qk1nT3ltcHZxVE90STZVeTRGSmY4b3VXUmRTaE9NQ1ZSYWRnTjZPVW4ydWdJM25kcnhZRjZqOHRWLVpLOE9VVHlpWE4zWHlJWWdVWEVfNXZyZVB6amRWYl9sU2kzUF96?oc=5",
-        "published_at": "2026-05-13",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "SSD prices skyrocket by 300% in Japan, bringing 8TB Samsung 9100 drive to an eye-watering $3,500 — industry continues to reckon with the ongoing AI storage crunch - Tom's Hardware",
         "supply_signal": "unknown",
         "risk_signals": [],
         "hbm_signals": [],
@@ -622,23 +596,6 @@
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
-        "sentence": "[News] Kioxia, SanDisk to Demonstrate QLC NAND Using Multi-Stacked Cell Architecture, Targeting 1,000+ Layers - TrendForce",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "[News] Kioxia, SanDisk to Demonstrate QLC NAND Using Multi-Stacked Cell Architecture, Targeting 1,000+ Layers - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYnA2VjVfamVHMEVmWnlfaVlidFY4dWpERFJhY0ZWWEdpcGc4UUtWXy16M1RodHNKdlZhM1YyRk5DcVJBZWFHbW44NTJLeFNvb3hLTTQ3amdzUzVkamlvRWlXOGJRbmRvcWU4VzBMOTBIa3hJbUl2WkRIbWVJVWk0d01BZkhob2diTV90ZGtlRDNrX0JwOWM5Sklva0hkRFl6UjRzb3RXck5GaDZ1REh3WWFIcXo2aUxjVW1MQ2gtX09JdDlqMzREdEFQaloxNmEwSjFHOVgzTUw5XzlZSDZUMQ?oc=5",
-        "published_at": "2026-05-04",
-        "source": "TrendForce"
-      },
-      {
-        "product": "NAND",
-        "metric": "unknown",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
         "sentence": "[News] Samsung Xi’an NAND Output Reportedly Dips 5%–6% Amid 200+ Layer Shift; Impact May Extend into Next Year - TrendForce",
         "supply_signal": "unknown",
         "hbm_signals": [],
@@ -648,6 +605,23 @@
         "title": "[News] Samsung Xi’an NAND Output Reportedly Dips 5%–6% Amid 200+ Layer Shift; Impact May Extend into Next Year - TrendForce",
         "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORHZ1U1lpc2VCU1h6WTh5dlRFYTdJNU53OW00SE5rWkxfLWJnR3RRbjVuQTcwWWV0akpTTlA0M0VsQ0NKSFZYYVIxb2ZZZl81c1MzUTAwcDUzMk5WdDlRWVZNc3FuVG5OU05rYlFkWnhXdl83ZGVsVXhOT2dJS0JVNkh4Y3ZuemwySmtpSlRPSjhZNTRTT0N3Zl9jT2otd2lUbVJIdVhQQTc4dU5oVUNlLWdUN3hUcE10X3FqSmFYRURjT19GY1Q0SUItOFpNOW9iQVMzcTNfRHdXM0sza1NaX1ZOR3lFYjVuUUVHcg?oc=5",
         "published_at": "2026-04-22",
+        "source": "TrendForce"
+      },
+      {
+        "product": "NAND",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "[News] Kioxia, SanDisk to Demonstrate QLC NAND Using Multi-Stacked Cell Architecture, Targeting 1,000+ Layers - TrendForce",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "[News] Kioxia, SanDisk to Demonstrate QLC NAND Using Multi-Stacked Cell Architecture, Targeting 1,000+ Layers - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYnA2VjVfamVHMEVmWnlfaVlidFY4dWpERFJhY0ZWWEdpcGc4UUtWXy16M1RodHNKdlZhM1YyRk5DcVJBZWFHbW44NTJLeFNvb3hLTTQ3amdzUzVkamlvRWlXOGJRbmRvcWU4VzBMOTBIa3hJbUl2WkRIbWVJVWk0d01BZkhob2diTV90ZGtlRDNrX0JwOWM5Sklva0hkRFl6UjRzb3RXck5GaDZ1REh3WWFIcXo2aUxjVW1MQ2gtX09JdDlqMzREdEFQaloxNmEwSjFHOVgzTUw5XzlZSDZUMQ?oc=5",
+        "published_at": "2026-05-04",
         "source": "TrendForce"
       },
       {
@@ -665,23 +639,6 @@
         "title": "NAND Flash Contract Price Apr. 2026 - TrendForce",
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wY1p6cUhicm9QNmNwSzdhNG84MmIwSm9VejJkX0xuV3hfbjJKYWYtaU5LTWRHNjBac0ltajRtV0x3cXhIdWMtdTRpZHZkQ0IzS1lPa0ktbWFXdGlfUGprT1kyM1NMUQ?oc=5",
         "published_at": "2026-04-30",
-        "source": "TrendForce"
-      },
-      {
-        "product": "NAND",
-        "metric": "unknown",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "NAND Flash Market Bulletin - Apr. 29, 2026 - TrendForce",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "NAND Flash Market Bulletin - Apr. 29, 2026 - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rQ0RQM3lvaklEYzU0Vm40RXlLV1cxQXJVNzRDbHFyc01Pb0FDVmlNMkNodTYtZFNINDhjZkM3RTkwYTBVNWp3S3RZWWlsbXpQeHJYeDdvMnFaU2l5VC1mdW9teDdwUQ?oc=5",
-        "published_at": "2026-04-29",
         "source": "TrendForce"
       },
       {
@@ -717,23 +674,6 @@
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVHBUUTBGQU9xRlpiaWFXMXgzWmdrbkZEa2hGUVhwRWw2T21DVVFuQ0ZVVzk1QUY2RGg1a19QUGdYZzJPYlAzU0k1UVU1NEhSZGdzYnlVWW5rRWh2bUtfc2VVSnlMa2tKb1MzYXZTYlc0OTgyMjlraXRkc2tIVEtZSFRWUGZkWFVmbTRTWGN6alhJMWh3M21QQmEyMmh5cVI0VmhfcFZvNXBDd0k0WVBB0gG0AUFVX3lxTE1sWUlSVzNnZGhBVEdxbVFmYlJqS2NOUkF0d19nYlRPMjVsQW5xWElPZjA3cXhrTHF5U00wZFpSM2prWDI5eTZCS213aGZ1bzZIcmd4YjlkSWhXTDNZQ1BVWlBabTMweDVXSDJ4dGhMU3hEYTJubTI4ams0VkNuWTE3YlZfRTdydm1lVWoteEQ0alV6MjNKM1dYWEF3SnB1SUdXVGNvNVBZenAwY3pacXkzUDRhUg?oc=5",
         "published_at": "2026-05-03",
         "source": "Wccftech"
-      },
-      {
-        "product": "NAND",
-        "metric": "unknown",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "SSD prices skyrocket by 300% in Japan, bringing 8TB Samsung 9100 drive to an eye-watering $3,500 — industry continues to reckon with the ongoing AI storage crunch - Tom's Hardware",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "SSD prices skyrocket by 300% in Japan, bringing 8TB Samsung 9100 drive to an eye-watering $3,500 — industry continues to reckon with the ongoing AI storage crunch - Tom's Hardware",
-        "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPSU9FaHRwUlM1RFRMSm1SVUVxZGs5N0QxLWU5RC1FUzFwSkRMVkVpR3lUZWEtZU1VVzV6aEFJUHUycGx4RFdsbGZXUUxDX2FkWVN2UGVUdkxzYV80NXVHcDRzWkw2eC1fNVJxREJFRVcxb1NiN2ZkdWFxNV9ONE1aNXdtTEhLcGpfVkxINmtoWmo1SFN2cVNVdmZNVzdIWlpHc2lIVHRwbzFPT19Gd0RoZ0tZZE9vSmt1UW02WGNNWXNKVUZMaEVnX3F6WGlSS1d4a2xkeDExbEFqcDQ4Qk1nT3ltcHZxVE90STZVeTRGSmY4b3VXUmRTaE9NQ1ZSYWRnTjZPVW4ydWdJM25kcnhZRjZqOHRWLVpLOE9VVHlpWE4zWHlJWWdVWEVfNXZyZVB6amRWYl9sU2kzUF96?oc=5",
-        "published_at": "2026-05-13",
-        "source": "Tom's Hardware"
       }
     ]
   },
@@ -777,21 +717,6 @@
         ]
       },
       {
-        "title": "Why NVIDIA (NVDA) Is Pushing Deeper Into AI Data Center Connectivity - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVljUFZ6QmMtR0dseFBJeXBqajdpY1l2ZTVRQUhJQkVqa1ZBVkh5YjZYNkxfdDJDdFl6SWJwVkx6emllcDZxVmZjcmtBN0RPUm9VTG15SzFTaWZPVmlfLWNHVlN6REJia3UzLU1mM245WEFLRldoRUlDVFlTazdRVHVn?oc=5",
-        "published_at": "Wed, 13 May 2026 10:58:01 GMT",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "Why NVIDIA (NVDA) Is Pushing Deeper Into AI Data Center Connectivity - Yahoo Finance",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": [
-          "Data center"
-        ]
-      },
-      {
         "title": "DDR5 prices climb again as AI demand tightens DRAM supply and shifts capacity - Astute Group",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGQySk9SQk4tZFQ1RWU0ZC02SElrLTc3SXkwUWhRcWFfRHQ1UDlqUWJtNTdhbU1GZldpa0JJZ2l6c290NUFuMzRXc3JDZXJOeHM5UWNFa0VkLXJycmlVUEhrSVpIZ2UxZVRaWmIxRjRJeXlVcWNpWmpWcDVzY2JWM2h6aklwZHFnVnpFT3VrWGh6aFUxcWEwZXRWRGc5MlQ5ZXdFaVU2c0plSWZyejdISERaWXFHWEJydUZF?oc=5",
         "demand": [
@@ -823,25 +748,6 @@
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaURZcmsyZ09RTTlKTzZGNWRiM3RpYUw4NG5UT3NDbVczcldZS1F0b3h1YXZaNGh3THJic1k2YURMWmJXTjVyZU9PV25rc0dhZXhZdWFuWXRFaFZpNkRfLU5kTUpJOXl1aTV2UjVIc1FKcXdiR0lua090d3kxVDlXX01HS0VQVnlPcWYzYU1ETGtlWGM?oc=5",
         "published_at": "2026-05-01",
         "source": "Let's Data Science"
-      },
-      {
-        "product": "Server",
-        "metric": "unknown",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "Why NVIDIA (NVDA) Is Pushing Deeper Into AI Data Center Connectivity - Yahoo Finance",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [
-          "Data center"
-        ],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "Why NVIDIA (NVDA) Is Pushing Deeper Into AI Data Center Connectivity - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVljUFZ6QmMtR0dseFBJeXBqajdpY1l2ZTVRQUhJQkVqa1ZBVkh5YjZYNkxfdDJDdFl6SWJwVkx6emllcDZxVmZjcmtBN0RPUm9VTG15SzFTaWZPVmlfLWNHVlN6REJia3UzLU1mM245WEFLRldoRUlDVFlTazdRVHVn?oc=5",
-        "published_at": "Wed, 13 May 2026 10:58:01 GMT",
-        "source": "KeyStock:NVIDIA"
       }
     ]
   },
@@ -937,23 +843,6 @@
       "source": "TrendForce"
     },
     {
-      "product": "NAND",
-      "metric": "unknown",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "[News] Kioxia, SanDisk to Demonstrate QLC NAND Using Multi-Stacked Cell Architecture, Targeting 1,000+ Layers - TrendForce",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "[News] Kioxia, SanDisk to Demonstrate QLC NAND Using Multi-Stacked Cell Architecture, Targeting 1,000+ Layers - TrendForce",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYnA2VjVfamVHMEVmWnlfaVlidFY4dWpERFJhY0ZWWEdpcGc4UUtWXy16M1RodHNKdlZhM1YyRk5DcVJBZWFHbW44NTJLeFNvb3hLTTQ3amdzUzVkamlvRWlXOGJRbmRvcWU4VzBMOTBIa3hJbUl2WkRIbWVJVWk0d01BZkhob2diTV90ZGtlRDNrX0JwOWM5Sklva0hkRFl6UjRzb3RXck5GaDZ1REh3WWFIcXo2aUxjVW1MQ2gtX09JdDlqMzREdEFQaloxNmEwSjFHOVgzTUw5XzlZSDZUMQ?oc=5",
-      "published_at": "2026-05-04",
-      "source": "TrendForce"
-    },
-    {
       "product": "DRAM",
       "metric": "spot price",
       "direction": "unknown",
@@ -1002,6 +891,23 @@
       "title": "[News] Samsung Xi’an NAND Output Reportedly Dips 5%–6% Amid 200+ Layer Shift; Impact May Extend into Next Year - TrendForce",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORHZ1U1lpc2VCU1h6WTh5dlRFYTdJNU53OW00SE5rWkxfLWJnR3RRbjVuQTcwWWV0akpTTlA0M0VsQ0NKSFZYYVIxb2ZZZl81c1MzUTAwcDUzMk5WdDlRWVZNc3FuVG5OU05rYlFkWnhXdl83ZGVsVXhOT2dJS0JVNkh4Y3ZuemwySmtpSlRPSjhZNTRTT0N3Zl9jT2otd2lUbVJIdVhQQTc4dU5oVUNlLWdUN3hUcE10X3FqSmFYRURjT19GY1Q0SUItOFpNOW9iQVMzcTNfRHdXM0sza1NaX1ZOR3lFYjVuUUVHcg?oc=5",
       "published_at": "2026-04-22",
+      "source": "TrendForce"
+    },
+    {
+      "product": "NAND",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "[News] Kioxia, SanDisk to Demonstrate QLC NAND Using Multi-Stacked Cell Architecture, Targeting 1,000+ Layers - TrendForce",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "[News] Kioxia, SanDisk to Demonstrate QLC NAND Using Multi-Stacked Cell Architecture, Targeting 1,000+ Layers - TrendForce",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYnA2VjVfamVHMEVmWnlfaVlidFY4dWpERFJhY0ZWWEdpcGc4UUtWXy16M1RodHNKdlZhM1YyRk5DcVJBZWFHbW44NTJLeFNvb3hLTTQ3amdzUzVkamlvRWlXOGJRbmRvcWU4VzBMOTBIa3hJbUl2WkRIbWVJVWk0d01BZkhob2diTV90ZGtlRDNrX0JwOWM5Sklva0hkRFl6UjRzb3RXck5GaDZ1REh3WWFIcXo2aUxjVW1MQ2gtX09JdDlqMzREdEFQaloxNmEwSjFHOVgzTUw5XzlZSDZUMQ?oc=5",
+      "published_at": "2026-05-04",
       "source": "TrendForce"
     },
     {
@@ -1070,23 +976,6 @@
       "title": "DRAM Market Bulletin - May 6, 2026 - TrendForce",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtLXYzNmhOcjBmbnNieWNPZW1NUElhN0Nhc291ZlRKZzNZYWRpNDNrTkZBOHpKRTJ4VmhTZ3pOMXQwb2dGSHNMdkREc05fcmdGTTJsVmVXcndJLXJ6OTZrZDZjZGFjQQ?oc=5",
       "published_at": "2026-05-06",
-      "source": "TrendForce"
-    },
-    {
-      "product": "NAND",
-      "metric": "unknown",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "NAND Flash Market Bulletin - Apr. 29, 2026 - TrendForce",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "NAND Flash Market Bulletin - Apr. 29, 2026 - TrendForce",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rQ0RQM3lvaklEYzU0Vm40RXlLV1cxQXJVNzRDbHFyc01Pb0FDVmlNMkNodTYtZFNINDhjZkM3RTkwYTBVNWp3S3RZWWlsbXpQeHJYeDdvMnFaU2l5VC1mdW9teDdwUQ?oc=5",
-      "published_at": "2026-04-29",
       "source": "TrendForce"
     },
     {
@@ -1216,23 +1105,6 @@
       "direction": "unknown",
       "change_pct": "",
       "period": "unknown",
-      "sentence": "Nvidia taps Nanya for AI racks with LPDDR equivalent to 4,500 smartphones per rack - digitimes",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "Nvidia taps Nanya for AI racks with LPDDR equivalent to 4,500 smartphones per rack - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkg2VVYxRXQxOVVISXFGQ3dqY2x3VzdKUzgwODFiQlA1UG5WOTRoTGY1YzZWQkRhTzNaVjJWdWZfS2xPQ1ZBZlN5SzlONzJ1MTdZZm8tVVBMN1BYX0RJdXAtSXVxX3FfRzByWS1UREtjRmFZOVZXYmxmT2YtMi1NdjRKVXpPemhTTE1YMw?oc=5",
-      "published_at": "2026-04-29",
-      "source": "digitimes"
-    },
-    {
-      "product": "DRAM",
-      "metric": "unknown",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
       "sentence": "DDR5 prices climb again as AI demand tightens DRAM supply and shifts capacity - Astute Group",
       "supply_signal": "unknown",
       "hbm_signals": [],
@@ -1264,40 +1136,21 @@
       "source": "조선일보"
     },
     {
-      "product": "NAND",
+      "product": "DRAM",
       "metric": "unknown",
       "direction": "unknown",
       "change_pct": "",
       "period": "unknown",
-      "sentence": "SSD prices skyrocket by 300% in Japan, bringing 8TB Samsung 9100 drive to an eye-watering $3,500 — industry continues to reckon with the ongoing AI storage crunch - Tom's Hardware",
+      "sentence": "Micron (MU) Samples High-Speed 256GB DDR5 RDIMMs Built on 1-Gamma DRAM Tech - Yahoo Finance",
       "supply_signal": "unknown",
       "hbm_signals": [],
       "demand_signals": [],
       "capex_signals": [],
       "risk_signals": [],
-      "title": "SSD prices skyrocket by 300% in Japan, bringing 8TB Samsung 9100 drive to an eye-watering $3,500 — industry continues to reckon with the ongoing AI storage crunch - Tom's Hardware",
-      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPSU9FaHRwUlM1RFRMSm1SVUVxZGs5N0QxLWU5RC1FUzFwSkRMVkVpR3lUZWEtZU1VVzV6aEFJUHUycGx4RFdsbGZXUUxDX2FkWVN2UGVUdkxzYV80NXVHcDRzWkw2eC1fNVJxREJFRVcxb1NiN2ZkdWFxNV9ONE1aNXdtTEhLcGpfVkxINmtoWmo1SFN2cVNVdmZNVzdIWlpHc2lIVHRwbzFPT19Gd0RoZ0tZZE9vSmt1UW02WGNNWXNKVUZMaEVnX3F6WGlSS1d4a2xkeDExbEFqcDQ4Qk1nT3ltcHZxVE90STZVeTRGSmY4b3VXUmRTaE9NQ1ZSYWRnTjZPVW4ydWdJM25kcnhZRjZqOHRWLVpLOE9VVHlpWE4zWHlJWWdVWEVfNXZyZVB6amRWYl9sU2kzUF96?oc=5",
-      "published_at": "2026-05-13",
-      "source": "Tom's Hardware"
-    },
-    {
-      "product": "Server",
-      "metric": "unknown",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "Why NVIDIA (NVDA) Is Pushing Deeper Into AI Data Center Connectivity - Yahoo Finance",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [
-        "Data center"
-      ],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "Why NVIDIA (NVDA) Is Pushing Deeper Into AI Data Center Connectivity - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVljUFZ6QmMtR0dseFBJeXBqajdpY1l2ZTVRQUhJQkVqa1ZBVkh5YjZYNkxfdDJDdFl6SWJwVkx6emllcDZxVmZjcmtBN0RPUm9VTG15SzFTaWZPVmlfLWNHVlN6REJia3UzLU1mM245WEFLRldoRUlDVFlTazdRVHVn?oc=5",
-      "published_at": "Wed, 13 May 2026 10:58:01 GMT",
-      "source": "KeyStock:NVIDIA"
+      "title": "Micron (MU) Samples High-Speed 256GB DDR5 RDIMMs Built on 1-Gamma DRAM Tech - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEpiZ0l5aTF5UGYtdUZFM1JSQm02Zk5sX2xEb2lTN2ZIc2J2ODNaRTA2T2Y4ZUd6V1NpWWdLVWJfcmtLNm9uQjZvOU1wdnJBbDRvelVrVGFfN1FrRWUzSzhEbUUwTkZaT21vb29HYnY5ckFQSDZiQlgyYmdEQ2owamFNcjFfTFdlcnlpRGVVX09jaTN5N1JBVQ?oc=5",
+      "published_at": "Thu, 14 May 2026 14:55:43 GMT",
+      "source": "KeyStock:Micron"
     }
   ]
 }
