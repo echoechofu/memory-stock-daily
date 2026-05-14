@@ -12,6 +12,9 @@ name: Daily Memory Report
         required: false
         type: string
 
+permissions:
+  contents: write
+
 jobs:
   push-report:
     runs-on: ubuntu-latest
