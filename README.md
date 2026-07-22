@@ -3,6 +3,50 @@
 
 > Automated daily intelligence for memory and semiconductor stocks. Every morning: DRAM/NAND/HBM prices, macro signals, IR updates → AI Chinese brief to Telegram.
 
+English | [中文](#这是什么)
+
+## What It Is
+
+**memory-stock-daily** is an automated daily intelligence workflow for the memory and semiconductor supply chain. Every morning it collects market data, industry news, pricing signals, and company updates, then generates a structured Chinese brief and pushes it to Telegram.
+
+## What It Does
+
+1. **Fetches market quotes** — Futu OpenD first, with Yahoo Finance as fallback, covering MU / SNDK / NVDA / SOXX / SMH prices, volume, and moving averages.
+2. **Aggregates industry news** — TrendForce and Google News RSS for DRAM, NAND, HBM, macro commodities, and key memory stocks.
+3. **Extracts signals** — rule-based extraction for price hikes, shortages, demand upside, and supply-chain changes.
+4. **Scores the day** — five dimensions: market relative strength, DRAM/NAND pricing, HBM supply-demand, peer validation, and downstream demand.
+5. **Generates a brief** — MiniMax produces a structured Chinese report with risks, interpretation, and next-day watch points.
+6. **Pushes to Telegram** — sends the finished report to mobile, with plain-text fallback.
+
+## Quick Start
+
+```bash
+git clone https://github.com/<your-username>/memory-stock-daily.git
+cd memory-stock-daily
+pip install -r requirements.txt
+cp .env.example .env
+python main.py
+```
+
+## Configuration
+
+| Variable | Description |
+| --- | --- |
+| `MINIMAX_API_KEY` | MiniMax API key for AI report generation |
+| `TELEGRAM_BOT_TOKEN` | Telegram bot token from BotFather |
+| `TELEGRAM_CHAT_ID` | Telegram chat ID for receiving reports |
+| `FUTU_HOST` / `FUTU_PORT` | Optional Futu OpenD host and port |
+
+## Safety
+
+Secrets should live in `.env` or GitHub Actions Secrets. Do not commit real API keys or Telegram tokens.
+
+## Disclaimer
+
+This project is for personal research and learning only. It does not provide investment advice, trading recommendations, or financial guarantees.
+
+---
+
 ## 这是什么
 
 **存储股情报局**是一个全自动化的存储产业链日报系统。每天早上它会：
