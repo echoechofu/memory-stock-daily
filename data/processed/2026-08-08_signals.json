@@ -1,0 +1,33 @@
+{
+  "dram": {
+    "status": "unknown",
+    "evidence": [],
+    "signals": []
+  },
+  "nand": {
+    "status": "unknown",
+    "evidence": [],
+    "signals": []
+  },
+  "hbm": {
+    "status": "unknown",
+    "evidence": [],
+    "signals": []
+  },
+  "capex": {
+    "status": "unknown",
+    "evidence": [],
+    "signals": []
+  },
+  "downstream": {
+    "status": "unknown",
+    "evidence": [],
+    "signals": []
+  },
+  "earnings_revision": {
+    "status": "unknown",
+    "evidence": [],
+    "signals": []
+  },
+  "all_signals": []
+}
