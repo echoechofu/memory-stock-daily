@@ -1,0 +1,89 @@
+{
+  "dram": {
+    "status": "unknown",
+    "evidence": [],
+    "signals": []
+  },
+  "nand": {
+    "status": "unknown",
+    "evidence": [],
+    "signals": []
+  },
+  "hbm": {
+    "status": "unknown",
+    "evidence": [],
+    "signals": []
+  },
+  "capex": {
+    "status": "unknown",
+    "evidence": [],
+    "signals": []
+  },
+  "downstream": {
+    "status": "unknown",
+    "evidence": [
+      {
+        "title": "Arm Holdings (ARM) Shifts Strategy to Sell Own Data Center Chips",
+        "url": "https://finance.yahoo.com/technology/articles/arm-holdings-arm-shifts-strategy-113825935.html",
+        "published_at": "2026-08-24T11:38:25Z",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Arm Holdings (ARM) Shifts Strategy to Sell Own Data Center Chips",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": [
+          "Data center"
+        ]
+      }
+    ],
+    "signals": [
+      {
+        "product": "Server",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Arm Holdings (ARM) Shifts Strategy to Sell Own Data Center Chips",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [
+          "Data center"
+        ],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "Arm Holdings (ARM) Shifts Strategy to Sell Own Data Center Chips",
+        "url": "https://finance.yahoo.com/technology/articles/arm-holdings-arm-shifts-strategy-113825935.html",
+        "published_at": "2026-08-24T11:38:25Z",
+        "source": "Yahoo Finance"
+      }
+    ]
+  },
+  "earnings_revision": {
+    "status": "unknown",
+    "evidence": [],
+    "signals": []
+  },
+  "all_signals": [
+    {
+      "product": "Server",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "Arm Holdings (ARM) Shifts Strategy to Sell Own Data Center Chips",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [
+        "Data center"
+      ],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "Arm Holdings (ARM) Shifts Strategy to Sell Own Data Center Chips",
+      "url": "https://finance.yahoo.com/technology/articles/arm-holdings-arm-shifts-strategy-113825935.html",
+      "published_at": "2026-08-24T11:38:25Z",
+      "source": "Yahoo Finance"
+    }
+  ]
+}
