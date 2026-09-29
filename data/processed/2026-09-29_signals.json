@@ -3,6 +3,19 @@
     "status": "up",
     "evidence": [
       {
+        "title": "[News] Samsung Sees HBM Taking Nearly 30% of Industry DRAM Capacity in 2027, Up From 20% Currently - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSUFVdGhOQWRmdTJzSUM0Zzhmek5yalJ4VzFlMzBuWkkzSnZVQXE0WmR6VXZiaEpBblhNMWRxV2Y0UnFaNHpjSFNqR0o0dzN1VTBzMmhRYzhUWkxnTDAwRW5SV3V5cTFuT2xYMzZYTGdsM2dWbnFfcXUzSWpMOXIzVXJNWmRTb0VIS1ZLN0FlLXdqYndrZGpHOTd4dEJmOU9EcGtXczJkN0ZZRDVqaFRUdGZ0OTRINjNGNms3WEV0NUZxLVlmWV9wVjlFZDUtZ241M3Q4?oc=5",
+        "published_at": "2026-09-29",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "[News] Samsung Sees HBM Taking Nearly 30% of Industry DRAM Capacity in 2027, Up From 20% Currently - TrendForce",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
         "title": "DRAM Module Revenue Surges 59% YoY in 2025 as Crowding-Out Effect Constrains Chip Supply and Drives Prices Higher, Says TrendForce - TrendForce",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpME9RNTdadDlEVGMxcVoyZUczTXI4ZDFzTXpHaVRKSzdXemJvQW1OY2J4MGpxMFBTR0FITnFzOWVBS2VBTUFVQnlYdS01a1FneTZTVmNjdzk1UjJ1S1NuaWVnY3VudWxuU1BXdkY3MVg?oc=5",
         "published_at": "2026-09-22",
@@ -16,13 +29,13 @@
         "demand_signals": []
       },
       {
-        "title": "[News] CXMT G5 DRAM Enters Mass Production with 50%+ Higher Dies Per Wafer; SAQP Enables 11.95nm Half-Pitch - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOG43TGk1MmRTNkVXenM1TFVYSVhzQjBZQ3c3RjhGNjl1RHNCM2M0TkNOeE4tTTA1d0tqN3p3N0Y2eXhEQkZ5MzFDTlV0cV9YUFhMVFdJaEFPSjFYeFYyT1p4SDc4N0NObE1NdUdWbUJSQ29hVENQcUd0U2MwMVhxbGg3YXFMdEpTLWE3RGtRVnhnbzhSR3Q4aFl2YlBnSnNKcVlQVjFsamRPVEZPSkl5MG1aVktPaWVqMEF4aTVZb3FVeGRIOUhneXd6aEJWX29xRmkxS3dXN2NROXZDUlp3?oc=5",
-        "published_at": "2026-09-21",
+        "title": "[Insights] Memory Spot Price Update: DRAM Spot Prices Hold Cautious Tone; DDR4 2Gx8 Drops 3.6% - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWpNUWJncjNuTVNjUnZRUzRPckc0Sk1waW5FVFFpcEVDeTg1ZXRZOC1SeWY3dWhnTXVnNERFS0ZDLUJxbGQ3SUhOYzMyb3I4R096cWxXMnZLc2ctREhhVlJNcVJHUXlmRXNhckFBaGFwSUtrUGdzMDdVNUxBZ2xFWGtOQmtEY3NDelotQzRnd2kxdWVSZU5PN3NRQ1ktX1ZBd3l1dHRWRUo5T2N4RVpIZDRFYWtLcnF5WURNQ0ZqWUFXdXVETHV5TlRua1lDdw?oc=5",
+        "published_at": "2026-09-23",
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
-        "sentence": "[News] CXMT G5 DRAM Enters Mass Production with 50%+ Higher Dies Per Wafer; SAQP Enables 11.95nm Half-Pitch - TrendForce",
+        "sentence": "[Insights] Memory Spot Price Update: DRAM Spot Prices Hold Cautious Tone; DDR4 2Gx8 Drops 3.6% - TrendForce",
         "supply_signal": "unknown",
         "risk_signals": [],
         "hbm_signals": [],
@@ -57,13 +70,13 @@
         "demand_signals": []
       },
       {
-        "title": "DRAM contract prices forecast to grow only 13-18% in Q3 - The Register",
+        "title": "DRAM contract prices forecast to grow only 13-18% in Q3 - theregister.com",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaEtoYVY3WldiWjhNTjJtZ01QM0ktTUVUbDNpak5JUFN1SUFZVXA2WTJkem5tUDVHWlUzenNkOHhnZThRcDhaMGdZLU1hQ2Q4MGRmVm5zRHJGWXJGRUNFR201aWYxN3pEelN5Snd0aDdfbk9wU1ZRYWNnajE1OU96cGE2MFNEc0ZDcUxLSng5bmE4MzF2UVZWMGpEQjBnb094OHAxN09XakN3WVJzQUE?oc=5",
         "published_at": "2026-09-07",
         "direction": "up",
         "change_pct": "18",
         "period": "QoQ",
-        "sentence": "dram contract prices forecast to grow only 13-18% in q3 - the register dram contract prices forecast to grow only 13-18% in q3&nbsp;&nbsp;the register dram",
+        "sentence": "dram contract prices forecast to grow only 13-18% in q3 - theregister.com dram contract prices forecast to grow only 13-18% in q3&nbsp;&nbsp;theregister.co",
         "supply_signal": "unknown",
         "risk_signals": [],
         "hbm_signals": [],
@@ -96,6 +109,19 @@
         "demand_signals": []
       },
       {
+        "title": "Samsung Executive: HBM to Consume Nearly 30% of Global DRAM Capacity Next Year, Accelerating Squeeze on Conventional Memory Supply - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSzdlY0k1YUt3VEVicGxLd1ZBX1BKNUMwLVRoaWxzNnBraDNoWkJUTHZoNDVwSVBCZDh2X3hoTGowQWRLdndmMFFuaDRUWnV6M2t1LVFmbl9oUHFkOXpsc3hSVzZLWFczSzJQYzRwc0stWDAwSUE?oc=5",
+        "published_at": "2026-09-29",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Samsung Executive: HBM to Consume Nearly 30% of Global DRAM Capacity Next Year, Accelerating Squeeze on Conventional Memory Supply - finance.biggo.com",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
         "title": "AI Demand Breaks DRAM-NAND Synchronization - 조선일보",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQl9zTkplR2EzYUxaYTdObmZSdm9nci1fdXh0Z3pKUUhhaGJKRkM4RGJTa3ZZZVBKRE0xcGNmTzV6YXlRWE9LcVpwdVpOdHloQlA1WVpndUd5ZWtuTUhqQWVlbjU5aXlUZXFjSkxnZWtUYVB2R1ZCX2c2SWFIRlZzOUN6djBPUDdf?oc=5",
         "published_at": "2026-09-22",
@@ -109,6 +135,32 @@
         "demand_signals": [
           "AI demand"
         ]
+      },
+      {
+        "title": "Memory Supercycle Intensifies: Bernstein Sees DRAM, NAND Prices Up Nearly 20% This Quarter - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhc3E1VWJ2ZjhhNGI4RW1xakNRbU5Ud2lxcjZIY2pKQ2dSS3gwZUJxVHlZWEpWa19BclU1dHBlaXNKcG9jck5WM2d0dlNZUHZObDc1em84T2g5b0taVlVRQXpjTEZfS0ZWbEJ2M1h5MW91RXdUUnc?oc=5",
+        "published_at": "2026-09-29",
+        "direction": "up",
+        "change_pct": "20",
+        "period": "QoQ",
+        "sentence": "memory supercycle intensifies: bernstein sees dram, nand prices up nearly 20% this quarter - finance.biggo.com memory supercycle intensifies: bernstein sees dram, nand prices up nearly 20% t",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
+        "title": "Global DRAM and HBM Market Share: Quarterly - Counterpoint Research",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYlIzVHpBVzJfYjhXUWxYSUg3VmFvTDF5Q3k3OWVzeXVpRHZVdU14OHFOZGVkRDNTTXhvMGN0OVllR3FNd19rVlRTTXp1U0NHSFd5RVFmc29UZk1vR2VmT2pINWZLcGxNTU8yYnBMWHZYUFZlTFI3R3o3T3RjMzQzN3FWNA?oc=5",
+        "published_at": "2026-09-01",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Global DRAM and HBM Market Share: Quarterly - Counterpoint Research",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
       },
       {
         "title": "DDR5 RAM Hits $400 for 32GB as Prices Soar 485% [2026] - tech-insider.org",
@@ -152,19 +204,6 @@
         ]
       },
       {
-        "title": "DRAM Module Market Surges 59%; Supply Shortage Unlikely to Ease Before 2028 - finance.biggo.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nUFN6V0kzbENEWFJpVWxrOUNPUWdIbEgxLWxWa2pDM1dha2cwZ1RlaHo0d1VfZFd5MllESURzUVFUYkhsMTFUOWlMMElybkV4UGdwR0tjWnVvdVNSel9TMEp0UTBpTmJzbGNCREFBbzZTQ0lSZEE?oc=5",
-        "published_at": "2026-09-24",
-        "direction": "up",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "dram module market surges 59%; supply shortage unlikely to ease before 2028 - finance.biggo.com dram module market surges 59%;",
-        "supply_signal": "tight",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
-      },
-      {
         "title": "AI Companies to Directly Purchase Memory, Anthropic's DRAM Demand Rivals NVIDIA's - 조선일보",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUtkREZfM2ZId2gyMC1tRWJ4WWxUTnd4TTM3THlseVZlUHJTUjRtdk5fMGZXQ3dOVVoyRjFSZnRmREZhNENYWjZTTW5NTzhUS2JoMVRQVGd1ZzJLVndPZjZQU1hBblc3WEVMRG9BT21mM3liQnp4MC1hVjc5OHg2YnNramstMkp4?oc=5",
         "published_at": "2026-09-23",
@@ -178,26 +217,39 @@
         "demand_signals": []
       },
       {
-        "title": "Micron Stock Reclaims $1,000: Can Tight DRAM Supply & Surging HBM Demand Push MU Go Higher? - top1markets.com",
+        "title": "DRAM Module Market Surges 59%; Supply Shortage Unlikely to Ease Before 2028 - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nUFN6V0kzbENEWFJpVWxrOUNPUWdIbEgxLWxWa2pDM1dha2cwZ1RlaHo0d1VfZFd5MllESURzUVFUYkhsMTFUOWlMMElybkV4UGdwR0tjWnVvdVNSel9TMEp0UTBpTmJzbGNCREFBbzZTQ0lSZEE?oc=5",
+        "published_at": "2026-09-24",
+        "direction": "up",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "dram module market surges 59%; supply shortage unlikely to ease before 2028 - finance.biggo.com dram module market surges 59%;",
+        "supply_signal": "tight",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
+        "title": "Micron Stock Reclaims $1,000: Can Tight DRAM Supply & Surging HBM Demand Push MU Go Higher? - TOP1markets",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUduNnpNUHpTSHRzVXBpR1ZLZWVEcHhBYWtzTjctWVhfc2Y0djdsZTFsYWN4RmFjQVAydDBTeWF0Vi01dVpJdjJWVVEteW9IOFV5bVhKS2RyOFMwVF9CWEFFQjBCUEdkODByelZTaUZLNnlsXzk5d25IMHZWdFA4U2RsUHpOeExDOGE3QWRjempmNmlidEVLbnRqRGkweXN5amo1SVBwS0h5SWp1b1E?oc=5",
         "published_at": "2026-09-22",
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
-        "sentence": "Micron Stock Reclaims $1,000: Can Tight DRAM Supply & Surging HBM Demand Push MU Go Higher? - top1markets.com",
+        "sentence": "Micron Stock Reclaims $1,000: Can Tight DRAM Supply & Surging HBM Demand Push MU Go Higher? - TOP1markets",
         "supply_signal": "unknown",
         "risk_signals": [],
         "hbm_signals": [],
         "demand_signals": []
       },
       {
-        "title": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - tomshardware.com",
+        "title": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - Tom's Hardware",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNc3FyNEY1Y2Z5RlVDUlE3MkdETi1ielNrTEFCeHFQc2sweUw0MWF0VTB1Q1NSVXdzMlBITWJPekMzRWxhX25acmlZQ21qVHNZSFhYdXJsVEpkOXV0enFDaHp3Z2pHSmxoVnZoUzhPVHRmUkY5bzkzV01KdFhRUlRKN1Iya0kxMVdVcnpmVVBRVlp1S1lnUE94N2E4OGVZWldMSk8zeW9DbnN5T2paejRrLTRRbkp2dWFRYkYtelAtc00wSnBMa01vSVpqaGhoSTB5UDA4SGs5RlRob09UNzZJeTlfeFNQVWFPdnpZNTEyWUNVYTJiWUVLbDdJcnUxSmlx?oc=5",
         "published_at": "2026-09-22",
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
-        "sentence": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - tomshardware.com",
+        "sentence": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - Tom's Hardware",
         "supply_signal": "unknown",
         "risk_signals": [],
         "hbm_signals": [],
@@ -207,6 +259,23 @@
       }
     ],
     "signals": [
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "[News] Samsung Sees HBM Taking Nearly 30% of Industry DRAM Capacity in 2027, Up From 20% Currently - TrendForce",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "[News] Samsung Sees HBM Taking Nearly 30% of Industry DRAM Capacity in 2027, Up From 20% Currently - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSUFVdGhOQWRmdTJzSUM0Zzhmek5yalJ4VzFlMzBuWkkzSnZVQXE0WmR6VXZiaEpBblhNMWRxV2Y0UnFaNHpjSFNqR0o0dzN1VTBzMmhRYzhUWkxnTDAwRW5SV3V5cTFuT2xYMzZYTGdsM2dWbnFfcXUzSWpMOXIzVXJNWmRTb0VIS1ZLN0FlLXdqYndrZGpHOTd4dEJmOU9EcGtXczJkN0ZZRDVqaFRUdGZ0OTRINjNGNms3WEV0NUZxLVlmWV9wVjlFZDUtZ241M3Q4?oc=5",
+        "published_at": "2026-09-29",
+        "source": "TrendForce"
+      },
       {
         "product": "DRAM",
         "metric": "unknown",
@@ -226,19 +295,19 @@
       },
       {
         "product": "DRAM",
-        "metric": "unknown",
+        "metric": "spot price",
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
-        "sentence": "[News] CXMT G5 DRAM Enters Mass Production with 50%+ Higher Dies Per Wafer; SAQP Enables 11.95nm Half-Pitch - TrendForce",
+        "sentence": "[Insights] Memory Spot Price Update: DRAM Spot Prices Hold Cautious Tone; DDR4 2Gx8 Drops 3.6% - TrendForce",
         "supply_signal": "unknown",
         "hbm_signals": [],
         "demand_signals": [],
         "capex_signals": [],
         "risk_signals": [],
-        "title": "[News] CXMT G5 DRAM Enters Mass Production with 50%+ Higher Dies Per Wafer; SAQP Enables 11.95nm Half-Pitch - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOG43TGk1MmRTNkVXenM1TFVYSVhzQjBZQ3c3RjhGNjl1RHNCM2M0TkNOeE4tTTA1d0tqN3p3N0Y2eXhEQkZ5MzFDTlV0cV9YUFhMVFdJaEFPSjFYeFYyT1p4SDc4N0NObE1NdUdWbUJSQ29hVENQcUd0U2MwMVhxbGg3YXFMdEpTLWE3RGtRVnhnbzhSR3Q4aFl2YlBnSnNKcVlQVjFsamRPVEZPSkl5MG1aVktPaWVqMEF4aTVZb3FVeGRIOUhneXd6aEJWX29xRmkxS3dXN2NROXZDUlp3?oc=5",
-        "published_at": "2026-09-21",
+        "title": "[Insights] Memory Spot Price Update: DRAM Spot Prices Hold Cautious Tone; DDR4 2Gx8 Drops 3.6% - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWpNUWJncjNuTVNjUnZRUzRPckc0Sk1waW5FVFFpcEVDeTg1ZXRZOC1SeWY3dWhnTXVnNERFS0ZDLUJxbGQ3SUhOYzMyb3I4R096cWxXMnZLc2ctREhhVlJNcVJHUXlmRXNhckFBaGFwSUtrUGdzMDdVNUxBZ2xFWGtOQmtEY3NDelotQzRnd2kxdWVSZU5PN3NRQ1ktX1ZBd3l1dHRWRUo5T2N4RVpIZDRFYWtLcnF5WURNQ0ZqWUFXdXVETHV5TlRua1lDdw?oc=5",
+        "published_at": "2026-09-23",
         "source": "TrendForce"
       },
       {
@@ -283,16 +352,16 @@
         "direction": "up",
         "change_pct": "18",
         "period": "QoQ",
-        "sentence": "dram contract prices forecast to grow only 13-18% in q3 - the register dram contract prices forecast to grow only 13-18% in q3&nbsp;&nbsp;the register dram",
+        "sentence": "dram contract prices forecast to grow only 13-18% in q3 - theregister.com dram contract prices forecast to grow only 13-18% in q3&nbsp;&nbsp;theregister.co",
         "supply_signal": "unknown",
         "hbm_signals": [],
         "demand_signals": [],
         "capex_signals": [],
         "risk_signals": [],
-        "title": "DRAM contract prices forecast to grow only 13-18% in Q3 - The Register",
+        "title": "DRAM contract prices forecast to grow only 13-18% in Q3 - theregister.com",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaEtoYVY3WldiWjhNTjJtZ01QM0ktTUVUbDNpak5JUFN1SUFZVXA2WTJkem5tUDVHWlUzenNkOHhnZThRcDhaMGdZLU1hQ2Q4MGRmVm5zRHJGWXJGRUNFR201aWYxN3pEelN5Snd0aDdfbk9wU1ZRYWNnajE1OU96cGE2MFNEc0ZDcUxLSng5bmE4MzF2UVZWMGpEQjBnb094OHAxN09XakN3WVJzQUE?oc=5",
         "published_at": "2026-09-07",
-        "source": "The Register"
+        "source": "theregister.com"
       },
       {
         "product": "DRAM",
@@ -334,6 +403,23 @@
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
+        "sentence": "Samsung Executive: HBM to Consume Nearly 30% of Global DRAM Capacity Next Year, Accelerating Squeeze on Conventional Memory Supply - finance.biggo.com",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "Samsung Executive: HBM to Consume Nearly 30% of Global DRAM Capacity Next Year, Accelerating Squeeze on Conventional Memory Supply - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSzdlY0k1YUt3VEVicGxLd1ZBX1BKNUMwLVRoaWxzNnBraDNoWkJUTHZoNDVwSVBCZDh2X3hoTGowQWRLdndmMFFuaDRUWnV6M2t1LVFmbl9oUHFkOXpsc3hSVzZLWFczSzJQYzRwc0stWDAwSUE?oc=5",
+        "published_at": "2026-09-29",
+        "source": "finance.biggo.com"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
         "sentence": "AI Demand Breaks DRAM-NAND Synchronization - 조선일보",
         "supply_signal": "unknown",
         "hbm_signals": [],
@@ -346,6 +432,40 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQl9zTkplR2EzYUxaYTdObmZSdm9nci1fdXh0Z3pKUUhhaGJKRkM4RGJTa3ZZZVBKRE0xcGNmTzV6YXlRWE9LcVpwdVpOdHloQlA1WVpndUd5ZWtuTUhqQWVlbjU5aXlUZXFjSkxnZWtUYVB2R1ZCX2c2SWFIRlZzOUN6djBPUDdf?oc=5",
         "published_at": "2026-09-22",
         "source": "조선일보"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "up",
+        "change_pct": "20",
+        "period": "QoQ",
+        "sentence": "memory supercycle intensifies: bernstein sees dram, nand prices up nearly 20% this quarter - finance.biggo.com memory supercycle intensifies: bernstein sees dram, nand prices up nearly 20% t",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "Memory Supercycle Intensifies: Bernstein Sees DRAM, NAND Prices Up Nearly 20% This Quarter - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhc3E1VWJ2ZjhhNGI4RW1xakNRbU5Ud2lxcjZIY2pKQ2dSS3gwZUJxVHlZWEpWa19BclU1dHBlaXNKcG9jck5WM2d0dlNZUHZObDc1em84T2g5b0taVlVRQXpjTEZfS0ZWbEJ2M1h5MW91RXdUUnc?oc=5",
+        "published_at": "2026-09-29",
+        "source": "finance.biggo.com"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Global DRAM and HBM Market Share: Quarterly - Counterpoint Research",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "Global DRAM and HBM Market Share: Quarterly - Counterpoint Research",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYlIzVHpBVzJfYjhXUWxYSUg3VmFvTDF5Q3k3OWVzeXVpRHZVdU14OHFOZGVkRDNTTXhvMGN0OVllR3FNd19rVlRTTXp1U0NHSFd5RVFmc29UZk1vR2VmT2pINWZLcGxNTU8yYnBMWHZYUFZlTFI3R3o3T3RjMzQzN3FWNA?oc=5",
+        "published_at": "2026-09-01",
+        "source": "Counterpoint Research"
       },
       {
         "product": "DRAM",
@@ -403,6 +523,23 @@
       {
         "product": "DRAM",
         "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "AI Companies to Directly Purchase Memory, Anthropic's DRAM Demand Rivals NVIDIA's - 조선일보",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "AI Companies to Directly Purchase Memory, Anthropic's DRAM Demand Rivals NVIDIA's - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUtkREZfM2ZId2gyMC1tRWJ4WWxUTnd4TTM3THlseVZlUHJTUjRtdk5fMGZXQ3dOVVoyRjFSZnRmREZhNENYWjZTTW5NTzhUS2JoMVRQVGd1ZzJLVndPZjZQU1hBblc3WEVMRG9BT21mM3liQnp4MC1hVjc5OHg2YnNramstMkp4?oc=5",
+        "published_at": "2026-09-23",
+        "source": "조선일보"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
         "direction": "up",
         "change_pct": "",
         "period": "unknown",
@@ -423,33 +560,16 @@
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
-        "sentence": "AI Companies to Directly Purchase Memory, Anthropic's DRAM Demand Rivals NVIDIA's - 조선일보",
+        "sentence": "Micron Stock Reclaims $1,000: Can Tight DRAM Supply & Surging HBM Demand Push MU Go Higher? - TOP1markets",
         "supply_signal": "unknown",
         "hbm_signals": [],
         "demand_signals": [],
         "capex_signals": [],
         "risk_signals": [],
-        "title": "AI Companies to Directly Purchase Memory, Anthropic's DRAM Demand Rivals NVIDIA's - 조선일보",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUtkREZfM2ZId2gyMC1tRWJ4WWxUTnd4TTM3THlseVZlUHJTUjRtdk5fMGZXQ3dOVVoyRjFSZnRmREZhNENYWjZTTW5NTzhUS2JoMVRQVGd1ZzJLVndPZjZQU1hBblc3WEVMRG9BT21mM3liQnp4MC1hVjc5OHg2YnNramstMkp4?oc=5",
-        "published_at": "2026-09-23",
-        "source": "조선일보"
-      },
-      {
-        "product": "DRAM",
-        "metric": "unknown",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "Micron Stock Reclaims $1,000: Can Tight DRAM Supply & Surging HBM Demand Push MU Go Higher? - top1markets.com",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "Micron Stock Reclaims $1,000: Can Tight DRAM Supply & Surging HBM Demand Push MU Go Higher? - top1markets.com",
+        "title": "Micron Stock Reclaims $1,000: Can Tight DRAM Supply & Surging HBM Demand Push MU Go Higher? - TOP1markets",
         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUduNnpNUHpTSHRzVXBpR1ZLZWVEcHhBYWtzTjctWVhfc2Y0djdsZTFsYWN4RmFjQVAydDBTeWF0Vi01dVpJdjJWVVEteW9IOFV5bVhKS2RyOFMwVF9CWEFFQjBCUEdkODByelZTaUZLNnlsXzk5d25IMHZWdFA4U2RsUHpOeExDOGE3QWRjempmNmlidEVLbnRqRGkweXN5amo1SVBwS0h5SWp1b1E?oc=5",
         "published_at": "2026-09-22",
-        "source": "top1markets.com"
+        "source": "TOP1markets"
       },
       {
         "product": "DRAM",
@@ -457,7 +577,7 @@
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
-        "sentence": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - tomshardware.com",
+        "sentence": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - Tom's Hardware",
         "supply_signal": "unknown",
         "hbm_signals": [],
         "demand_signals": [
@@ -465,15 +585,15 @@
         ],
         "capex_signals": [],
         "risk_signals": [],
-        "title": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - tomshardware.com",
+        "title": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - Tom's Hardware",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNc3FyNEY1Y2Z5RlVDUlE3MkdETi1ielNrTEFCeHFQc2sweUw0MWF0VTB1Q1NSVXdzMlBITWJPekMzRWxhX25acmlZQ21qVHNZSFhYdXJsVEpkOXV0enFDaHp3Z2pHSmxoVnZoUzhPVHRmUkY5bzkzV01KdFhRUlRKN1Iya0kxMVdVcnpmVVBRVlp1S1lnUE94N2E4OGVZWldMSk8zeW9DbnN5T2paejRrLTRRbkp2dWFRYkYtelAtc00wSnBMa01vSVpqaGhoSTB5UDA4SGs5RlRob09UNzZJeTlfeFNQVWFPdnpZNTEyWUNVYTJiWUVLbDdJcnUxSmlx?oc=5",
         "published_at": "2026-09-22",
-        "source": "tomshardware.com"
+        "source": "Tom's Hardware"
       }
     ]
   },
   "nand": {
-    "status": "unknown",
+    "status": "up",
     "evidence": [
       {
         "title": "Why CSPs Are Turning to QLC SSDs for KV Cache Storage - TrendForce",
@@ -496,19 +616,6 @@
         "change_pct": "",
         "period": "unknown",
         "sentence": "[News] German Court Reportedly Finds Micron Infringed Two YMTC NAND Patents, Grants Injunctions - TrendForce",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
-      },
-      {
-        "title": "Weekly Radar 002: eSSD Demand is Reshaping NAND Supply - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WSW5HUy1UMW1MLUVvTjNaQV9PQTc4LWNfazRTcWZvYkFpZnlnSjdKMTdRdkhoX1dUR2NON3VNMGVsVmtGcmZtSldTUGg2dThWcktUR1B3SjVCZm84WWRn?oc=5",
-        "published_at": "2026-09-21",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "Weekly Radar 002: eSSD Demand is Reshaping NAND Supply - TrendForce",
         "supply_signal": "unknown",
         "risk_signals": [],
         "hbm_signals": [],
@@ -556,6 +663,19 @@
         ]
       },
       {
+        "title": "Memory Supercycle Intensifies: Bernstein Sees DRAM, NAND Prices Up Nearly 20% This Quarter - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhc3E1VWJ2ZjhhNGI4RW1xakNRbU5Ud2lxcjZIY2pKQ2dSS3gwZUJxVHlZWEpWa19BclU1dHBlaXNKcG9jck5WM2d0dlNZUHZObDc1em84T2g5b0taVlVRQXpjTEZfS0ZWbEJ2M1h5MW91RXdUUnc?oc=5",
+        "published_at": "2026-09-29",
+        "direction": "up",
+        "change_pct": "20",
+        "period": "QoQ",
+        "sentence": "memory supercycle intensifies: bernstein sees dram, nand prices up nearly 20% this quarter - finance.biggo.com memory supercycle intensifies: bernstein sees dram, nand prices up nearly 20% t",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
         "title": "Why Are Memory Prices Rising in 2026? AI Boom Tightens DRAM, HBM and NAND Supply - InfotechLead",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT25kT0Y0T2swdHdXZ0cyUFh0VVI3dHVFUnZhazVHbTl2ZWhRTkZJblhWM0dQS3B2Sl83WVNHZG1LamJ4djZPOVN6a0s1dXFEci1HTWgxYmVzM2o3QWxfYmFIS3pMejZiNi15ZGZUSC1XT3Bzb3BybGZtY2VkMzFBZW1OdzhQTnA3Tm1KMy1xaTVyeEhfNXRlZktLT1FDOTZlMFBVMTJ6dHhfYkFjeVRxVEtyWEJlT0hfb2EwRWNB0gHGAUFVX3lxTFBMVmExQlM4Z3lzN1VsVXhWUEMxZTJkbWtaU2FLNVBucXhCSVlsMV9PNklJX3dDXy1wU040cVpROEo1M3VSLTBFbXRHa2RHdm5QSVFQd3IwaE1IeERTenhOdF9nTkpDRVJJWHFObWRiRjZocUhPcEl5bmFab0NlbXQ4MFRVYTYzcnByWm9jUWlQZ0xFQWthTXdKVm5JUVZwS0Q2QjY1aHBWQ0dwOFRZZ1Jja2YxMXU2dmYyem13STd1ZTBDZFJUQQ?oc=5",
         "published_at": "2026-09-23",
@@ -584,39 +704,13 @@
         ]
       },
       {
-        "title": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics - tomshardware.com",
+        "title": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics - Tom's Hardware",
         "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdWxTYWdrTDF5OEtIR2tGUGxXQUI2UldpWkp6R2R5RGRLWjN6R0p2OTJrZUNjcFF1RTBKVDFKNUNmSTBrYXVUMjRGMjZyem5xOGljYXBkYng4U3B1bDhZa0tSMjFfMDRFeXVRMGc4NGthc3FZVEUwSXd1N2lsdk90WTBDUWZwZXRUU1V0Y243MndLckxJQ256a1pUeEVnNUs0NjQ5Ymx3LWdPcG9rODlScXBRMmRYLTVzSFZlSWh3dnYyMmZrdXRHa1htWUg5NE5ueVNnZUc3UFU3NGJlZXFEV2JMUnRsSEhuQjloN2Vlc1hnWk12WkxBVEI2ZnZnRnZMTXFOdG9MbHBEZGVPNFhYV1Ztcm51VHFmNFlCdTVXcUJGSGRsUFk4?oc=5",
         "published_at": "2026-09-18",
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
-        "sentence": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics - tomshardware.com",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
-      },
-      {
-        "title": "Will SanDisk (SNDK) Ride the Next Wave of AI-Driven NAND Demand? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmtqcWp5VkQ1eGs5WXJWWmNvU0ppaVlDeTJnZE8wdE9YZlRtVjRRRHE3dENSTW1Pbndpb0o0OG5UNWlpTHpSV3VMTUcwOFoweHZPU2pEZVRjUi1UTnhEMzRIUC1HZ29QRnI1TnExdk1TOF82My1MellHVFhEcTFrNWhVNE4wRUxqOUNKblZoaV9uQTZNSWc?oc=5",
-        "published_at": "Sun, 27 Sep 2026 08:25:19 GMT",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "Will SanDisk (SNDK) Ride the Next Wave of AI-Driven NAND Demand? - Yahoo Finance",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
-      },
-      {
-        "title": "SK Hynix (SKHY) Weighs a U.S. NAND Plant. Would Lower China Risk Justify the Cost? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1BnVHUxX2N3SkZGZUlxaG04Xy15eC0zeXNaRlpfUklLdUtkN3VRSGlTOUtZdUtYVHZ1NjlkSllLUnFjZGtvYU1tU0JCODJadnM0MHhsdkVncEJiM2c3YkV4TjdKNnRGR2V3RExiUkhUZGVPaHAzOU4yZVFVcE5rS21FMS1lanF0ME9B?oc=5",
-        "published_at": "Sat, 26 Sep 2026 00:38:00 GMT",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "SK Hynix (SKHY) Weighs a U.S. NAND Plant. Would Lower China Risk Justify the Cost? - Yahoo Finance",
+        "sentence": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics - Tom's Hardware",
         "supply_signal": "unknown",
         "risk_signals": [],
         "hbm_signals": [],
@@ -660,23 +754,6 @@
       },
       {
         "product": "NAND",
-        "metric": "unknown",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "Weekly Radar 002: eSSD Demand is Reshaping NAND Supply - TrendForce",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "Weekly Radar 002: eSSD Demand is Reshaping NAND Supply - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WSW5HUy1UMW1MLUVvTjNaQV9PQTc4LWNfazRTcWZvYkFpZnlnSjdKMTdRdkhoX1dUR2NON3VNMGVsVmtGcmZtSldTUGg2dThWcktUR1B3SjVCZm84WWRn?oc=5",
-        "published_at": "2026-09-21",
-        "source": "TrendForce"
-      },
-      {
-        "product": "NAND",
         "metric": "contract price",
         "direction": "unknown",
         "change_pct": "",
@@ -731,6 +808,23 @@
       {
         "product": "NAND",
         "metric": "unknown",
+        "direction": "up",
+        "change_pct": "20",
+        "period": "QoQ",
+        "sentence": "memory supercycle intensifies: bernstein sees dram, nand prices up nearly 20% this quarter - finance.biggo.com memory supercycle intensifies: bernstein sees dram, nand prices up nearly 20% t",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "Memory Supercycle Intensifies: Bernstein Sees DRAM, NAND Prices Up Nearly 20% This Quarter - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhc3E1VWJ2ZjhhNGI4RW1xakNRbU5Ud2lxcjZIY2pKQ2dSS3gwZUJxVHlZWEpWa19BclU1dHBlaXNKcG9jck5WM2d0dlNZUHZObDc1em84T2g5b0taVlVRQXpjTEZfS0ZWbEJ2M1h5MW91RXdUUnc?oc=5",
+        "published_at": "2026-09-29",
+        "source": "finance.biggo.com"
+      },
+      {
+        "product": "NAND",
+        "metric": "unknown",
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
@@ -770,57 +864,59 @@
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
-        "sentence": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics - tomshardware.com",
+        "sentence": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics - Tom's Hardware",
         "supply_signal": "unknown",
         "hbm_signals": [],
         "demand_signals": [],
         "capex_signals": [],
         "risk_signals": [],
-        "title": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics - tomshardware.com",
+        "title": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics - Tom's Hardware",
         "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdWxTYWdrTDF5OEtIR2tGUGxXQUI2UldpWkp6R2R5RGRLWjN6R0p2OTJrZUNjcFF1RTBKVDFKNUNmSTBrYXVUMjRGMjZyem5xOGljYXBkYng4U3B1bDhZa0tSMjFfMDRFeXVRMGc4NGthc3FZVEUwSXd1N2lsdk90WTBDUWZwZXRUU1V0Y243MndLckxJQ256a1pUeEVnNUs0NjQ5Ymx3LWdPcG9rODlScXBRMmRYLTVzSFZlSWh3dnYyMmZrdXRHa1htWUg5NE5ueVNnZUc3UFU3NGJlZXFEV2JMUnRsSEhuQjloN2Vlc1hnWk12WkxBVEI2ZnZnRnZMTXFOdG9MbHBEZGVPNFhYV1Ztcm51VHFmNFlCdTVXcUJGSGRsUFk4?oc=5",
         "published_at": "2026-09-18",
-        "source": "tomshardware.com"
-      },
-      {
-        "product": "NAND",
-        "metric": "unknown",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "Will SanDisk (SNDK) Ride the Next Wave of AI-Driven NAND Demand? - Yahoo Finance",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "Will SanDisk (SNDK) Ride the Next Wave of AI-Driven NAND Demand? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmtqcWp5VkQ1eGs5WXJWWmNvU0ppaVlDeTJnZE8wdE9YZlRtVjRRRHE3dENSTW1Pbndpb0o0OG5UNWlpTHpSV3VMTUcwOFoweHZPU2pEZVRjUi1UTnhEMzRIUC1HZ29QRnI1TnExdk1TOF82My1MellHVFhEcTFrNWhVNE4wRUxqOUNKblZoaV9uQTZNSWc?oc=5",
-        "published_at": "Sun, 27 Sep 2026 08:25:19 GMT",
-        "source": "KeyStock:SanDisk"
-      },
-      {
-        "product": "NAND",
-        "metric": "unknown",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "SK Hynix (SKHY) Weighs a U.S. NAND Plant. Would Lower China Risk Justify the Cost? - Yahoo Finance",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "SK Hynix (SKHY) Weighs a U.S. NAND Plant. Would Lower China Risk Justify the Cost? - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1BnVHUxX2N3SkZGZUlxaG04Xy15eC0zeXNaRlpfUklLdUtkN3VRSGlTOUtZdUtYVHZ1NjlkSllLUnFjZGtvYU1tU0JCODJadnM0MHhsdkVncEJiM2c3YkV4TjdKNnRGR2V3RExiUkhUZGVPaHAzOU4yZVFVcE5rS21FMS1lanF0ME9B?oc=5",
-        "published_at": "Sat, 26 Sep 2026 00:38:00 GMT",
-        "source": "KeyStock:SK hynix"
+        "source": "Tom's Hardware"
       }
     ]
   },
   "hbm": {
-    "status": "unknown",
-    "evidence": [],
-    "signals": []
+    "status": "up",
+    "evidence": [
+      {
+        "title": "HBM prices surge as AI demand and HBM4 shift tighten supply - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZZ1FSUTh6d19fMFpUQktLZVRuUV85M3k1Z1BGekw5S0xWTXFRY3BidEpGRlJaQ0tVSm85UWwxdy14QTNYNkJ6OFQ1eHdUYmM3aXBoQ2V1eTJIWnhXRTdtZ1BTSkFESTNHbVgwQ19jWk1HMkxRcFFqNF930gGOAUFVX3lxTFBMa3lJX1JxNTFnb3B3TFRseUNheG9HT3NoREtqb3lyc1doUkVPRS1IVGdUbDV0Z21IYWF5VWIySk10Y0kwbDEyWGlqMDY1aWpCaDlwZkVrQTBzTzdNNTkwYkxlYm4zNjM1eS0zUFJuQmVLU3B4M2o2LUtsaURqLXN2bTRsVVBIVF9YNWU4YUE?oc=5",
+        "published_at": "2026-09-29",
+        "direction": "up",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "hbm prices surge as ai demand and hbm4 shift tighten supply - chosunbiz - chosunbiz hbm prices surge as ai demand and hbm4 shift tighten supply - chosunbiz&nbsp;&nbsp;chosunbiz hbm prices surge as ai ",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": [
+          "AI demand"
+        ]
+      }
+    ],
+    "signals": [
+      {
+        "product": "HBM",
+        "metric": "unknown",
+        "direction": "up",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "hbm prices surge as ai demand and hbm4 shift tighten supply - chosunbiz - chosunbiz hbm prices surge as ai demand and hbm4 shift tighten supply - chosunbiz&nbsp;&nbsp;chosunbiz hbm prices surge as ai ",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [
+          "AI demand"
+        ],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "HBM prices surge as AI demand and HBM4 shift tighten supply - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZZ1FSUTh6d19fMFpUQktLZVRuUV85M3k1Z1BGekw5S0xWTXFRY3BidEpGRlJaQ0tVSm85UWwxdy14QTNYNkJ6OFQ1eHdUYmM3aXBoQ2V1eTJIWnhXRTdtZ1BTSkFESTNHbVgwQ19jWk1HMkxRcFFqNF930gGOAUFVX3lxTFBMa3lJX1JxNTFnb3B3TFRseUNheG9HT3NoREtqb3lyc1doUkVPRS1IVGdUbDV0Z21IYWF5VWIySk10Y0kwbDEyWGlqMDY1aWpCaDlwZkVrQTBzTzdNNTkwYkxlYm4zNjM1eS0zUFJuQmVLU3B4M2o2LUtsaURqLXN2bTRsVVBIVF9YNWU4YUE?oc=5",
+        "published_at": "2026-09-29",
+        "source": "Chosunbiz"
+      }
+    ]
   },
   "capex": {
     "status": "tight",
@@ -841,6 +937,18 @@
   "downstream": {
     "status": "ai_driven",
     "evidence": [
+      {
+        "title": "HBM prices surge as AI demand and HBM4 shift tighten supply - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZZ1FSUTh6d19fMFpUQktLZVRuUV85M3k1Z1BGekw5S0xWTXFRY3BidEpGRlJaQ0tVSm85UWwxdy14QTNYNkJ6OFQ1eHdUYmM3aXBoQ2V1eTJIWnhXRTdtZ1BTSkFESTNHbVgwQ19jWk1HMkxRcFFqNF930gGOAUFVX3lxTFBMa3lJX1JxNTFnb3B3TFRseUNheG9HT3NoREtqb3lyc1doUkVPRS1IVGdUbDV0Z21IYWF5VWIySk10Y0kwbDEyWGlqMDY1aWpCaDlwZkVrQTBzTzdNNTkwYkxlYm4zNjM1eS0zUFJuQmVLU3B4M2o2LUtsaURqLXN2bTRsVVBIVF9YNWU4YUE?oc=5",
+        "demand": [
+          "AI demand"
+        ],
+        "sentence": "hbm prices surge as ai demand and hbm4 shift tighten supply - chosunbiz - chosunbiz hbm prices surge as ai demand and hbm4 shift tighten supply - chosunbiz&nbsp;&nbsp;chosunbiz hbm prices surge as ai ",
+        "direction": "up",
+        "change_pct": "",
+        "period": "unknown",
+        "risk_signals": []
+      },
       {
         "title": "AI Demand Breaks DRAM-NAND Synchronization - 조선일보",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQl9zTkplR2EzYUxaYTdObmZSdm9nci1fdXh0Z3pKUUhhaGJKRkM4RGJTa3ZZZVBKRE0xcGNmTzV6YXlRWE9LcVpwdVpOdHloQlA1WVpndUd5ZWtuTUhqQWVlbjU5aXlUZXFjSkxnZWtUYVB2R1ZCX2c2SWFIRlZzOUN6djBPUDdf?oc=5",
@@ -866,12 +974,12 @@
         "risk_signals": []
       },
       {
-        "title": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - tomshardware.com",
+        "title": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - Tom's Hardware",
         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNc3FyNEY1Y2Z5RlVDUlE3MkdETi1ielNrTEFCeHFQc2sweUw0MWF0VTB1Q1NSVXdzMlBITWJPekMzRWxhX25acmlZQ21qVHNZSFhYdXJsVEpkOXV0enFDaHp3Z2pHSmxoVnZoUzhPVHRmUkY5bzkzV01KdFhRUlRKN1Iya0kxMVdVcnpmVVBRVlp1S1lnUE94N2E4OGVZWldMSk8zeW9DbnN5T2paejRrLTRRbkp2dWFRYkYtelAtc00wSnBMa01vSVpqaGhoSTB5UDA4SGs5RlRob09UNzZJeTlfeFNQVWFPdnpZNTEyWUNVYTJiWUVLbDdJcnUxSmlx?oc=5",
         "demand": [
           "AI demand"
         ],
-        "sentence": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - tomshardware.com",
+        "sentence": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - Tom's Hardware",
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
@@ -886,6 +994,23 @@
     "signals": []
   },
   "all_signals": [
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "[News] Samsung Sees HBM Taking Nearly 30% of Industry DRAM Capacity in 2027, Up From 20% Currently - TrendForce",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "[News] Samsung Sees HBM Taking Nearly 30% of Industry DRAM Capacity in 2027, Up From 20% Currently - TrendForce",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSUFVdGhOQWRmdTJzSUM0Zzhmek5yalJ4VzFlMzBuWkkzSnZVQXE0WmR6VXZiaEpBblhNMWRxV2Y0UnFaNHpjSFNqR0o0dzN1VTBzMmhRYzhUWkxnTDAwRW5SV3V5cTFuT2xYMzZYTGdsM2dWbnFfcXUzSWpMOXIzVXJNWmRTb0VIS1ZLN0FlLXdqYndrZGpHOTd4dEJmOU9EcGtXczJkN0ZZRDVqaFRUdGZ0OTRINjNGNms3WEV0NUZxLVlmWV9wVjlFZDUtZ241M3Q4?oc=5",
+      "published_at": "2026-09-29",
+      "source": "TrendForce"
+    },
     {
       "product": "NAND",
       "metric": "unknown",
@@ -921,6 +1046,23 @@
       "source": "TrendForce"
     },
     {
+      "product": "DRAM",
+      "metric": "spot price",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "[Insights] Memory Spot Price Update: DRAM Spot Prices Hold Cautious Tone; DDR4 2Gx8 Drops 3.6% - TrendForce",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "[Insights] Memory Spot Price Update: DRAM Spot Prices Hold Cautious Tone; DDR4 2Gx8 Drops 3.6% - TrendForce",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQWpNUWJncjNuTVNjUnZRUzRPckc0Sk1waW5FVFFpcEVDeTg1ZXRZOC1SeWY3dWhnTXVnNERFS0ZDLUJxbGQ3SUhOYzMyb3I4R096cWxXMnZLc2ctREhhVlJNcVJHUXlmRXNhckFBaGFwSUtrUGdzMDdVNUxBZ2xFWGtOQmtEY3NDelotQzRnd2kxdWVSZU5PN3NRQ1ktX1ZBd3l1dHRWRUo5T2N4RVpIZDRFYWtLcnF5WURNQ0ZqWUFXdXVETHV5TlRua1lDdw?oc=5",
+      "published_at": "2026-09-23",
+      "source": "TrendForce"
+    },
+    {
       "product": "NAND",
       "metric": "unknown",
       "direction": "unknown",
@@ -935,40 +1077,6 @@
       "title": "[News] German Court Reportedly Finds Micron Infringed Two YMTC NAND Patents, Grants Injunctions - TrendForce",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ1ZtWVF1UGo1V3ViLWxkT3lFWXh3LThCaWNWZE01SnJuMWFWNlFGX0NXYTd4bG9icXNfUWlSQjU2MFotal9WWDR1WlRld1lhTnBrYzZWdkg3QkpMSW1UMlBfaWhvZGt1UWpFQUdqSWlWaHFONEh4STdKNEVNaGphaC13aE1hY2t3RVVyQWtIQ2xNUm9GN3ZVNjVjNEZSeDJqellMRENXdHYta1c0Q1QtXzFaZ2RhUDh1TEVIVUoyMWtSR2pqakc3SlY5cEp1Tmd3TVE?oc=5",
       "published_at": "2026-09-23",
-      "source": "TrendForce"
-    },
-    {
-      "product": "DRAM",
-      "metric": "unknown",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "[News] CXMT G5 DRAM Enters Mass Production with 50%+ Higher Dies Per Wafer; SAQP Enables 11.95nm Half-Pitch - TrendForce",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "[News] CXMT G5 DRAM Enters Mass Production with 50%+ Higher Dies Per Wafer; SAQP Enables 11.95nm Half-Pitch - TrendForce",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOG43TGk1MmRTNkVXenM1TFVYSVhzQjBZQ3c3RjhGNjl1RHNCM2M0TkNOeE4tTTA1d0tqN3p3N0Y2eXhEQkZ5MzFDTlV0cV9YUFhMVFdJaEFPSjFYeFYyT1p4SDc4N0NObE1NdUdWbUJSQ29hVENQcUd0U2MwMVhxbGg3YXFMdEpTLWE3RGtRVnhnbzhSR3Q4aFl2YlBnSnNKcVlQVjFsamRPVEZPSkl5MG1aVktPaWVqMEF4aTVZb3FVeGRIOUhneXd6aEJWX29xRmkxS3dXN2NROXZDUlp3?oc=5",
-      "published_at": "2026-09-21",
-      "source": "TrendForce"
-    },
-    {
-      "product": "NAND",
-      "metric": "unknown",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "Weekly Radar 002: eSSD Demand is Reshaping NAND Supply - TrendForce",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "Weekly Radar 002: eSSD Demand is Reshaping NAND Supply - TrendForce",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WSW5HUy1UMW1MLUVvTjNaQV9PQTc4LWNfazRTcWZvYkFpZnlnSjdKMTdRdkhoX1dUR2NON3VNMGVsVmtGcmZtSldTUGg2dThWcktUR1B3SjVCZm84WWRn?oc=5",
-      "published_at": "2026-09-21",
       "source": "TrendForce"
     },
     {
@@ -1047,16 +1155,16 @@
       "direction": "up",
       "change_pct": "18",
       "period": "QoQ",
-      "sentence": "dram contract prices forecast to grow only 13-18% in q3 - the register dram contract prices forecast to grow only 13-18% in q3&nbsp;&nbsp;the register dram",
+      "sentence": "dram contract prices forecast to grow only 13-18% in q3 - theregister.com dram contract prices forecast to grow only 13-18% in q3&nbsp;&nbsp;theregister.co",
       "supply_signal": "unknown",
       "hbm_signals": [],
       "demand_signals": [],
       "capex_signals": [],
       "risk_signals": [],
-      "title": "DRAM contract prices forecast to grow only 13-18% in Q3 - The Register",
+      "title": "DRAM contract prices forecast to grow only 13-18% in Q3 - theregister.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaEtoYVY3WldiWjhNTjJtZ01QM0ktTUVUbDNpak5JUFN1SUFZVXA2WTJkem5tUDVHWlUzenNkOHhnZThRcDhaMGdZLU1hQ2Q4MGRmVm5zRHJGWXJGRUNFR201aWYxN3pEelN5Snd0aDdfbk9wU1ZRYWNnajE1OU96cGE2MFNEc0ZDcUxLSng5bmE4MzF2UVZWMGpEQjBnb094OHAxN09XakN3WVJzQUE?oc=5",
       "published_at": "2026-09-07",
-      "source": "The Register"
+      "source": "theregister.com"
     },
     {
       "product": "DRAM",
@@ -1098,6 +1206,42 @@
       "direction": "unknown",
       "change_pct": "",
       "period": "unknown",
+      "sentence": "Samsung Executive: HBM to Consume Nearly 30% of Global DRAM Capacity Next Year, Accelerating Squeeze on Conventional Memory Supply - finance.biggo.com",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "Samsung Executive: HBM to Consume Nearly 30% of Global DRAM Capacity Next Year, Accelerating Squeeze on Conventional Memory Supply - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DSzdlY0k1YUt3VEVicGxLd1ZBX1BKNUMwLVRoaWxzNnBraDNoWkJUTHZoNDVwSVBCZDh2X3hoTGowQWRLdndmMFFuaDRUWnV6M2t1LVFmbl9oUHFkOXpsc3hSVzZLWFczSzJQYzRwc0stWDAwSUE?oc=5",
+      "published_at": "2026-09-29",
+      "source": "finance.biggo.com"
+    },
+    {
+      "product": "HBM",
+      "metric": "unknown",
+      "direction": "up",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "hbm prices surge as ai demand and hbm4 shift tighten supply - chosunbiz - chosunbiz hbm prices surge as ai demand and hbm4 shift tighten supply - chosunbiz&nbsp;&nbsp;chosunbiz hbm prices surge as ai ",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [
+        "AI demand"
+      ],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "HBM prices surge as AI demand and HBM4 shift tighten supply - CHOSUNBIZ - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZZ1FSUTh6d19fMFpUQktLZVRuUV85M3k1Z1BGekw5S0xWTXFRY3BidEpGRlJaQ0tVSm85UWwxdy14QTNYNkJ6OFQ1eHdUYmM3aXBoQ2V1eTJIWnhXRTdtZ1BTSkFESTNHbVgwQ19jWk1HMkxRcFFqNF930gGOAUFVX3lxTFBMa3lJX1JxNTFnb3B3TFRseUNheG9HT3NoREtqb3lyc1doUkVPRS1IVGdUbDV0Z21IYWF5VWIySk10Y0kwbDEyWGlqMDY1aWpCaDlwZkVrQTBzTzdNNTkwYkxlYm4zNjM1eS0zUFJuQmVLU3B4M2o2LUtsaURqLXN2bTRsVVBIVF9YNWU4YUE?oc=5",
+      "published_at": "2026-09-29",
+      "source": "Chosunbiz"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
       "sentence": "AI Demand Breaks DRAM-NAND Synchronization - 조선일보",
       "supply_signal": "unknown",
       "hbm_signals": [],
@@ -1129,6 +1273,57 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQl9zTkplR2EzYUxaYTdObmZSdm9nci1fdXh0Z3pKUUhhaGJKRkM4RGJTa3ZZZVBKRE0xcGNmTzV6YXlRWE9LcVpwdVpOdHloQlA1WVpndUd5ZWtuTUhqQWVlbjU5aXlUZXFjSkxnZWtUYVB2R1ZCX2c2SWFIRlZzOUN6djBPUDdf?oc=5",
       "published_at": "2026-09-22",
       "source": "조선일보"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "up",
+      "change_pct": "20",
+      "period": "QoQ",
+      "sentence": "memory supercycle intensifies: bernstein sees dram, nand prices up nearly 20% this quarter - finance.biggo.com memory supercycle intensifies: bernstein sees dram, nand prices up nearly 20% t",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "Memory Supercycle Intensifies: Bernstein Sees DRAM, NAND Prices Up Nearly 20% This Quarter - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhc3E1VWJ2ZjhhNGI4RW1xakNRbU5Ud2lxcjZIY2pKQ2dSS3gwZUJxVHlZWEpWa19BclU1dHBlaXNKcG9jck5WM2d0dlNZUHZObDc1em84T2g5b0taVlVRQXpjTEZfS0ZWbEJ2M1h5MW91RXdUUnc?oc=5",
+      "published_at": "2026-09-29",
+      "source": "finance.biggo.com"
+    },
+    {
+      "product": "NAND",
+      "metric": "unknown",
+      "direction": "up",
+      "change_pct": "20",
+      "period": "QoQ",
+      "sentence": "memory supercycle intensifies: bernstein sees dram, nand prices up nearly 20% this quarter - finance.biggo.com memory supercycle intensifies: bernstein sees dram, nand prices up nearly 20% t",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "Memory Supercycle Intensifies: Bernstein Sees DRAM, NAND Prices Up Nearly 20% This Quarter - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhc3E1VWJ2ZjhhNGI4RW1xakNRbU5Ud2lxcjZIY2pKQ2dSS3gwZUJxVHlZWEpWa19BclU1dHBlaXNKcG9jck5WM2d0dlNZUHZObDc1em84T2g5b0taVlVRQXpjTEZfS0ZWbEJ2M1h5MW91RXdUUnc?oc=5",
+      "published_at": "2026-09-29",
+      "source": "finance.biggo.com"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "Global DRAM and HBM Market Share: Quarterly - Counterpoint Research",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "Global DRAM and HBM Market Share: Quarterly - Counterpoint Research",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYlIzVHpBVzJfYjhXUWxYSUg3VmFvTDF5Q3k3OWVzeXVpRHZVdU14OHFOZGVkRDNTTXhvMGN0OVllR3FNd19rVlRTTXp1U0NHSFd5RVFmc29UZk1vR2VmT2pINWZLcGxNTU8yYnBMWHZYUFZlTFI3R3o3T3RjMzQzN3FWNA?oc=5",
+      "published_at": "2026-09-01",
+      "source": "Counterpoint Research"
     },
     {
       "product": "DRAM",
@@ -1222,6 +1417,23 @@
     {
       "product": "DRAM",
       "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "AI Companies to Directly Purchase Memory, Anthropic's DRAM Demand Rivals NVIDIA's - 조선일보",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "AI Companies to Directly Purchase Memory, Anthropic's DRAM Demand Rivals NVIDIA's - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUtkREZfM2ZId2gyMC1tRWJ4WWxUTnd4TTM3THlseVZlUHJTUjRtdk5fMGZXQ3dOVVoyRjFSZnRmREZhNENYWjZTTW5NTzhUS2JoMVRQVGd1ZzJLVndPZjZQU1hBblc3WEVMRG9BT21mM3liQnp4MC1hVjc5OHg2YnNramstMkp4?oc=5",
+      "published_at": "2026-09-23",
+      "source": "조선일보"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
       "direction": "up",
       "change_pct": "",
       "period": "unknown",
@@ -1242,33 +1454,16 @@
       "direction": "unknown",
       "change_pct": "",
       "period": "unknown",
-      "sentence": "AI Companies to Directly Purchase Memory, Anthropic's DRAM Demand Rivals NVIDIA's - 조선일보",
+      "sentence": "Micron Stock Reclaims $1,000: Can Tight DRAM Supply & Surging HBM Demand Push MU Go Higher? - TOP1markets",
       "supply_signal": "unknown",
       "hbm_signals": [],
       "demand_signals": [],
       "capex_signals": [],
       "risk_signals": [],
-      "title": "AI Companies to Directly Purchase Memory, Anthropic's DRAM Demand Rivals NVIDIA's - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUtkREZfM2ZId2gyMC1tRWJ4WWxUTnd4TTM3THlseVZlUHJTUjRtdk5fMGZXQ3dOVVoyRjFSZnRmREZhNENYWjZTTW5NTzhUS2JoMVRQVGd1ZzJLVndPZjZQU1hBblc3WEVMRG9BT21mM3liQnp4MC1hVjc5OHg2YnNramstMkp4?oc=5",
-      "published_at": "2026-09-23",
-      "source": "조선일보"
-    },
-    {
-      "product": "DRAM",
-      "metric": "unknown",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "Micron Stock Reclaims $1,000: Can Tight DRAM Supply & Surging HBM Demand Push MU Go Higher? - top1markets.com",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "Micron Stock Reclaims $1,000: Can Tight DRAM Supply & Surging HBM Demand Push MU Go Higher? - top1markets.com",
+      "title": "Micron Stock Reclaims $1,000: Can Tight DRAM Supply & Surging HBM Demand Push MU Go Higher? - TOP1markets",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRUduNnpNUHpTSHRzVXBpR1ZLZWVEcHhBYWtzTjctWVhfc2Y0djdsZTFsYWN4RmFjQVAydDBTeWF0Vi01dVpJdjJWVVEteW9IOFV5bVhKS2RyOFMwVF9CWEFFQjBCUEdkODByelZTaUZLNnlsXzk5d25IMHZWdFA4U2RsUHpOeExDOGE3QWRjempmNmlidEVLbnRqRGkweXN5amo1SVBwS0h5SWp1b1E?oc=5",
       "published_at": "2026-09-22",
-      "source": "top1markets.com"
+      "source": "TOP1markets"
     },
     {
       "product": "DRAM",
@@ -1276,7 +1471,7 @@
       "direction": "unknown",
       "change_pct": "",
       "period": "unknown",
-      "sentence": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - tomshardware.com",
+      "sentence": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - Tom's Hardware",
       "supply_signal": "unknown",
       "hbm_signals": [],
       "demand_signals": [
@@ -1284,10 +1479,10 @@
       ],
       "capex_signals": [],
       "risk_signals": [],
-      "title": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - tomshardware.com",
+      "title": "Memory chips are now more expensive than compute chips on a per-area basis — AI demand drives DRAM die value past leading-edge silicon - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNc3FyNEY1Y2Z5RlVDUlE3MkdETi1ielNrTEFCeHFQc2sweUw0MWF0VTB1Q1NSVXdzMlBITWJPekMzRWxhX25acmlZQ21qVHNZSFhYdXJsVEpkOXV0enFDaHp3Z2pHSmxoVnZoUzhPVHRmUkY5bzkzV01KdFhRUlRKN1Iya0kxMVdVcnpmVVBRVlp1S1lnUE94N2E4OGVZWldMSk8zeW9DbnN5T2paejRrLTRRbkp2dWFRYkYtelAtc00wSnBMa01vSVpqaGhoSTB5UDA4SGs5RlRob09UNzZJeTlfeFNQVWFPdnpZNTEyWUNVYTJiWUVLbDdJcnUxSmlx?oc=5",
       "published_at": "2026-09-22",
-      "source": "tomshardware.com"
+      "source": "Tom's Hardware"
     },
     {
       "product": "NAND",
@@ -1295,50 +1490,16 @@
       "direction": "unknown",
       "change_pct": "",
       "period": "unknown",
-      "sentence": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics - tomshardware.com",
+      "sentence": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics - Tom's Hardware",
       "supply_signal": "unknown",
       "hbm_signals": [],
       "demand_signals": [],
       "capex_signals": [],
       "risk_signals": [],
-      "title": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics - tomshardware.com",
+      "title": "NOR Flash and SLC NAND production are under threat as capacity gets routed to more profitable products — 'severe undersupply' threatens everyday electronics - Tom's Hardware",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdWxTYWdrTDF5OEtIR2tGUGxXQUI2UldpWkp6R2R5RGRLWjN6R0p2OTJrZUNjcFF1RTBKVDFKNUNmSTBrYXVUMjRGMjZyem5xOGljYXBkYng4U3B1bDhZa0tSMjFfMDRFeXVRMGc4NGthc3FZVEUwSXd1N2lsdk90WTBDUWZwZXRUU1V0Y243MndLckxJQ256a1pUeEVnNUs0NjQ5Ymx3LWdPcG9rODlScXBRMmRYLTVzSFZlSWh3dnYyMmZrdXRHa1htWUg5NE5ueVNnZUc3UFU3NGJlZXFEV2JMUnRsSEhuQjloN2Vlc1hnWk12WkxBVEI2ZnZnRnZMTXFOdG9MbHBEZGVPNFhYV1Ztcm51VHFmNFlCdTVXcUJGSGRsUFk4?oc=5",
       "published_at": "2026-09-18",
-      "source": "tomshardware.com"
-    },
-    {
-      "product": "NAND",
-      "metric": "unknown",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "Will SanDisk (SNDK) Ride the Next Wave of AI-Driven NAND Demand? - Yahoo Finance",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "Will SanDisk (SNDK) Ride the Next Wave of AI-Driven NAND Demand? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbmtqcWp5VkQ1eGs5WXJWWmNvU0ppaVlDeTJnZE8wdE9YZlRtVjRRRHE3dENSTW1Pbndpb0o0OG5UNWlpTHpSV3VMTUcwOFoweHZPU2pEZVRjUi1UTnhEMzRIUC1HZ29QRnI1TnExdk1TOF82My1MellHVFhEcTFrNWhVNE4wRUxqOUNKblZoaV9uQTZNSWc?oc=5",
-      "published_at": "Sun, 27 Sep 2026 08:25:19 GMT",
-      "source": "KeyStock:SanDisk"
-    },
-    {
-      "product": "NAND",
-      "metric": "unknown",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "SK Hynix (SKHY) Weighs a U.S. NAND Plant. Would Lower China Risk Justify the Cost? - Yahoo Finance",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "SK Hynix (SKHY) Weighs a U.S. NAND Plant. Would Lower China Risk Justify the Cost? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY1BnVHUxX2N3SkZGZUlxaG04Xy15eC0zeXNaRlpfUklLdUtkN3VRSGlTOUtZdUtYVHZ1NjlkSllLUnFjZGtvYU1tU0JCODJadnM0MHhsdkVncEJiM2c3YkV4TjdKNnRGR2V3RExiUkhUZGVPaHAzOU4yZVFVcE5rS21FMS1lanF0ME9B?oc=5",
-      "published_at": "Sat, 26 Sep 2026 00:38:00 GMT",
-      "source": "KeyStock:SK hynix"
+      "source": "Tom's Hardware"
     }
   ]
 }
