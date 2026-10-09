@@ -42,19 +42,6 @@
         "demand_signals": []
       },
       {
-        "title": "[Insights] Memory Spot Price Update: DRAM Market Quiet Amid Holidays; NAND Buying Stays Weak - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa3lsYlhpSS10cG1TX24xZm02VHBGLWhseXJtN1EwV21tSERNeXRTRVYzb28yTU9pSWJwWDhxS09VNTZPTTBLaWtIX2hsWFNiZ3o3Z3Y1aXd6WWlycmU4RWc4RDY3OXRqdE5IVVl5TmtGVm41b1BHejdtczJISF9ybGE5WUJ1SDhfMGJkODNVM3Nrb2lvbEg4ZTJwT1ViREpPdThIanFRbVNTR282OWViSk95QUVfako0OWE0ejFjM1h2a0EwbmUyTUh3ajU?oc=5",
-        "published_at": "2026-09-30",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "[Insights] Memory Spot Price Update: DRAM Market Quiet Amid Holidays; NAND Buying Stays Weak - TrendForce",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
-      },
-      {
         "title": "[News] Samsung Sees HBM Taking Nearly 30% of Industry DRAM Capacity in 2027, Up From 20% Currently - TrendForce",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSUFVdGhOQWRmdTJzSUM0Zzhmek5yalJ4VzFlMzBuWkkzSnZVQXE0WmR6VXZiaEpBblhNMWRxV2Y0UnFaNHpjSFNqR0o0dzN1VTBzMmhRYzhUWkxnTDAwRW5SV3V5cTFuT2xYMzZYTGdsM2dWbnFfcXUzSWpMOXIzVXJNWmRTb0VIS1ZLN0FlLXdqYndrZGpHOTd4dEJmOU9EcGtXczJkN0ZZRDVqaFRUdGZ0OTRINjNGNms3WEV0NUZxLVlmWV9wVjlFZDUtZ241M3Q4?oc=5",
         "published_at": "2026-09-29",
@@ -62,19 +49,6 @@
         "change_pct": "",
         "period": "unknown",
         "sentence": "[News] Samsung Sees HBM Taking Nearly 30% of Industry DRAM Capacity in 2027, Up From 20% Currently - TrendForce",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
-      },
-      {
-        "title": "DRAM Market Bulletin - Sep. 30, 2026 - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16VHdReWpwTHpqWEsxaGFvbFZKNGlsQXk4Qm9Ebm1DTFkzY0lHXzdXTGRKSnJaRWxneGVzNkR0Rm1HVV9QeVhCeHlKVldWSENYVnF3UXpuQ3Y5aWFXUExNeHVwV1ZlUQ?oc=5",
-        "published_at": "2026-09-30",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "DRAM Market Bulletin - Sep. 30, 2026 - TrendForce",
         "supply_signal": "unknown",
         "risk_signals": [],
         "hbm_signals": [],
@@ -174,13 +148,13 @@
         "demand_signals": []
       },
       {
-        "title": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUlA0VWplanZfaF9oazVsbTQybFBMVFdDeHQ4aGMtVkVpTlhxb2lkb2ZfV2N2c3N1dEdHWWlTNllRVkM0MFYwV0dhdWRnRUJIOERGMGdjcm9iblRnR0FGQW10eklTOFVPWUpuZUY2QWFLb3BkUW1XWER3Qk11WVotRFF6bTJBSHc4VWVTbnhWOHI3QUNBWXhnZzJqTGt3VWl1Z2JyX2RrQ2dfOHhoNThtUWdn?oc=5",
+        "title": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQTBuOGpPWVNkSkQ3NTllTzJ1bmg2X213TTBhX2labUtYc1lNakhxNXc4d0QxTWRQcmM1WTY2ZThqQVBhdmtoWnA5Z1k3Sy1MRmhKaXB6ejVwdGZqNHdlUnhaRHNyMzMtRXlFSUQtUUY4ZWVXR0F0d2lxLVZna05vNy1Edi05d3RVb0Z3U1VGa0NjUjlaVXc3Umw1WE1PT0FDYUZmOUtjWnJtUm56b1pFY0RybEc5RGdvb3lGNVFvZmdVQk5QWnRzaW1GTlBEQUx3bTY2RFBwdFE?oc=5",
         "published_at": "2026-10-08",
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
-        "sentence": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - TradingView",
+        "sentence": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - The Globe and Mail",
         "supply_signal": "unknown",
         "risk_signals": [],
         "hbm_signals": [],
@@ -215,6 +189,19 @@
         "demand_signals": []
       },
       {
+        "title": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4 - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0ZkSzdlTTJQWF9hUGJuT1NLQ2RLMW9vNmVGQnQyY3hiS0FvbktPRF9hMXQ1dVNsNFQxZ2xibW1mWHkxZjM3MHlDeVQyOG9nVHA0dHljYnhVUkhYcnBtNDREY3M2bm84OVlnc1dyREIyd1UzbFV6c1BsZzVWM29YanJJYTNZNC1ERG9hdU5Zb09GQTR0WHBYa1NlYkl2ZnE4WTZoa1VWT3ZORkxKM1FxNlJ4Z3J3R1BJc0FmWWdaWUdSdw?oc=5",
+        "published_at": "2026-09-28",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4 - TradingView",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
         "title": "AI Demand Splits DRAM and NAND Markets - 조선일보",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTXF5M3ZfU3E5b2VyRXJva3RMcGEzU3AxeEJJT3JoOW1WOVRqNm5VUGEwQVotR3hsNDR4Umx4Y0M5VVRZLVRtZWs0Q19VRXpRSFhMQzEteHJRRGlJWWRqSGI2dDkxcUNNSmVMWXc5Tm1zdVFFTk1NcDU1T09VU0R2dVk2TG1KYnk5?oc=5",
         "published_at": "2026-09-23",
@@ -228,19 +215,6 @@
         "demand_signals": [
           "AI demand"
         ]
-      },
-      {
-        "title": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4 - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0ZkSzdlTTJQWF9hUGJuT1NLQ2RLMW9vNmVGQnQyY3hiS0FvbktPRF9hMXQ1dVNsNFQxZ2xibW1mWHkxZjM3MHlDeVQyOG9nVHA0dHljYnhVUkhYcnBtNDREY3M2bm84OVlnc1dyREIyd1UzbFV6c1BsZzVWM29YanJJYTNZNC1ERG9hdU5Zb09GQTR0WHBYa1NlYkl2ZnE4WTZoa1VWT3ZORkxKM1FxNlJ4Z3J3R1BJc0FmWWdaWUdSdw?oc=5",
-        "published_at": "2026-09-28",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4 - TradingView",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
       },
       {
         "title": "HBM to Consume 30% of Global DRAM Wafer Capacity Next Year - 조선일보",
@@ -394,23 +368,6 @@
       },
       {
         "product": "DRAM",
-        "metric": "spot price",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "[Insights] Memory Spot Price Update: DRAM Market Quiet Amid Holidays; NAND Buying Stays Weak - TrendForce",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "[Insights] Memory Spot Price Update: DRAM Market Quiet Amid Holidays; NAND Buying Stays Weak - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa3lsYlhpSS10cG1TX24xZm02VHBGLWhseXJtN1EwV21tSERNeXRTRVYzb28yTU9pSWJwWDhxS09VNTZPTTBLaWtIX2hsWFNiZ3o3Z3Y1aXd6WWlycmU4RWc4RDY3OXRqdE5IVVl5TmtGVm41b1BHejdtczJISF9ybGE5WUJ1SDhfMGJkODNVM3Nrb2lvbEg4ZTJwT1ViREpPdThIanFRbVNTR282OWViSk95QUVfako0OWE0ejFjM1h2a0EwbmUyTUh3ajU?oc=5",
-        "published_at": "2026-09-30",
-        "source": "TrendForce"
-      },
-      {
-        "product": "DRAM",
         "metric": "unknown",
         "direction": "unknown",
         "change_pct": "",
@@ -424,23 +381,6 @@
         "title": "[News] Samsung Sees HBM Taking Nearly 30% of Industry DRAM Capacity in 2027, Up From 20% Currently - TrendForce",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSUFVdGhOQWRmdTJzSUM0Zzhmek5yalJ4VzFlMzBuWkkzSnZVQXE0WmR6VXZiaEpBblhNMWRxV2Y0UnFaNHpjSFNqR0o0dzN1VTBzMmhRYzhUWkxnTDAwRW5SV3V5cTFuT2xYMzZYTGdsM2dWbnFfcXUzSWpMOXIzVXJNWmRTb0VIS1ZLN0FlLXdqYndrZGpHOTd4dEJmOU9EcGtXczJkN0ZZRDVqaFRUdGZ0OTRINjNGNms3WEV0NUZxLVlmWV9wVjlFZDUtZ241M3Q4?oc=5",
         "published_at": "2026-09-29",
-        "source": "TrendForce"
-      },
-      {
-        "product": "DRAM",
-        "metric": "unknown",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "DRAM Market Bulletin - Sep. 30, 2026 - TrendForce",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "DRAM Market Bulletin - Sep. 30, 2026 - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16VHdReWpwTHpqWEsxaGFvbFZKNGlsQXk4Qm9Ebm1DTFkzY0lHXzdXTGRKSnJaRWxneGVzNkR0Rm1HVV9QeVhCeHlKVldWSENYVnF3UXpuQ3Y5aWFXUExNeHVwV1ZlUQ?oc=5",
-        "published_at": "2026-09-30",
         "source": "TrendForce"
       },
       {
@@ -570,7 +510,7 @@
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
-        "sentence": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - TradingView",
+        "sentence": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - The Globe and Mail",
         "supply_signal": "unknown",
         "hbm_signals": [],
         "demand_signals": [
@@ -578,10 +518,10 @@
         ],
         "capex_signals": [],
         "risk_signals": [],
-        "title": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUlA0VWplanZfaF9oazVsbTQybFBMVFdDeHQ4aGMtVkVpTlhxb2lkb2ZfV2N2c3N1dEdHWWlTNllRVkM0MFYwV0dhdWRnRUJIOERGMGdjcm9iblRnR0FGQW10eklTOFVPWUpuZUY2QWFLb3BkUW1XWER3Qk11WVotRFF6bTJBSHc4VWVTbnhWOHI3QUNBWXhnZzJqTGt3VWl1Z2JyX2RrQ2dfOHhoNThtUWdn?oc=5",
+        "title": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQTBuOGpPWVNkSkQ3NTllTzJ1bmg2X213TTBhX2labUtYc1lNakhxNXc4d0QxTWRQcmM1WTY2ZThqQVBhdmtoWnA5Z1k3Sy1MRmhKaXB6ejVwdGZqNHdlUnhaRHNyMzMtRXlFSUQtUUY4ZWVXR0F0d2lxLVZna05vNy1Edi05d3RVb0Z3U1VGa0NjUjlaVXc3Umw1WE1PT0FDYUZmOUtjWnJtUm56b1pFY0RybEc5RGdvb3lGNVFvZmdVQk5QWnRzaW1GTlBEQUx3bTY2RFBwdFE?oc=5",
         "published_at": "2026-10-08",
-        "source": "TradingView"
+        "source": "The Globe and Mail"
       },
       {
         "product": "DRAM",
@@ -623,6 +563,23 @@
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
+        "sentence": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4 - TradingView",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4 - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0ZkSzdlTTJQWF9hUGJuT1NLQ2RLMW9vNmVGQnQyY3hiS0FvbktPRF9hMXQ1dVNsNFQxZ2xibW1mWHkxZjM3MHlDeVQyOG9nVHA0dHljYnhVUkhYcnBtNDREY3M2bm84OVlnc1dyREIyd1UzbFV6c1BsZzVWM29YanJJYTNZNC1ERG9hdU5Zb09GQTR0WHBYa1NlYkl2ZnE4WTZoa1VWT3ZORkxKM1FxNlJ4Z3J3R1BJc0FmWWdaWUdSdw?oc=5",
+        "published_at": "2026-09-28",
+        "source": "TradingView"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
         "sentence": "AI Demand Splits DRAM and NAND Markets - 조선일보",
         "supply_signal": "unknown",
         "hbm_signals": [],
@@ -635,23 +592,6 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTXF5M3ZfU3E5b2VyRXJva3RMcGEzU3AxeEJJT3JoOW1WOVRqNm5VUGEwQVotR3hsNDR4Umx4Y0M5VVRZLVRtZWs0Q19VRXpRSFhMQzEteHJRRGlJWWRqSGI2dDkxcUNNSmVMWXc5Tm1zdVFFTk1NcDU1T09VU0R2dVk2TG1KYnk5?oc=5",
         "published_at": "2026-09-23",
         "source": "조선일보"
-      },
-      {
-        "product": "DRAM",
-        "metric": "unknown",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4 - TradingView",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4 - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0ZkSzdlTTJQWF9hUGJuT1NLQ2RLMW9vNmVGQnQyY3hiS0FvbktPRF9hMXQ1dVNsNFQxZ2xibW1mWHkxZjM3MHlDeVQyOG9nVHA0dHljYnhVUkhYcnBtNDREY3M2bm84OVlnc1dyREIyd1UzbFV6c1BsZzVWM29YanJJYTNZNC1ERG9hdU5Zb09GQTR0WHBYa1NlYkl2ZnE4WTZoa1VWT3ZORkxKM1FxNlJ4Z3J3R1BJc0FmWWdaWUdSdw?oc=5",
-        "published_at": "2026-09-28",
-        "source": "TradingView"
       },
       {
         "product": "DRAM",
@@ -810,19 +750,6 @@
         "demand_signals": []
       },
       {
-        "title": "[Insights] Memory Spot Price Update: DRAM Market Quiet Amid Holidays; NAND Buying Stays Weak - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa3lsYlhpSS10cG1TX24xZm02VHBGLWhseXJtN1EwV21tSERNeXRTRVYzb28yTU9pSWJwWDhxS09VNTZPTTBLaWtIX2hsWFNiZ3o3Z3Y1aXd6WWlycmU4RWc4RDY3OXRqdE5IVVl5TmtGVm41b1BHejdtczJISF9ybGE5WUJ1SDhfMGJkODNVM3Nrb2lvbEg4ZTJwT1ViREpPdThIanFRbVNTR282OWViSk95QUVfako0OWE0ejFjM1h2a0EwbmUyTUh3ajU?oc=5",
-        "published_at": "2026-09-30",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "[Insights] Memory Spot Price Update: DRAM Market Quiet Amid Holidays; NAND Buying Stays Weak - TrendForce",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
-      },
-      {
         "title": "September DRAM and NAND Flash Contract Prices Hit Record Highs, Though Gains Slow - BigGo Finance",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pNGJKd1JCYno2SURuTkRZSzdRdXY3V1UyVmJSZ3N0cjFfUXc3RE9oeHdZY09NOGYxalFtS1dyY01tTXJicWZpdDFodDJVdHN5RWF3eXNRZVQ5NE5lVklkV3NyQnpodjhHUHFqZlZFdU85cnRhMkE?oc=5",
         "published_at": "2026-09-30",
@@ -918,19 +845,6 @@
         "risk_signals": [],
         "hbm_signals": [],
         "demand_signals": []
-      },
-      {
-        "title": "SK Hynix’s Flash Memory Unit Said to Pick Banks for 2027 US IPO - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjdxcDBDTmh4V0ZGU2xQdkQtdmR0N1RhMWMzaGZVTkFvVkg2RHJ4cFZuanZPRGZaWTRUUFJUa3U3WEhZMUVUUkRqbWM0RUNwTkxNdDhNUktpWTdEV002YnlkS1Bxd1BIV2t6Tnd5TjdNVUY5MzAweVAxUldrVEtlOTJMLTZfSnZhMmdpMDI1cTFkR2ZKLUptZmRhRVAxM1V0d3pGaEY3aU9VaVFtUFZmOGxUUQ?oc=5",
-        "published_at": "Wed, 07 Oct 2026 21:29:18 GMT",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "SK Hynix’s Flash Memory Unit Said to Pick Banks for 2027 US IPO - Bloomberg.com",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
       }
     ],
     "signals": [
@@ -966,23 +880,6 @@
         "title": "Why CSPs Are Turning to QLC SSDs for KV Cache Storage - TrendForce",
         "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50c1RWQTRJc0pNamNIQ1UwdVJWdUtMVWU1aTNmaklSdFNBYlB2Mko2alMxcmR4XzBVdG5BVmU0LWQ5U0hhV0d3RndfVHdkNjYtaEVDT1NDZVViOXd3UWlVZXdBZVllc2dvaTYtYU5ZY3Y4b3Fz?oc=5",
         "published_at": "2026-09-24",
-        "source": "TrendForce"
-      },
-      {
-        "product": "NAND",
-        "metric": "spot price",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "[Insights] Memory Spot Price Update: DRAM Market Quiet Amid Holidays; NAND Buying Stays Weak - TrendForce",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "[Insights] Memory Spot Price Update: DRAM Market Quiet Amid Holidays; NAND Buying Stays Weak - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa3lsYlhpSS10cG1TX24xZm02VHBGLWhseXJtN1EwV21tSERNeXRTRVYzb28yTU9pSWJwWDhxS09VNTZPTTBLaWtIX2hsWFNiZ3o3Z3Y1aXd6WWlycmU4RWc4RDY3OXRqdE5IVVl5TmtGVm41b1BHejdtczJISF9ybGE5WUJ1SDhfMGJkODNVM3Nrb2lvbEg4ZTJwT1ViREpPdThIanFRbVNTR282OWViSk95QUVfako0OWE0ejFjM1h2a0EwbmUyTUh3ajU?oc=5",
-        "published_at": "2026-09-30",
         "source": "TrendForce"
       },
       {
@@ -1109,55 +1006,12 @@
         "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdWxTYWdrTDF5OEtIR2tGUGxXQUI2UldpWkp6R2R5RGRLWjN6R0p2OTJrZUNjcFF1RTBKVDFKNUNmSTBrYXVUMjRGMjZyem5xOGljYXBkYng4U3B1bDhZa0tSMjFfMDRFeXVRMGc4NGthc3FZVEUwSXd1N2lsdk90WTBDUWZwZXRUU1V0Y243MndLckxJQ256a1pUeEVnNUs0NjQ5Ymx3LWdPcG9rODlScXBRMmRYLTVzSFZlSWh3dnYyMmZrdXRHa1htWUg5NE5ueVNnZUc3UFU3NGJlZXFEV2JMUnRsSEhuQjloN2Vlc1hnWk12WkxBVEI2ZnZnRnZMTXFOdG9MbHBEZGVPNFhYV1Ztcm51VHFmNFlCdTVXcUJGSGRsUFk4?oc=5",
         "published_at": "2026-09-18",
         "source": "Tom's Hardware"
-      },
-      {
-        "product": "NAND",
-        "metric": "unknown",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "SK Hynix’s Flash Memory Unit Said to Pick Banks for 2027 US IPO - Bloomberg.com",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "SK Hynix’s Flash Memory Unit Said to Pick Banks for 2027 US IPO - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjdxcDBDTmh4V0ZGU2xQdkQtdmR0N1RhMWMzaGZVTkFvVkg2RHJ4cFZuanZPRGZaWTRUUFJUa3U3WEhZMUVUUkRqbWM0RUNwTkxNdDhNUktpWTdEV002YnlkS1Bxd1BIV2t6Tnd5TjdNVUY5MzAweVAxUldrVEtlOTJMLTZfSnZhMmdpMDI1cTFkR2ZKLUptZmRhRVAxM1V0d3pGaEY3aU9VaVFtUFZmOGxUUQ?oc=5",
-        "published_at": "Wed, 07 Oct 2026 21:29:18 GMT",
-        "source": "KeyStock:SK hynix"
       }
     ]
   },
   "hbm": {
     "status": "up",
     "evidence": [
-      {
-        "title": "[News] Samsung Sees 3Q26 Operating Profit Soaring 783% to Record KRW 107.4 Trillion on HBM4, Memory Price Gains - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNblBMTHF4Y2YxeHo1cWVCWUljZ3R3NU5vMHVLcldPRDA1OURsY1BOV1hGRUdwQWJpZlcweG1Oal9fWTc0eERFSU5od0k3ZUdtRVd2SklCeUJ0elA5UWY4Z2pIc0pRNWdfZjdEeXE4b3dueU5aMFBlVjVUM2d0Mjl3U1lpOUtHNEtJV0tzZ19iYlltVms1ZjNtTFZzVkd0LUdLSEUyWTJ1MlliUDQzVzAzSkZFSDJmQlF3aVZiUTFwTlhDTl9UbmtOYnhWQ3BvMVpsN3c2UDdQRy11dTJmaUFlZV9qSTVTUQ?oc=5",
-        "published_at": "2026-10-08",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "[News] Samsung Sees 3Q26 Operating Profit Soaring 783% to Record KRW 107.4 Trillion on HBM4, Memory Price Gains - TrendForce",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
-      },
-      {
-        "title": "[News] Samsung Foundry Loss Reportedly Seen Shrinking 42% YoY in 2026 as HBM4 Base-Die 4nm Demand Rises - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaTFNTlRrbTNLMzhNS2dtTmh4Tmo4N2h2aU9lR0ZXSEJETUdQbnNfU2JXZk9JWVNRSlhqZVNKc1lqNEQ4ZVBxOFA2SkVOeHh0SVJDTVhrOVVzYklCWjdWb3hwLW9yeVFIT1pPTUhtZVQ5ZGcyZVFfdGNmX3Q0T1BEWUxJR2c5Sno4d0FmYVhLYUJVMDZaQlpqQ0hmUWdZNGdjUHJTSzgtd3RpZ042dG1zbkFseFhxWTEtbFFiRDJGd0ZSNi1PaDhHTm5fRi1VQXRrQ1Q3TGFsR1pjRWdC?oc=5",
-        "published_at": "2026-09-30",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "[News] Samsung Foundry Loss Reportedly Seen Shrinking 42% YoY in 2026 as HBM4 Base-Die 4nm Demand Rises - TrendForce",
-        "supply_signal": "unknown",
-        "risk_signals": [],
-        "hbm_signals": [],
-        "demand_signals": []
-      },
       {
         "title": "HBM prices surge as AI demand and HBM4 shift tighten supply - CHOSUNBIZ - Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZZ1FSUTh6d19fMFpUQktLZVRuUV85M3k1Z1BGekw5S0xWTXFRY3BidEpGRlJaQ0tVSm85UWwxdy14QTNYNkJ6OFQ1eHdUYmM3aXBoQ2V1eTJIWnhXRTdtZ1BTSkFESTNHbVgwQ19jWk1HMkxRcFFqNF930gGOAUFVX3lxTFBMa3lJX1JxNTFnb3B3TFRseUNheG9HT3NoREtqb3lyc1doUkVPRS1IVGdUbDV0Z21IYWF5VWIySk10Y0kwbDEyWGlqMDY1aWpCaDlwZkVrQTBzTzdNNTkwYkxlYm4zNjM1eS0zUFJuQmVLU3B4M2o2LUtsaURqLXN2bTRsVVBIVF9YNWU4YUE?oc=5",
@@ -1175,40 +1029,6 @@
       }
     ],
     "signals": [
-      {
-        "product": "HBM",
-        "metric": "unknown",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "[News] Samsung Sees 3Q26 Operating Profit Soaring 783% to Record KRW 107.4 Trillion on HBM4, Memory Price Gains - TrendForce",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "[News] Samsung Sees 3Q26 Operating Profit Soaring 783% to Record KRW 107.4 Trillion on HBM4, Memory Price Gains - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNblBMTHF4Y2YxeHo1cWVCWUljZ3R3NU5vMHVLcldPRDA1OURsY1BOV1hGRUdwQWJpZlcweG1Oal9fWTc0eERFSU5od0k3ZUdtRVd2SklCeUJ0elA5UWY4Z2pIc0pRNWdfZjdEeXE4b3dueU5aMFBlVjVUM2d0Mjl3U1lpOUtHNEtJV0tzZ19iYlltVms1ZjNtTFZzVkd0LUdLSEUyWTJ1MlliUDQzVzAzSkZFSDJmQlF3aVZiUTFwTlhDTl9UbmtOYnhWQ3BvMVpsN3c2UDdQRy11dTJmaUFlZV9qSTVTUQ?oc=5",
-        "published_at": "2026-10-08",
-        "source": "TrendForce"
-      },
-      {
-        "product": "HBM",
-        "metric": "unknown",
-        "direction": "unknown",
-        "change_pct": "",
-        "period": "unknown",
-        "sentence": "[News] Samsung Foundry Loss Reportedly Seen Shrinking 42% YoY in 2026 as HBM4 Base-Die 4nm Demand Rises - TrendForce",
-        "supply_signal": "unknown",
-        "hbm_signals": [],
-        "demand_signals": [],
-        "capex_signals": [],
-        "risk_signals": [],
-        "title": "[News] Samsung Foundry Loss Reportedly Seen Shrinking 42% YoY in 2026 as HBM4 Base-Die 4nm Demand Rises - TrendForce",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaTFNTlRrbTNLMzhNS2dtTmh4Tmo4N2h2aU9lR0ZXSEJETUdQbnNfU2JXZk9JWVNRSlhqZVNKc1lqNEQ4ZVBxOFA2SkVOeHh0SVJDTVhrOVVzYklCWjdWb3hwLW9yeVFIT1pPTUhtZVQ5ZGcyZVFfdGNmX3Q0T1BEWUxJR2c5Sno4d0FmYVhLYUJVMDZaQlpqQ0hmUWdZNGdjUHJTSzgtd3RpZ042dG1zbkFseFhxWTEtbFFiRDJGd0ZSNi1PaDhHTm5fRi1VQXRrQ1Q3TGFsR1pjRWdC?oc=5",
-        "published_at": "2026-09-30",
-        "source": "TrendForce"
-      },
       {
         "product": "HBM",
         "metric": "unknown",
@@ -1338,12 +1158,12 @@
         "risk_signals": []
       },
       {
-        "title": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUlA0VWplanZfaF9oazVsbTQybFBMVFdDeHQ4aGMtVkVpTlhxb2lkb2ZfV2N2c3N1dEdHWWlTNllRVkM0MFYwV0dhdWRnRUJIOERGMGdjcm9iblRnR0FGQW10eklTOFVPWUpuZUY2QWFLb3BkUW1XWER3Qk11WVotRFF6bTJBSHc4VWVTbnhWOHI3QUNBWXhnZzJqTGt3VWl1Z2JyX2RrQ2dfOHhoNThtUWdn?oc=5",
+        "title": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQTBuOGpPWVNkSkQ3NTllTzJ1bmg2X213TTBhX2labUtYc1lNakhxNXc4d0QxTWRQcmM1WTY2ZThqQVBhdmtoWnA5Z1k3Sy1MRmhKaXB6ejVwdGZqNHdlUnhaRHNyMzMtRXlFSUQtUUY4ZWVXR0F0d2lxLVZna05vNy1Edi05d3RVb0Z3U1VGa0NjUjlaVXc3Umw1WE1PT0FDYUZmOUtjWnJtUm56b1pFY0RybEc5RGdvb3lGNVFvZmdVQk5QWnRzaW1GTlBEQUx3bTY2RFBwdFE?oc=5",
         "demand": [
           "AI demand"
         ],
-        "sentence": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - TradingView",
+        "sentence": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - The Globe and Mail",
         "direction": "unknown",
         "change_pct": "",
         "period": "unknown",
@@ -1515,23 +1335,6 @@
       "source": "TrendForce"
     },
     {
-      "product": "HBM",
-      "metric": "unknown",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "[News] Samsung Sees 3Q26 Operating Profit Soaring 783% to Record KRW 107.4 Trillion on HBM4, Memory Price Gains - TrendForce",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "[News] Samsung Sees 3Q26 Operating Profit Soaring 783% to Record KRW 107.4 Trillion on HBM4, Memory Price Gains - TrendForce",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNblBMTHF4Y2YxeHo1cWVCWUljZ3R3NU5vMHVLcldPRDA1OURsY1BOV1hGRUdwQWJpZlcweG1Oal9fWTc0eERFSU5od0k3ZUdtRVd2SklCeUJ0elA5UWY4Z2pIc0pRNWdfZjdEeXE4b3dueU5aMFBlVjVUM2d0Mjl3U1lpOUtHNEtJV0tzZ19iYlltVms1ZjNtTFZzVkd0LUdLSEUyWTJ1MlliUDQzVzAzSkZFSDJmQlF3aVZiUTFwTlhDTl9UbmtOYnhWQ3BvMVpsN3c2UDdQRy11dTJmaUFlZV9qSTVTUQ?oc=5",
-      "published_at": "2026-10-08",
-      "source": "TrendForce"
-    },
-    {
       "product": "DRAM",
       "metric": "spot price",
       "direction": "unknown",
@@ -1586,23 +1389,6 @@
       "source": "TrendForce"
     },
     {
-      "product": "HBM",
-      "metric": "unknown",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "[News] Samsung Foundry Loss Reportedly Seen Shrinking 42% YoY in 2026 as HBM4 Base-Die 4nm Demand Rises - TrendForce",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "[News] Samsung Foundry Loss Reportedly Seen Shrinking 42% YoY in 2026 as HBM4 Base-Die 4nm Demand Rises - TrendForce",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaTFNTlRrbTNLMzhNS2dtTmh4Tmo4N2h2aU9lR0ZXSEJETUdQbnNfU2JXZk9JWVNRSlhqZVNKc1lqNEQ4ZVBxOFA2SkVOeHh0SVJDTVhrOVVzYklCWjdWb3hwLW9yeVFIT1pPTUhtZVQ5ZGcyZVFfdGNmX3Q0T1BEWUxJR2c5Sno4d0FmYVhLYUJVMDZaQlpqQ0hmUWdZNGdjUHJTSzgtd3RpZ042dG1zbkFseFhxWTEtbFFiRDJGd0ZSNi1PaDhHTm5fRi1VQXRrQ1Q3TGFsR1pjRWdC?oc=5",
-      "published_at": "2026-09-30",
-      "source": "TrendForce"
-    },
-    {
       "product": "NAND",
       "metric": "unknown",
       "direction": "unknown",
@@ -1621,40 +1407,6 @@
     },
     {
       "product": "DRAM",
-      "metric": "spot price",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "[Insights] Memory Spot Price Update: DRAM Market Quiet Amid Holidays; NAND Buying Stays Weak - TrendForce",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "[Insights] Memory Spot Price Update: DRAM Market Quiet Amid Holidays; NAND Buying Stays Weak - TrendForce",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa3lsYlhpSS10cG1TX24xZm02VHBGLWhseXJtN1EwV21tSERNeXRTRVYzb28yTU9pSWJwWDhxS09VNTZPTTBLaWtIX2hsWFNiZ3o3Z3Y1aXd6WWlycmU4RWc4RDY3OXRqdE5IVVl5TmtGVm41b1BHejdtczJISF9ybGE5WUJ1SDhfMGJkODNVM3Nrb2lvbEg4ZTJwT1ViREpPdThIanFRbVNTR282OWViSk95QUVfako0OWE0ejFjM1h2a0EwbmUyTUh3ajU?oc=5",
-      "published_at": "2026-09-30",
-      "source": "TrendForce"
-    },
-    {
-      "product": "NAND",
-      "metric": "spot price",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "[Insights] Memory Spot Price Update: DRAM Market Quiet Amid Holidays; NAND Buying Stays Weak - TrendForce",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "[Insights] Memory Spot Price Update: DRAM Market Quiet Amid Holidays; NAND Buying Stays Weak - TrendForce",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa3lsYlhpSS10cG1TX24xZm02VHBGLWhseXJtN1EwV21tSERNeXRTRVYzb28yTU9pSWJwWDhxS09VNTZPTTBLaWtIX2hsWFNiZ3o3Z3Y1aXd6WWlycmU4RWc4RDY3OXRqdE5IVVl5TmtGVm41b1BHejdtczJISF9ybGE5WUJ1SDhfMGJkODNVM3Nrb2lvbEg4ZTJwT1ViREpPdThIanFRbVNTR282OWViSk95QUVfako0OWE0ejFjM1h2a0EwbmUyTUh3ajU?oc=5",
-      "published_at": "2026-09-30",
-      "source": "TrendForce"
-    },
-    {
-      "product": "DRAM",
       "metric": "unknown",
       "direction": "unknown",
       "change_pct": "",
@@ -1668,23 +1420,6 @@
       "title": "[News] Samsung Sees HBM Taking Nearly 30% of Industry DRAM Capacity in 2027, Up From 20% Currently - TrendForce",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSUFVdGhOQWRmdTJzSUM0Zzhmek5yalJ4VzFlMzBuWkkzSnZVQXE0WmR6VXZiaEpBblhNMWRxV2Y0UnFaNHpjSFNqR0o0dzN1VTBzMmhRYzhUWkxnTDAwRW5SV3V5cTFuT2xYMzZYTGdsM2dWbnFfcXUzSWpMOXIzVXJNWmRTb0VIS1ZLN0FlLXdqYndrZGpHOTd4dEJmOU9EcGtXczJkN0ZZRDVqaFRUdGZ0OTRINjNGNms3WEV0NUZxLVlmWV9wVjlFZDUtZ241M3Q4?oc=5",
       "published_at": "2026-09-29",
-      "source": "TrendForce"
-    },
-    {
-      "product": "DRAM",
-      "metric": "unknown",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "DRAM Market Bulletin - Sep. 30, 2026 - TrendForce",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "DRAM Market Bulletin - Sep. 30, 2026 - TrendForce",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16VHdReWpwTHpqWEsxaGFvbFZKNGlsQXk4Qm9Ebm1DTFkzY0lHXzdXTGRKSnJaRWxneGVzNkR0Rm1HVV9QeVhCeHlKVldWSENYVnF3UXpuQ3Y5aWFXUExNeHVwV1ZlUQ?oc=5",
-      "published_at": "2026-09-30",
       "source": "TrendForce"
     },
     {
@@ -1922,7 +1657,7 @@
       "direction": "unknown",
       "change_pct": "",
       "period": "unknown",
-      "sentence": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - TradingView",
+      "sentence": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - The Globe and Mail",
       "supply_signal": "unknown",
       "hbm_signals": [],
       "demand_signals": [
@@ -1930,10 +1665,10 @@
       ],
       "capex_signals": [],
       "risk_signals": [],
-      "title": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUlA0VWplanZfaF9oazVsbTQybFBMVFdDeHQ4aGMtVkVpTlhxb2lkb2ZfV2N2c3N1dEdHWWlTNllRVkM0MFYwV0dhdWRnRUJIOERGMGdjcm9iblRnR0FGQW10eklTOFVPWUpuZUY2QWFLb3BkUW1XWER3Qk11WVotRFF6bTJBSHc4VWVTbnhWOHI3QUNBWXhnZzJqTGt3VWl1Z2JyX2RrQ2dfOHhoNThtUWdn?oc=5",
+      "title": "Micron's DRAM Sales Reach $40B: Can AI Demand Drive Growth? - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQTBuOGpPWVNkSkQ3NTllTzJ1bmg2X213TTBhX2labUtYc1lNakhxNXc4d0QxTWRQcmM1WTY2ZThqQVBhdmtoWnA5Z1k3Sy1MRmhKaXB6ejVwdGZqNHdlUnhaRHNyMzMtRXlFSUQtUUY4ZWVXR0F0d2lxLVZna05vNy1Edi05d3RVb0Z3U1VGa0NjUjlaVXc3Umw1WE1PT0FDYUZmOUtjWnJtUm56b1pFY0RybEc5RGdvb3lGNVFvZmdVQk5QWnRzaW1GTlBEQUx3bTY2RFBwdFE?oc=5",
       "published_at": "2026-10-08",
-      "source": "TradingView"
+      "source": "The Globe and Mail"
     },
     {
       "product": "DRAM",
@@ -1975,6 +1710,23 @@
       "direction": "unknown",
       "change_pct": "",
       "period": "unknown",
+      "sentence": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4 - TradingView",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0ZkSzdlTTJQWF9hUGJuT1NLQ2RLMW9vNmVGQnQyY3hiS0FvbktPRF9hMXQ1dVNsNFQxZ2xibW1mWHkxZjM3MHlDeVQyOG9nVHA0dHljYnhVUkhYcnBtNDREY3M2bm84OVlnc1dyREIyd1UzbFV6c1BsZzVWM29YanJJYTNZNC1ERG9hdU5Zb09GQTR0WHBYa1NlYkl2ZnE4WTZoa1VWT3ZORkxKM1FxNlJ4Z3J3R1BJc0FmWWdaWUdSdw?oc=5",
+      "published_at": "2026-09-28",
+      "source": "TradingView"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
       "sentence": "AI Demand Splits DRAM and NAND Markets - 조선일보",
       "supply_signal": "unknown",
       "hbm_signals": [],
@@ -2006,23 +1758,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTXF5M3ZfU3E5b2VyRXJva3RMcGEzU3AxeEJJT3JoOW1WOVRqNm5VUGEwQVotR3hsNDR4Umx4Y0M5VVRZLVRtZWs0Q19VRXpRSFhMQzEteHJRRGlJWWRqSGI2dDkxcUNNSmVMWXc5Tm1zdVFFTk1NcDU1T09VU0R2dVk2TG1KYnk5?oc=5",
       "published_at": "2026-09-23",
       "source": "조선일보"
-    },
-    {
-      "product": "DRAM",
-      "metric": "unknown",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4 - TradingView",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "AI Boom-Led Memory Chip Demand to Boost Micron's DRAM Revenues in Q4 - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0ZkSzdlTTJQWF9hUGJuT1NLQ2RLMW9vNmVGQnQyY3hiS0FvbktPRF9hMXQ1dVNsNFQxZ2xibW1mWHkxZjM3MHlDeVQyOG9nVHA0dHljYnhVUkhYcnBtNDREY3M2bm84OVlnc1dyREIyd1UzbFV6c1BsZzVWM29YanJJYTNZNC1ERG9hdU5Zb09GQTR0WHBYa1NlYkl2ZnE4WTZoa1VWT3ZORkxKM1FxNlJ4Z3J3R1BJc0FmWWdaWUdSdw?oc=5",
-      "published_at": "2026-09-28",
-      "source": "TradingView"
     },
     {
       "product": "DRAM",
@@ -2184,23 +1919,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNc3FyNEY1Y2Z5RlVDUlE3MkdETi1ielNrTEFCeHFQc2sweUw0MWF0VTB1Q1NSVXdzMlBITWJPekMzRWxhX25acmlZQ21qVHNZSFhYdXJsVEpkOXV0enFDaHp3Z2pHSmxoVnZoUzhPVHRmUkY5bzkzV01KdFhRUlRKN1Iya0kxMVdVcnpmVVBRVlp1S1lnUE94N2E4OGVZWldMSk8zeW9DbnN5T2paejRrLTRRbkp2dWFRYkYtelAtc00wSnBMa01vSVpqaGhoSTB5UDA4SGs5RlRob09UNzZJeTlfeFNQVWFPdnpZNTEyWUNVYTJiWUVLbDdJcnUxSmlx?oc=5",
       "published_at": "2026-09-22",
       "source": "Tom's Hardware"
-    },
-    {
-      "product": "NAND",
-      "metric": "unknown",
-      "direction": "unknown",
-      "change_pct": "",
-      "period": "unknown",
-      "sentence": "SK Hynix’s Flash Memory Unit Said to Pick Banks for 2027 US IPO - Bloomberg.com",
-      "supply_signal": "unknown",
-      "hbm_signals": [],
-      "demand_signals": [],
-      "capex_signals": [],
-      "risk_signals": [],
-      "title": "SK Hynix’s Flash Memory Unit Said to Pick Banks for 2027 US IPO - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjdxcDBDTmh4V0ZGU2xQdkQtdmR0N1RhMWMzaGZVTkFvVkg2RHJ4cFZuanZPRGZaWTRUUFJUa3U3WEhZMUVUUkRqbWM0RUNwTkxNdDhNUktpWTdEV002YnlkS1Bxd1BIV2t6Tnd5TjdNVUY5MzAweVAxUldrVEtlOTJMLTZfSnZhMmdpMDI1cTFkR2ZKLUptZmRhRVAxM1V0d3pGaEY3aU9VaVFtUFZmOGxUUQ?oc=5",
-      "published_at": "Wed, 07 Oct 2026 21:29:18 GMT",
-      "source": "KeyStock:SK hynix"
     }
   ]
 }
