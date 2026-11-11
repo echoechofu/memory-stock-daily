@@ -1,0 +1,869 @@
+{
+  "dram": {
+    "status": "up",
+    "evidence": [
+      {
+        "title": "Weekly Radar 009: U.S.-China Demand Diverges Across DRAM and eSSD - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OMlRxZkpZR2VtRVR6VVZ6aW5fNVZlT3FqLTZlMDFQekw3OUtDbUthWjBzeDAweE9tNmRNNERQVjAyeXFyWHowSFl4Y01VY1VEdWhrakZNY25ab2I3VGtz?oc=5",
+        "published_at": "2026-11-09",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Weekly Radar 009: U.S.-China Demand Diverges Across DRAM and eSSD - TrendForce",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
+        "title": "Persistently High DRAM Prices Drive Adoption of Reballed Memory, with Smartphone Penetration Expected to Reach 7–9% in 2027, Says TrendForce - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVjdQRU1FR3FGYWtsT0RuU2M0M1JVaXhNbm42VHpzM3p0OVAxOHdpZU03emw0QWlFLUlBeXdRNzdvaEh6WGFLZHNQdTEyNl9FMVRlRUJkZHFTN3d1eGljNkV6TmVRb1ZVN182TnA3cTY?oc=5",
+        "published_at": "2026-11-06",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Persistently High DRAM Prices Drive Adoption of Reballed Memory, with Smartphone Penetration Expected to Reach 7–9% in 2027, Says TrendForce - TrendForce",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
+        "title": "Weekly Radar 005: AI Demand Pulls DRAM Supply Toward Servers - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wTG5DV3A3c1RlRDZkMGJQSklZeTRmTGFwUEQ5YkhYaE04dERpSFZ2VkNjQnFERnJMTGxoT2J3NXAtZy1lb1NVOE5vdmxnWHdhX1Z5RE5lM05udE0wT0NV?oc=5",
+        "published_at": "2026-10-12",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Weekly Radar 005: AI Demand Pulls DRAM Supply Toward Servers - TrendForce",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": [
+          "AI demand"
+        ]
+      },
+      {
+        "title": "DRAM Contract Price Oct. 2026 - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oRXQtWTJWck9wWXN2bS1HV3BfcktlZExUS1hzYWtLcndtYmZXU0xFaTlsaE5mRjFycUI3QnlCQnpzMkk3aTN0UG9wRHYyVmxTb1hOT0dpeWhPeWFjN2FremhXNTNIZw?oc=5",
+        "published_at": "2026-10-30",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "DRAM Contract Price Oct. 2026 - TrendForce",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
+        "title": "[News] DRAM Prices Seen Rising 20% QoQ in 4Q26 Despite Slower Gains; AI Demand, Tight Supply Support Outlook - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV3lnMFNjd3BkNzVHMXdDUVhoZHA0MmhLSnI0TUkteEJFQ0dEUVdnVjdTSE14R2p4TG03dGZRUEpBMWx6bGYzNklNcjBNRjd1RXotcXM5MkNkNzNuZ3hfOVdpTVp4bTJ3cVJ6QUlsYmpXZElxVXZuenlBamY2T1VGc2dJeVVQZ19NUEFUQXlVbUN5VlBIUkozRGFDVzduQlNDNm9CaHFlektTUTVOSVh0NTczZm5paWx3R3FjQXhqbGFXckdHREVvVXhUSVB0YkhRd1N4bUNVLVhJT293Z3FZeg?oc=5",
+        "published_at": "2026-10-20",
+        "direction": "up",
+        "change_pct": "20",
+        "period": "QoQ",
+        "sentence": "[news] dram prices seen rising 20% qoq in 4q26 despite slower gains; ai demand, tight supply support outlook - trendforce [news] dram ",
+        "supply_signal": "tight",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": [
+          "AI demand"
+        ]
+      },
+      {
+        "title": "DRAM Prices Rise 10-15% in Q4 as DDR5 Hits $450 [2026] - shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUXB3TVZFakZ4R3Nna0F6RE9uUlZuQ1lfQkNxWGhJa3p2d3ExeUNwLTd3MDBTekNaZzR0bGFXTk9leE5lUUpVZEFZY09kN3ZaeGpmcmM0VkhtUmVMTlhVVU5PUDd4RUJUU2pkMld6bFJxTS1QaWQxZFJjYWJXZDR6WkEzbw?oc=5",
+        "published_at": "2026-11-01",
+        "direction": "up",
+        "change_pct": "15",
+        "period": "QoQ",
+        "sentence": "dram prices rise 10-15% in q4 as ddr5 hits $450 [2026] - shattered.io dram prices rise 10-15% in q4 as ddr5 hits $450 [2026]&nbsp;&nbsp;shattered.io dram prices rise 10-15% in q4 as ddr5 hits $450 [2",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
+        "title": "PC RAM Prices Climb Again in Q4 as 32GB DDR5 Bottoms Out at A$539 in Australia - Shane the Gamer",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHFETUdTM05RQk12dEdFYVF4dklCSjBvR3lTb2ZBb1JHMVRLb1BvNkktZUYyS0dBemVtY2VfWFBrMkQtTmpjY0hmU1N1WDZSa0FUT2J4UW82SkVkcm96OUp1Nk1xY3pzUTJGMHRVUHFDdEtQNUdRc2NSZURXa2J5emhSeVcwM1BhQnZrM0Ywa1JhQ0xsMHUtVnMyVU5uM2RZSHNWVkJOZjdnLXFQUmJ2cG9FMA?oc=5",
+        "published_at": "2026-11-09",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "PC RAM Prices Climb Again in Q4 as 32GB DDR5 Bottoms Out at A$539 in Australia - Shane the Gamer",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
+        "title": "DDR5 RAM Price: $8.70 Chip Now $48, Up 450% [2026] - shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcUJPRTJqd05IZ0p5VFNXeVczVHg4WXhMeDhDVmVMTXRmYmprNzNCM1d5ajZDTjF1Uk9ReWd6UUJLMm94T2Fwc1FxVGVSUThsR0ZSd1FsczZjaHE2WnpkRkJfanFEa3hVODNYenRfQ0RsaUkzRVZ3Vlg1ZkU5d3hVUkxCR3psTWhzZnhOVA?oc=5",
+        "published_at": "2026-11-07",
+        "direction": "up",
+        "change_pct": "450",
+        "period": "QoQ",
+        "sentence": "ddr5 ram price: $8.70 chip now $48, up 450% [2026] - shattered.io ddr5 ram price: $8.70 chip now $48, up 450% [2026]&nbsp;&nbsp;shattered.io dd",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
+        "title": "Dell CEO warns memory shortage will worsen as $95 billion AI server order backlog awaits DRAM and HBM - TweakTown",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGZReFZYV011bGNseFdfT1RfamJ5ZDNwYndoMVpfNEVtYk9YTVFjdi1oS3Zxb3VWUlVHU0o3ZEt4Szk2NHRseFgweTB5MV9qR0VEM09La3dPSDBLWGxrUzA0ZkQ3bE4wbWRSRHZ3cFkzaUZEYjRzVTF1eHNUYTVfWVlUZFNiRllkcDRJSTh3ZWVDQVU0eDl5czk3amZwR0w3dkdpdlh1N1NyN0UwT0lKQ2tSTGNoQngxOTM3cHZFRlczc0ozRWhQUjlfS0ZUcUpKNk9UczM2WEt1blFpWVRGSU1BcXZTYmp1VDRGcw?oc=5",
+        "published_at": "2026-10-21",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Dell CEO warns memory shortage will worsen as $95 billion AI server order backlog awaits DRAM and HBM - TweakTown",
+        "supply_signal": "tight",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": [
+          "AI server"
+        ]
+      },
+      {
+        "title": "DRAM Wafer Revenue Tops $80,000, Outshining TSMC's 2nm Foundry Price - BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zRU5hT0N6UWhuWlp3aWlTVFc4NkF0eHpYWXdvSDEyaUFGRmh3bm9kMzkyT1FHdnU5LTEtMDk2WjBYSTlPZ3FRVk4yV3F1YkZ0WE1USWdoTEdaUzl5QVk0ajJobVNkeXN5MF9Da3U2QUxVMkRNYnc?oc=5",
+        "published_at": "2026-11-05",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "DRAM Wafer Revenue Tops $80,000, Outshining TSMC's 2nm Foundry Price - BigGo Finance",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
+        "title": "TrendForce expects declining global laptop shipments to slow manufacturing exodus from China — rising CPU, DRAM, and SSD costs will make up 68% of mainstream notebook BOM - Tom's Hardware",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXdvWjhrQ3dfS3VWNFN6Z0gwaFpPWkw4RTFhMEc1aFZra1lVb2J3X1ptYVBBM2ptNFJIUEE3OVdobUxtNmVLV0JVS3hacXhoNE51RTd2Q2wtcHRFbU91Q3BnOUZWQkpycHMyb04yUmI2NE9DZjJzS1o0ZEV1R0MwT2o3WW42QXk1OFdSUjdKdk1ScnVyVlF3UllWMElua3lrbHAtdm5JQnBjMkIyYy1wYjY0M0RkVG5ONFQ5eHdncW90c0tmTERsdlhPMVk0QVVyT1NGMXNaMFo3TkYtcUREQmdhTUtfUy1YYlhhY0FxeXdvZGZXbGFlSmQ2N2laTm1lNU0tWFlaSFVXOERuSF9xdjdXNlJac2RCUTZQVk93TjZrdG50SzZhRXhRNy1mdGdnQ0VIcw?oc=5",
+        "published_at": "2026-10-12",
+        "direction": "up",
+        "change_pct": "68",
+        "period": "QoQ",
+        "sentence": "laptop shipments to slow manufacturing exodus from china — rising cpu, dram, and ssd costs will make up 68% of mainstream notebook bom - tom's hardware trendforce expects declining global laptop shipm",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
+        "title": "DRAM Prices Reach New Record in October - Businesskorea",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52MHJORjA2eUp3aWttNVVVbG1zWHBfLTFSMTdHazZNRlVMVFU5YXdwTy04UXo3dk9uSXV4dXV5SGlQLWxpdUNjQXVFR2xZb2ZIejZpSjRsYmJwczY1Z2JhdnRVd0NDSTVmeGpEMkgyNnVnRGRE?oc=5",
+        "published_at": "2026-10-30",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "DRAM Prices Reach New Record in October - Businesskorea",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      }
+    ],
+    "signals": [
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Weekly Radar 009: U.S.-China Demand Diverges Across DRAM and eSSD - TrendForce",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "Weekly Radar 009: U.S.-China Demand Diverges Across DRAM and eSSD - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OMlRxZkpZR2VtRVR6VVZ6aW5fNVZlT3FqLTZlMDFQekw3OUtDbUthWjBzeDAweE9tNmRNNERQVjAyeXFyWHowSFl4Y01VY1VEdWhrakZNY25ab2I3VGtz?oc=5",
+        "published_at": "2026-11-09",
+        "source": "TrendForce"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Persistently High DRAM Prices Drive Adoption of Reballed Memory, with Smartphone Penetration Expected to Reach 7–9% in 2027, Says TrendForce - TrendForce",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "Persistently High DRAM Prices Drive Adoption of Reballed Memory, with Smartphone Penetration Expected to Reach 7–9% in 2027, Says TrendForce - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVjdQRU1FR3FGYWtsT0RuU2M0M1JVaXhNbm42VHpzM3p0OVAxOHdpZU03emw0QWlFLUlBeXdRNzdvaEh6WGFLZHNQdTEyNl9FMVRlRUJkZHFTN3d1eGljNkV6TmVRb1ZVN182TnA3cTY?oc=5",
+        "published_at": "2026-11-06",
+        "source": "TrendForce"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Weekly Radar 005: AI Demand Pulls DRAM Supply Toward Servers - TrendForce",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [
+          "AI demand"
+        ],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "Weekly Radar 005: AI Demand Pulls DRAM Supply Toward Servers - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wTG5DV3A3c1RlRDZkMGJQSklZeTRmTGFwUEQ5YkhYaE04dERpSFZ2VkNjQnFERnJMTGxoT2J3NXAtZy1lb1NVOE5vdmxnWHdhX1Z5RE5lM05udE0wT0NV?oc=5",
+        "published_at": "2026-10-12",
+        "source": "TrendForce"
+      },
+      {
+        "product": "DRAM",
+        "metric": "contract price",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "DRAM Contract Price Oct. 2026 - TrendForce",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "DRAM Contract Price Oct. 2026 - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oRXQtWTJWck9wWXN2bS1HV3BfcktlZExUS1hzYWtLcndtYmZXU0xFaTlsaE5mRjFycUI3QnlCQnpzMkk3aTN0UG9wRHYyVmxTb1hOT0dpeWhPeWFjN2FremhXNTNIZw?oc=5",
+        "published_at": "2026-10-30",
+        "source": "TrendForce"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "up",
+        "change_pct": "20",
+        "period": "QoQ",
+        "sentence": "[news] dram prices seen rising 20% qoq in 4q26 despite slower gains; ai demand, tight supply support outlook - trendforce [news] dram ",
+        "supply_signal": "tight",
+        "hbm_signals": [],
+        "demand_signals": [
+          "AI demand"
+        ],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "[News] DRAM Prices Seen Rising 20% QoQ in 4Q26 Despite Slower Gains; AI Demand, Tight Supply Support Outlook - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV3lnMFNjd3BkNzVHMXdDUVhoZHA0MmhLSnI0TUkteEJFQ0dEUVdnVjdTSE14R2p4TG03dGZRUEpBMWx6bGYzNklNcjBNRjd1RXotcXM5MkNkNzNuZ3hfOVdpTVp4bTJ3cVJ6QUlsYmpXZElxVXZuenlBamY2T1VGc2dJeVVQZ19NUEFUQXlVbUN5VlBIUkozRGFDVzduQlNDNm9CaHFlektTUTVOSVh0NTczZm5paWx3R3FjQXhqbGFXckdHREVvVXhUSVB0YkhRd1N4bUNVLVhJT293Z3FZeg?oc=5",
+        "published_at": "2026-10-20",
+        "source": "TrendForce"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "up",
+        "change_pct": "15",
+        "period": "QoQ",
+        "sentence": "dram prices rise 10-15% in q4 as ddr5 hits $450 [2026] - shattered.io dram prices rise 10-15% in q4 as ddr5 hits $450 [2026]&nbsp;&nbsp;shattered.io dram prices rise 10-15% in q4 as ddr5 hits $450 [2",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "DRAM Prices Rise 10-15% in Q4 as DDR5 Hits $450 [2026] - shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUXB3TVZFakZ4R3Nna0F6RE9uUlZuQ1lfQkNxWGhJa3p2d3ExeUNwLTd3MDBTekNaZzR0bGFXTk9leE5lUUpVZEFZY09kN3ZaeGpmcmM0VkhtUmVMTlhVVU5PUDd4RUJUU2pkMld6bFJxTS1QaWQxZFJjYWJXZDR6WkEzbw?oc=5",
+        "published_at": "2026-11-01",
+        "source": "shattered.io"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "PC RAM Prices Climb Again in Q4 as 32GB DDR5 Bottoms Out at A$539 in Australia - Shane the Gamer",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "PC RAM Prices Climb Again in Q4 as 32GB DDR5 Bottoms Out at A$539 in Australia - Shane the Gamer",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHFETUdTM05RQk12dEdFYVF4dklCSjBvR3lTb2ZBb1JHMVRLb1BvNkktZUYyS0dBemVtY2VfWFBrMkQtTmpjY0hmU1N1WDZSa0FUT2J4UW82SkVkcm96OUp1Nk1xY3pzUTJGMHRVUHFDdEtQNUdRc2NSZURXa2J5emhSeVcwM1BhQnZrM0Ywa1JhQ0xsMHUtVnMyVU5uM2RZSHNWVkJOZjdnLXFQUmJ2cG9FMA?oc=5",
+        "published_at": "2026-11-09",
+        "source": "Shane the Gamer"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "up",
+        "change_pct": "450",
+        "period": "QoQ",
+        "sentence": "ddr5 ram price: $8.70 chip now $48, up 450% [2026] - shattered.io ddr5 ram price: $8.70 chip now $48, up 450% [2026]&nbsp;&nbsp;shattered.io dd",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "DDR5 RAM Price: $8.70 Chip Now $48, Up 450% [2026] - shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcUJPRTJqd05IZ0p5VFNXeVczVHg4WXhMeDhDVmVMTXRmYmprNzNCM1d5ajZDTjF1Uk9ReWd6UUJLMm94T2Fwc1FxVGVSUThsR0ZSd1FsczZjaHE2WnpkRkJfanFEa3hVODNYenRfQ0RsaUkzRVZ3Vlg1ZkU5d3hVUkxCR3psTWhzZnhOVA?oc=5",
+        "published_at": "2026-11-07",
+        "source": "shattered.io"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Dell CEO warns memory shortage will worsen as $95 billion AI server order backlog awaits DRAM and HBM - TweakTown",
+        "supply_signal": "tight",
+        "hbm_signals": [],
+        "demand_signals": [
+          "AI server"
+        ],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "Dell CEO warns memory shortage will worsen as $95 billion AI server order backlog awaits DRAM and HBM - TweakTown",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGZReFZYV011bGNseFdfT1RfamJ5ZDNwYndoMVpfNEVtYk9YTVFjdi1oS3Zxb3VWUlVHU0o3ZEt4Szk2NHRseFgweTB5MV9qR0VEM09La3dPSDBLWGxrUzA0ZkQ3bE4wbWRSRHZ3cFkzaUZEYjRzVTF1eHNUYTVfWVlUZFNiRllkcDRJSTh3ZWVDQVU0eDl5czk3amZwR0w3dkdpdlh1N1NyN0UwT0lKQ2tSTGNoQngxOTM3cHZFRlczc0ozRWhQUjlfS0ZUcUpKNk9UczM2WEt1blFpWVRGSU1BcXZTYmp1VDRGcw?oc=5",
+        "published_at": "2026-10-21",
+        "source": "TweakTown"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "DRAM Wafer Revenue Tops $80,000, Outshining TSMC's 2nm Foundry Price - BigGo Finance",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "DRAM Wafer Revenue Tops $80,000, Outshining TSMC's 2nm Foundry Price - BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zRU5hT0N6UWhuWlp3aWlTVFc4NkF0eHpYWXdvSDEyaUFGRmh3bm9kMzkyT1FHdnU5LTEtMDk2WjBYSTlPZ3FRVk4yV3F1YkZ0WE1USWdoTEdaUzl5QVk0ajJobVNkeXN5MF9Da3U2QUxVMkRNYnc?oc=5",
+        "published_at": "2026-11-05",
+        "source": "BigGo Finance"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "up",
+        "change_pct": "68",
+        "period": "QoQ",
+        "sentence": "laptop shipments to slow manufacturing exodus from china — rising cpu, dram, and ssd costs will make up 68% of mainstream notebook bom - tom's hardware trendforce expects declining global laptop shipm",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "TrendForce expects declining global laptop shipments to slow manufacturing exodus from China — rising CPU, DRAM, and SSD costs will make up 68% of mainstream notebook BOM - Tom's Hardware",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXdvWjhrQ3dfS3VWNFN6Z0gwaFpPWkw4RTFhMEc1aFZra1lVb2J3X1ptYVBBM2ptNFJIUEE3OVdobUxtNmVLV0JVS3hacXhoNE51RTd2Q2wtcHRFbU91Q3BnOUZWQkpycHMyb04yUmI2NE9DZjJzS1o0ZEV1R0MwT2o3WW42QXk1OFdSUjdKdk1ScnVyVlF3UllWMElua3lrbHAtdm5JQnBjMkIyYy1wYjY0M0RkVG5ONFQ5eHdncW90c0tmTERsdlhPMVk0QVVyT1NGMXNaMFo3TkYtcUREQmdhTUtfUy1YYlhhY0FxeXdvZGZXbGFlSmQ2N2laTm1lNU0tWFlaSFVXOERuSF9xdjdXNlJac2RCUTZQVk93TjZrdG50SzZhRXhRNy1mdGdnQ0VIcw?oc=5",
+        "published_at": "2026-10-12",
+        "source": "Tom's Hardware"
+      },
+      {
+        "product": "DRAM",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "DRAM Prices Reach New Record in October - Businesskorea",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "DRAM Prices Reach New Record in October - Businesskorea",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52MHJORjA2eUp3aWttNVVVbG1zWHBfLTFSMTdHazZNRlVMVFU5YXdwTy04UXo3dk9uSXV4dXV5SGlQLWxpdUNjQXVFR2xZb2ZIejZpSjRsYmJwczY1Z2JhdnRVd0NDSTVmeGpEMkgyNnVnRGRE?oc=5",
+        "published_at": "2026-10-30",
+        "source": "Businesskorea"
+      }
+    ]
+  },
+  "nand": {
+    "status": "up",
+    "evidence": [
+      {
+        "title": "TrendForce expects declining global laptop shipments to slow manufacturing exodus from China — rising CPU, DRAM, and SSD costs will make up 68% of mainstream notebook BOM - Tom's Hardware",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXdvWjhrQ3dfS3VWNFN6Z0gwaFpPWkw4RTFhMEc1aFZra1lVb2J3X1ptYVBBM2ptNFJIUEE3OVdobUxtNmVLV0JVS3hacXhoNE51RTd2Q2wtcHRFbU91Q3BnOUZWQkpycHMyb04yUmI2NE9DZjJzS1o0ZEV1R0MwT2o3WW42QXk1OFdSUjdKdk1ScnVyVlF3UllWMElua3lrbHAtdm5JQnBjMkIyYy1wYjY0M0RkVG5ONFQ5eHdncW90c0tmTERsdlhPMVk0QVVyT1NGMXNaMFo3TkYtcUREQmdhTUtfUy1YYlhhY0FxeXdvZGZXbGFlSmQ2N2laTm1lNU0tWFlaSFVXOERuSF9xdjdXNlJac2RCUTZQVk93TjZrdG50SzZhRXhRNy1mdGdnQ0VIcw?oc=5",
+        "published_at": "2026-10-12",
+        "direction": "up",
+        "change_pct": "68",
+        "period": "QoQ",
+        "sentence": "laptop shipments to slow manufacturing exodus from china — rising cpu, dram, and ssd costs will make up 68% of mainstream notebook bom - tom's hardware trendforce expects declining global laptop shipm",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      },
+      {
+        "title": "Samsung, SK hynix NAND Profits Seen Surging Up to 40-Fold - Businesskorea",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lVFE2d3pDdTZpMmhwN3cwNjg3ei14emlYVGxkOHppbjRfMkZpemVSbmNXVFg5d2RzcHJJMUNYR0Q3TUZEYy1NcmFwRkVQOTd5MFJNN0pTMWR0a2Q3Vlg3ei1ubE4yamVmbW9sUXI5d1dnMDlB?oc=5",
+        "published_at": "2026-10-12",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Samsung, SK hynix NAND Profits Seen Surging Up to 40-Fold - Businesskorea",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": []
+      }
+    ],
+    "signals": [
+      {
+        "product": "NAND",
+        "metric": "unknown",
+        "direction": "up",
+        "change_pct": "68",
+        "period": "QoQ",
+        "sentence": "laptop shipments to slow manufacturing exodus from china — rising cpu, dram, and ssd costs will make up 68% of mainstream notebook bom - tom's hardware trendforce expects declining global laptop shipm",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "TrendForce expects declining global laptop shipments to slow manufacturing exodus from China — rising CPU, DRAM, and SSD costs will make up 68% of mainstream notebook BOM - Tom's Hardware",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXdvWjhrQ3dfS3VWNFN6Z0gwaFpPWkw4RTFhMEc1aFZra1lVb2J3X1ptYVBBM2ptNFJIUEE3OVdobUxtNmVLV0JVS3hacXhoNE51RTd2Q2wtcHRFbU91Q3BnOUZWQkpycHMyb04yUmI2NE9DZjJzS1o0ZEV1R0MwT2o3WW42QXk1OFdSUjdKdk1ScnVyVlF3UllWMElua3lrbHAtdm5JQnBjMkIyYy1wYjY0M0RkVG5ONFQ5eHdncW90c0tmTERsdlhPMVk0QVVyT1NGMXNaMFo3TkYtcUREQmdhTUtfUy1YYlhhY0FxeXdvZGZXbGFlSmQ2N2laTm1lNU0tWFlaSFVXOERuSF9xdjdXNlJac2RCUTZQVk93TjZrdG50SzZhRXhRNy1mdGdnQ0VIcw?oc=5",
+        "published_at": "2026-10-12",
+        "source": "Tom's Hardware"
+      },
+      {
+        "product": "NAND",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Samsung, SK hynix NAND Profits Seen Surging Up to 40-Fold - Businesskorea",
+        "supply_signal": "unknown",
+        "hbm_signals": [],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "Samsung, SK hynix NAND Profits Seen Surging Up to 40-Fold - Businesskorea",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lVFE2d3pDdTZpMmhwN3cwNjg3ei14emlYVGxkOHppbjRfMkZpemVSbmNXVFg5d2RzcHJJMUNYR0Q3TUZEYy1NcmFwRkVQOTd5MFJNN0pTMWR0a2Q3Vlg3ei1ubE4yamVmbW9sUXI5d1dnMDlB?oc=5",
+        "published_at": "2026-10-12",
+        "source": "Businesskorea"
+      }
+    ]
+  },
+  "hbm": {
+    "status": "up",
+    "evidence": [
+      {
+        "title": "Samsung Sells Out 2027 HBM as HBM4 Sales Triple [2026] - shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdjBtenp5UGRZalFEbF8wVU54REYyRlFFNUtsZFpEaThEVUJIcV9Ia2QtcjJwUXVYLUpGbEhwX3dJU3JpU2o0TkRDWGlfV2YzZ0FOdk81WHJ0V1NBd2dDdmk0WVh3cUpsRDhVQkNneXhuOWdsU0cyZVZNQWM0bENNVl9wV2dKZjgzN0d6dkZpUVZEQQ?oc=5",
+        "published_at": "2026-11-03",
+        "direction": "up",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "samsung sells out 2027 hbm as hbm4 sales triple [2026] - shattered.io samsung sells out 2027 hbm as hbm4 sales triple [2026]&nbsp;&nbsp;shattered.io samsung sells out 2027 hbm as hbm4 sales triple",
+        "supply_signal": "unknown",
+        "risk_signals": [],
+        "hbm_signals": [
+          "HBM sold out"
+        ],
+        "demand_signals": []
+      }
+    ],
+    "signals": [
+      {
+        "product": "HBM",
+        "metric": "unknown",
+        "direction": "up",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "samsung sells out 2027 hbm as hbm4 sales triple [2026] - shattered.io samsung sells out 2027 hbm as hbm4 sales triple [2026]&nbsp;&nbsp;shattered.io samsung sells out 2027 hbm as hbm4 sales triple",
+        "supply_signal": "unknown",
+        "hbm_signals": [
+          "HBM sold out"
+        ],
+        "demand_signals": [],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "Samsung Sells Out 2027 HBM as HBM4 Sales Triple [2026] - shattered.io",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdjBtenp5UGRZalFEbF8wVU54REYyRlFFNUtsZFpEaThEVUJIcV9Ia2QtcjJwUXVYLUpGbEhwX3dJU3JpU2o0TkRDWGlfV2YzZ0FOdk81WHJ0V1NBd2dDdmk0WVh3cUpsRDhVQkNneXhuOWdsU0cyZVZNQWM0bENNVl9wV2dKZjgzN0d6dkZpUVZEQQ?oc=5",
+        "published_at": "2026-11-03",
+        "source": "shattered.io"
+      }
+    ]
+  },
+  "capex": {
+    "status": "tight",
+    "evidence": [
+      {
+        "title": "[News] DRAM Prices Seen Rising 20% QoQ in 4Q26 Despite Slower Gains; AI Demand, Tight Supply Support Outlook - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV3lnMFNjd3BkNzVHMXdDUVhoZHA0MmhLSnI0TUkteEJFQ0dEUVdnVjdTSE14R2p4TG03dGZRUEpBMWx6bGYzNklNcjBNRjd1RXotcXM5MkNkNzNuZ3hfOVdpTVp4bTJ3cVJ6QUlsYmpXZElxVXZuenlBamY2T1VGc2dJeVVQZ19NUEFUQXlVbUN5VlBIUkozRGFDVzduQlNDNm9CaHFlektTUTVOSVh0NTczZm5paWx3R3FjQXhqbGFXckdHREVvVXhUSVB0YkhRd1N4bUNVLVhJT293Z3FZeg?oc=5",
+        "supply_signal": "tight",
+        "sentence": "[news] dram prices seen rising 20% qoq in 4q26 despite slower gains; ai demand, tight supply support outlook - trendforce [news] dram ",
+        "direction": "up",
+        "change_pct": "20",
+        "period": "QoQ",
+        "risk_signals": []
+      },
+      {
+        "title": "Dell CEO warns memory shortage will worsen as $95 billion AI server order backlog awaits DRAM and HBM - TweakTown",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGZReFZYV011bGNseFdfT1RfamJ5ZDNwYndoMVpfNEVtYk9YTVFjdi1oS3Zxb3VWUlVHU0o3ZEt4Szk2NHRseFgweTB5MV9qR0VEM09La3dPSDBLWGxrUzA0ZkQ3bE4wbWRSRHZ3cFkzaUZEYjRzVTF1eHNUYTVfWVlUZFNiRllkcDRJSTh3ZWVDQVU0eDl5czk3amZwR0w3dkdpdlh1N1NyN0UwT0lKQ2tSTGNoQngxOTM3cHZFRlczc0ozRWhQUjlfS0ZUcUpKNk9UczM2WEt1blFpWVRGSU1BcXZTYmp1VDRGcw?oc=5",
+        "supply_signal": "tight",
+        "sentence": "Dell CEO warns memory shortage will worsen as $95 billion AI server order backlog awaits DRAM and HBM - TweakTown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "risk_signals": []
+      }
+    ],
+    "signals": []
+  },
+  "downstream": {
+    "status": "ai_driven",
+    "evidence": [
+      {
+        "title": "Dell CEO warns memory shortage will worsen as $95 billion AI server order backlog awaits DRAM and HBM - TweakTown",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGZReFZYV011bGNseFdfT1RfamJ5ZDNwYndoMVpfNEVtYk9YTVFjdi1oS3Zxb3VWUlVHU0o3ZEt4Szk2NHRseFgweTB5MV9qR0VEM09La3dPSDBLWGxrUzA0ZkQ3bE4wbWRSRHZ3cFkzaUZEYjRzVTF1eHNUYTVfWVlUZFNiRllkcDRJSTh3ZWVDQVU0eDl5czk3amZwR0w3dkdpdlh1N1NyN0UwT0lKQ2tSTGNoQngxOTM3cHZFRlczc0ozRWhQUjlfS0ZUcUpKNk9UczM2WEt1blFpWVRGSU1BcXZTYmp1VDRGcw?oc=5",
+        "published_at": "2026-10-21",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Dell CEO warns memory shortage will worsen as $95 billion AI server order backlog awaits DRAM and HBM - TweakTown",
+        "supply_signal": "tight",
+        "risk_signals": [],
+        "hbm_signals": [],
+        "demand_signals": [
+          "AI server"
+        ]
+      },
+      {
+        "title": "Weekly Radar 005: AI Demand Pulls DRAM Supply Toward Servers - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wTG5DV3A3c1RlRDZkMGJQSklZeTRmTGFwUEQ5YkhYaE04dERpSFZ2VkNjQnFERnJMTGxoT2J3NXAtZy1lb1NVOE5vdmxnWHdhX1Z5RE5lM05udE0wT0NV?oc=5",
+        "demand": [
+          "AI demand"
+        ],
+        "sentence": "Weekly Radar 005: AI Demand Pulls DRAM Supply Toward Servers - TrendForce",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "risk_signals": []
+      },
+      {
+        "title": "[News] DRAM Prices Seen Rising 20% QoQ in 4Q26 Despite Slower Gains; AI Demand, Tight Supply Support Outlook - TrendForce",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV3lnMFNjd3BkNzVHMXdDUVhoZHA0MmhLSnI0TUkteEJFQ0dEUVdnVjdTSE14R2p4TG03dGZRUEpBMWx6bGYzNklNcjBNRjd1RXotcXM5MkNkNzNuZ3hfOVdpTVp4bTJ3cVJ6QUlsYmpXZElxVXZuenlBamY2T1VGc2dJeVVQZ19NUEFUQXlVbUN5VlBIUkozRGFDVzduQlNDNm9CaHFlektTUTVOSVh0NTczZm5paWx3R3FjQXhqbGFXckdHREVvVXhUSVB0YkhRd1N4bUNVLVhJT293Z3FZeg?oc=5",
+        "demand": [
+          "AI demand"
+        ],
+        "sentence": "[news] dram prices seen rising 20% qoq in 4q26 despite slower gains; ai demand, tight supply support outlook - trendforce [news] dram ",
+        "direction": "up",
+        "change_pct": "20",
+        "period": "QoQ",
+        "risk_signals": []
+      }
+    ],
+    "signals": [
+      {
+        "product": "Server",
+        "metric": "unknown",
+        "direction": "unknown",
+        "change_pct": "",
+        "period": "unknown",
+        "sentence": "Dell CEO warns memory shortage will worsen as $95 billion AI server order backlog awaits DRAM and HBM - TweakTown",
+        "supply_signal": "tight",
+        "hbm_signals": [],
+        "demand_signals": [
+          "AI server"
+        ],
+        "capex_signals": [],
+        "risk_signals": [],
+        "title": "Dell CEO warns memory shortage will worsen as $95 billion AI server order backlog awaits DRAM and HBM - TweakTown",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGZReFZYV011bGNseFdfT1RfamJ5ZDNwYndoMVpfNEVtYk9YTVFjdi1oS3Zxb3VWUlVHU0o3ZEt4Szk2NHRseFgweTB5MV9qR0VEM09La3dPSDBLWGxrUzA0ZkQ3bE4wbWRSRHZ3cFkzaUZEYjRzVTF1eHNUYTVfWVlUZFNiRllkcDRJSTh3ZWVDQVU0eDl5czk3amZwR0w3dkdpdlh1N1NyN0UwT0lKQ2tSTGNoQngxOTM3cHZFRlczc0ozRWhQUjlfS0ZUcUpKNk9UczM2WEt1blFpWVRGSU1BcXZTYmp1VDRGcw?oc=5",
+        "published_at": "2026-10-21",
+        "source": "TweakTown"
+      }
+    ]
+  },
+  "earnings_revision": {
+    "status": "unknown",
+    "evidence": [],
+    "signals": []
+  },
+  "all_signals": [
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "Weekly Radar 009: U.S.-China Demand Diverges Across DRAM and eSSD - TrendForce",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "Weekly Radar 009: U.S.-China Demand Diverges Across DRAM and eSSD - TrendForce",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9OMlRxZkpZR2VtRVR6VVZ6aW5fNVZlT3FqLTZlMDFQekw3OUtDbUthWjBzeDAweE9tNmRNNERQVjAyeXFyWHowSFl4Y01VY1VEdWhrakZNY25ab2I3VGtz?oc=5",
+      "published_at": "2026-11-09",
+      "source": "TrendForce"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "Persistently High DRAM Prices Drive Adoption of Reballed Memory, with Smartphone Penetration Expected to Reach 7–9% in 2027, Says TrendForce - TrendForce",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "Persistently High DRAM Prices Drive Adoption of Reballed Memory, with Smartphone Penetration Expected to Reach 7–9% in 2027, Says TrendForce - TrendForce",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVjdQRU1FR3FGYWtsT0RuU2M0M1JVaXhNbm42VHpzM3p0OVAxOHdpZU03emw0QWlFLUlBeXdRNzdvaEh6WGFLZHNQdTEyNl9FMVRlRUJkZHFTN3d1eGljNkV6TmVRb1ZVN182TnA3cTY?oc=5",
+      "published_at": "2026-11-06",
+      "source": "TrendForce"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "Weekly Radar 005: AI Demand Pulls DRAM Supply Toward Servers - TrendForce",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [
+        "AI demand"
+      ],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "Weekly Radar 005: AI Demand Pulls DRAM Supply Toward Servers - TrendForce",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wTG5DV3A3c1RlRDZkMGJQSklZeTRmTGFwUEQ5YkhYaE04dERpSFZ2VkNjQnFERnJMTGxoT2J3NXAtZy1lb1NVOE5vdmxnWHdhX1Z5RE5lM05udE0wT0NV?oc=5",
+      "published_at": "2026-10-12",
+      "source": "TrendForce"
+    },
+    {
+      "product": "DRAM",
+      "metric": "contract price",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "DRAM Contract Price Oct. 2026 - TrendForce",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "DRAM Contract Price Oct. 2026 - TrendForce",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oRXQtWTJWck9wWXN2bS1HV3BfcktlZExUS1hzYWtLcndtYmZXU0xFaTlsaE5mRjFycUI3QnlCQnpzMkk3aTN0UG9wRHYyVmxTb1hOT0dpeWhPeWFjN2FremhXNTNIZw?oc=5",
+      "published_at": "2026-10-30",
+      "source": "TrendForce"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "up",
+      "change_pct": "20",
+      "period": "QoQ",
+      "sentence": "[news] dram prices seen rising 20% qoq in 4q26 despite slower gains; ai demand, tight supply support outlook - trendforce [news] dram ",
+      "supply_signal": "tight",
+      "hbm_signals": [],
+      "demand_signals": [
+        "AI demand"
+      ],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "[News] DRAM Prices Seen Rising 20% QoQ in 4Q26 Despite Slower Gains; AI Demand, Tight Supply Support Outlook - TrendForce",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV3lnMFNjd3BkNzVHMXdDUVhoZHA0MmhLSnI0TUkteEJFQ0dEUVdnVjdTSE14R2p4TG03dGZRUEpBMWx6bGYzNklNcjBNRjd1RXotcXM5MkNkNzNuZ3hfOVdpTVp4bTJ3cVJ6QUlsYmpXZElxVXZuenlBamY2T1VGc2dJeVVQZ19NUEFUQXlVbUN5VlBIUkozRGFDVzduQlNDNm9CaHFlektTUTVOSVh0NTczZm5paWx3R3FjQXhqbGFXckdHREVvVXhUSVB0YkhRd1N4bUNVLVhJT293Z3FZeg?oc=5",
+      "published_at": "2026-10-20",
+      "source": "TrendForce"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "up",
+      "change_pct": "15",
+      "period": "QoQ",
+      "sentence": "dram prices rise 10-15% in q4 as ddr5 hits $450 [2026] - shattered.io dram prices rise 10-15% in q4 as ddr5 hits $450 [2026]&nbsp;&nbsp;shattered.io dram prices rise 10-15% in q4 as ddr5 hits $450 [2",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "DRAM Prices Rise 10-15% in Q4 as DDR5 Hits $450 [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUXB3TVZFakZ4R3Nna0F6RE9uUlZuQ1lfQkNxWGhJa3p2d3ExeUNwLTd3MDBTekNaZzR0bGFXTk9leE5lUUpVZEFZY09kN3ZaeGpmcmM0VkhtUmVMTlhVVU5PUDd4RUJUU2pkMld6bFJxTS1QaWQxZFJjYWJXZDR6WkEzbw?oc=5",
+      "published_at": "2026-11-01",
+      "source": "shattered.io"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "PC RAM Prices Climb Again in Q4 as 32GB DDR5 Bottoms Out at A$539 in Australia - Shane the Gamer",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "PC RAM Prices Climb Again in Q4 as 32GB DDR5 Bottoms Out at A$539 in Australia - Shane the Gamer",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHFETUdTM05RQk12dEdFYVF4dklCSjBvR3lTb2ZBb1JHMVRLb1BvNkktZUYyS0dBemVtY2VfWFBrMkQtTmpjY0hmU1N1WDZSa0FUT2J4UW82SkVkcm96OUp1Nk1xY3pzUTJGMHRVUHFDdEtQNUdRc2NSZURXa2J5emhSeVcwM1BhQnZrM0Ywa1JhQ0xsMHUtVnMyVU5uM2RZSHNWVkJOZjdnLXFQUmJ2cG9FMA?oc=5",
+      "published_at": "2026-11-09",
+      "source": "Shane the Gamer"
+    },
+    {
+      "product": "HBM",
+      "metric": "unknown",
+      "direction": "up",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "samsung sells out 2027 hbm as hbm4 sales triple [2026] - shattered.io samsung sells out 2027 hbm as hbm4 sales triple [2026]&nbsp;&nbsp;shattered.io samsung sells out 2027 hbm as hbm4 sales triple",
+      "supply_signal": "unknown",
+      "hbm_signals": [
+        "HBM sold out"
+      ],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "Samsung Sells Out 2027 HBM as HBM4 Sales Triple [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdjBtenp5UGRZalFEbF8wVU54REYyRlFFNUtsZFpEaThEVUJIcV9Ia2QtcjJwUXVYLUpGbEhwX3dJU3JpU2o0TkRDWGlfV2YzZ0FOdk81WHJ0V1NBd2dDdmk0WVh3cUpsRDhVQkNneXhuOWdsU0cyZVZNQWM0bENNVl9wV2dKZjgzN0d6dkZpUVZEQQ?oc=5",
+      "published_at": "2026-11-03",
+      "source": "shattered.io"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "up",
+      "change_pct": "450",
+      "period": "QoQ",
+      "sentence": "ddr5 ram price: $8.70 chip now $48, up 450% [2026] - shattered.io ddr5 ram price: $8.70 chip now $48, up 450% [2026]&nbsp;&nbsp;shattered.io dd",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "DDR5 RAM Price: $8.70 Chip Now $48, Up 450% [2026] - shattered.io",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcUJPRTJqd05IZ0p5VFNXeVczVHg4WXhMeDhDVmVMTXRmYmprNzNCM1d5ajZDTjF1Uk9ReWd6UUJLMm94T2Fwc1FxVGVSUThsR0ZSd1FsczZjaHE2WnpkRkJfanFEa3hVODNYenRfQ0RsaUkzRVZ3Vlg1ZkU5d3hVUkxCR3psTWhzZnhOVA?oc=5",
+      "published_at": "2026-11-07",
+      "source": "shattered.io"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "Dell CEO warns memory shortage will worsen as $95 billion AI server order backlog awaits DRAM and HBM - TweakTown",
+      "supply_signal": "tight",
+      "hbm_signals": [],
+      "demand_signals": [
+        "AI server"
+      ],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "Dell CEO warns memory shortage will worsen as $95 billion AI server order backlog awaits DRAM and HBM - TweakTown",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGZReFZYV011bGNseFdfT1RfamJ5ZDNwYndoMVpfNEVtYk9YTVFjdi1oS3Zxb3VWUlVHU0o3ZEt4Szk2NHRseFgweTB5MV9qR0VEM09La3dPSDBLWGxrUzA0ZkQ3bE4wbWRSRHZ3cFkzaUZEYjRzVTF1eHNUYTVfWVlUZFNiRllkcDRJSTh3ZWVDQVU0eDl5czk3amZwR0w3dkdpdlh1N1NyN0UwT0lKQ2tSTGNoQngxOTM3cHZFRlczc0ozRWhQUjlfS0ZUcUpKNk9UczM2WEt1blFpWVRGSU1BcXZTYmp1VDRGcw?oc=5",
+      "published_at": "2026-10-21",
+      "source": "TweakTown"
+    },
+    {
+      "product": "Server",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "Dell CEO warns memory shortage will worsen as $95 billion AI server order backlog awaits DRAM and HBM - TweakTown",
+      "supply_signal": "tight",
+      "hbm_signals": [],
+      "demand_signals": [
+        "AI server"
+      ],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "Dell CEO warns memory shortage will worsen as $95 billion AI server order backlog awaits DRAM and HBM - TweakTown",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPVGZReFZYV011bGNseFdfT1RfamJ5ZDNwYndoMVpfNEVtYk9YTVFjdi1oS3Zxb3VWUlVHU0o3ZEt4Szk2NHRseFgweTB5MV9qR0VEM09La3dPSDBLWGxrUzA0ZkQ3bE4wbWRSRHZ3cFkzaUZEYjRzVTF1eHNUYTVfWVlUZFNiRllkcDRJSTh3ZWVDQVU0eDl5czk3amZwR0w3dkdpdlh1N1NyN0UwT0lKQ2tSTGNoQngxOTM3cHZFRlczc0ozRWhQUjlfS0ZUcUpKNk9UczM2WEt1blFpWVRGSU1BcXZTYmp1VDRGcw?oc=5",
+      "published_at": "2026-10-21",
+      "source": "TweakTown"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "DRAM Wafer Revenue Tops $80,000, Outshining TSMC's 2nm Foundry Price - BigGo Finance",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "DRAM Wafer Revenue Tops $80,000, Outshining TSMC's 2nm Foundry Price - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zRU5hT0N6UWhuWlp3aWlTVFc4NkF0eHpYWXdvSDEyaUFGRmh3bm9kMzkyT1FHdnU5LTEtMDk2WjBYSTlPZ3FRVk4yV3F1YkZ0WE1USWdoTEdaUzl5QVk0ajJobVNkeXN5MF9Da3U2QUxVMkRNYnc?oc=5",
+      "published_at": "2026-11-05",
+      "source": "BigGo Finance"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "up",
+      "change_pct": "68",
+      "period": "QoQ",
+      "sentence": "laptop shipments to slow manufacturing exodus from china — rising cpu, dram, and ssd costs will make up 68% of mainstream notebook bom - tom's hardware trendforce expects declining global laptop shipm",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "TrendForce expects declining global laptop shipments to slow manufacturing exodus from China — rising CPU, DRAM, and SSD costs will make up 68% of mainstream notebook BOM - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXdvWjhrQ3dfS3VWNFN6Z0gwaFpPWkw4RTFhMEc1aFZra1lVb2J3X1ptYVBBM2ptNFJIUEE3OVdobUxtNmVLV0JVS3hacXhoNE51RTd2Q2wtcHRFbU91Q3BnOUZWQkpycHMyb04yUmI2NE9DZjJzS1o0ZEV1R0MwT2o3WW42QXk1OFdSUjdKdk1ScnVyVlF3UllWMElua3lrbHAtdm5JQnBjMkIyYy1wYjY0M0RkVG5ONFQ5eHdncW90c0tmTERsdlhPMVk0QVVyT1NGMXNaMFo3TkYtcUREQmdhTUtfUy1YYlhhY0FxeXdvZGZXbGFlSmQ2N2laTm1lNU0tWFlaSFVXOERuSF9xdjdXNlJac2RCUTZQVk93TjZrdG50SzZhRXhRNy1mdGdnQ0VIcw?oc=5",
+      "published_at": "2026-10-12",
+      "source": "Tom's Hardware"
+    },
+    {
+      "product": "NAND",
+      "metric": "unknown",
+      "direction": "up",
+      "change_pct": "68",
+      "period": "QoQ",
+      "sentence": "laptop shipments to slow manufacturing exodus from china — rising cpu, dram, and ssd costs will make up 68% of mainstream notebook bom - tom's hardware trendforce expects declining global laptop shipm",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "TrendForce expects declining global laptop shipments to slow manufacturing exodus from China — rising CPU, DRAM, and SSD costs will make up 68% of mainstream notebook BOM - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPaXdvWjhrQ3dfS3VWNFN6Z0gwaFpPWkw4RTFhMEc1aFZra1lVb2J3X1ptYVBBM2ptNFJIUEE3OVdobUxtNmVLV0JVS3hacXhoNE51RTd2Q2wtcHRFbU91Q3BnOUZWQkpycHMyb04yUmI2NE9DZjJzS1o0ZEV1R0MwT2o3WW42QXk1OFdSUjdKdk1ScnVyVlF3UllWMElua3lrbHAtdm5JQnBjMkIyYy1wYjY0M0RkVG5ONFQ5eHdncW90c0tmTERsdlhPMVk0QVVyT1NGMXNaMFo3TkYtcUREQmdhTUtfUy1YYlhhY0FxeXdvZGZXbGFlSmQ2N2laTm1lNU0tWFlaSFVXOERuSF9xdjdXNlJac2RCUTZQVk93TjZrdG50SzZhRXhRNy1mdGdnQ0VIcw?oc=5",
+      "published_at": "2026-10-12",
+      "source": "Tom's Hardware"
+    },
+    {
+      "product": "DRAM",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "DRAM Prices Reach New Record in October - Businesskorea",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "DRAM Prices Reach New Record in October - Businesskorea",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52MHJORjA2eUp3aWttNVVVbG1zWHBfLTFSMTdHazZNRlVMVFU5YXdwTy04UXo3dk9uSXV4dXV5SGlQLWxpdUNjQXVFR2xZb2ZIejZpSjRsYmJwczY1Z2JhdnRVd0NDSTVmeGpEMkgyNnVnRGRE?oc=5",
+      "published_at": "2026-10-30",
+      "source": "Businesskorea"
+    },
+    {
+      "product": "NAND",
+      "metric": "unknown",
+      "direction": "unknown",
+      "change_pct": "",
+      "period": "unknown",
+      "sentence": "Samsung, SK hynix NAND Profits Seen Surging Up to 40-Fold - Businesskorea",
+      "supply_signal": "unknown",
+      "hbm_signals": [],
+      "demand_signals": [],
+      "capex_signals": [],
+      "risk_signals": [],
+      "title": "Samsung, SK hynix NAND Profits Seen Surging Up to 40-Fold - Businesskorea",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lVFE2d3pDdTZpMmhwN3cwNjg3ei14emlYVGxkOHppbjRfMkZpemVSbmNXVFg5d2RzcHJJMUNYR0Q3TUZEYy1NcmFwRkVQOTd5MFJNN0pTMWR0a2Q3Vlg3ei1ubE4yamVmbW9sUXI5d1dnMDlB?oc=5",
+      "published_at": "2026-10-12",
+      "source": "Businesskorea"
+    }
+  ]
+}
